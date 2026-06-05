@@ -1,0 +1,42 @@
+{
+    "created": 1751457963080,
+    "live": false,
+    "title": " Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Kinderbildungs- und ...",
+    "items": [
+      {
+        "id": 1,
+        "title": "Julia Post (BÜNDNIS 90/DIE GRÜNEN)",
+        "hls": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250702110227_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8"
+      },
+      {
+        "id": 2,
+        "title": "Melanie Huml (CSU)",
+        "hls": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250702111332_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8"
+      },
+      {
+        "id": 3,
+        "title": "Elena Roon (AfD)",
+        "hls": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250702112307_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8"
+      },
+      {
+        "id": 4,
+        "title": "Julia Post (BÜNDNIS 90/DIE GRÜNEN)",
+        "hls": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250702112832_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8"
+      },
+      {
+        "id": 5,
+        "title": "Elena Roon (AfD)",
+        "hls": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250702112853_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8"
+      },
+      {
+        "id": 6,
+        "title": "Anton Rittel (FREIE WÄHLER)",
+        "hls": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250702112908_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8"
+      },
+      {
+        "id": 7,
+        "title": "Doris Rauscher (SPD)",
+        "hls": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250702113423_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8"
+      }
+    ]
+  }

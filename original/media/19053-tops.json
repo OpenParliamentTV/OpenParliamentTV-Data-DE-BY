@@ -1,0 +1,134 @@
+{
+  "session_id": "19053",
+  "date": "2025-06-24",
+  "sitzungsnr": 53,
+  "gremium_id": 613,
+  "tops": [
+    {
+      "index": 0,
+      "title": "Eröffnung 14:00 Uhr",
+      "playlist": "meta_vod_50166.json",
+      "meta_vod_url": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_624/meta_vod_50166.json",
+      "speech_count": 1
+    },
+    {
+      "index": 1,
+      "title": "TOP 1 Aktuelle Stunde auf Vorschlag der SPD-Fraktion zum Thema: \"Zukunft wird vor Ort gestaltet - mehr Geld für Städte und Gemeinden\"",
+      "playlist": "meta_vod_50144.json",
+      "meta_vod_url": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_624/meta_vod_50144.json",
+      "speech_count": 10
+    },
+    {
+      "index": 2,
+      "title": "TOP 2a) Erste Lesung zum Antrag auf Zustimmung zum Vertrag über die Errichtung, den Betrieb und die Weiterentwicklung des Nationalen Once-Only-Technical-Systems (NOOTS) - Vertrag zur Ausführung von Artikel 91c Absatz 1, Absatz 2 GG - NOOTS-Staatsvertrag",
+      "playlist": "meta_vod_50146.json",
+      "meta_vod_url": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_624/meta_vod_50146.json",
+      "speech_count": 6
+    },
+    {
+      "index": 3,
+      "title": "TOP 2b) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Gesetzes über das Erziehungs- und Unterrichtswesen",
+      "playlist": "meta_vod_50147.json",
+      "meta_vod_url": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_624/meta_vod_50147.json",
+      "speech_count": 8
+    },
+    {
+      "index": 4,
+      "title": "TOP 2c) Gesetzentwurf zur Änderung des Bayerischen Petitionsgesetzes",
+      "playlist": "meta_vod_50148.json",
+      "meta_vod_url": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_624/meta_vod_50148.json",
+      "speech_count": 10
+    },
+    {
+      "index": 5,
+      "title": "TOP 2d) Erste Lesung zum Gesetzentwurf zur Änderung des Kommunalabgabengesetzes hier: Stärkung des Steuerfindungsrechts der Kommunen und Ermöglichung eines Gästebeitrags im Tourismus",
+      "playlist": "meta_vod_50149.json",
+      "meta_vod_url": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_624/meta_vod_50149.json",
+      "speech_count": 13
+    },
+    {
+      "index": 6,
+      "title": "TOP 2e) Erste Lesung zum Antrag auf Zustimmung zum Abkommen zur Änderung des Abkommens über die Zentralstelle der Länder für Sicherheitstechnik",
+      "playlist": null,
+      "meta_vod_url": null,
+      "speech_count": 0
+    },
+    {
+      "index": 7,
+      "title": "Abstimmung Antrag auf Begründung und gemeinsame Aussprache zu TOP 3 und 4",
+      "playlist": null,
+      "meta_vod_url": null,
+      "speech_count": 0
+    },
+    {
+      "index": 8,
+      "title": "TOP 3 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags",
+      "playlist": null,
+      "meta_vod_url": null,
+      "speech_count": 0
+    },
+    {
+      "index": 9,
+      "title": "TOP 4 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags",
+      "playlist": null,
+      "meta_vod_url": null,
+      "speech_count": 0
+    },
+    {
+      "index": 10,
+      "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 5 und 6 TOP 5 Antrag Entlastung der Staatsregierung aufgrund der Haushaltsrechnung des Freistaates Bayern für das Haushaltsjahr 2023 TOP 6 Antrag Entlastung aufgrund des Beitrags zur Haushaltsrechnung 2023 für den Epl. 11",
+      "playlist": "meta_vod_50153.json",
+      "meta_vod_url": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_624/meta_vod_50153.json",
+      "speech_count": 8
+    },
+    {
+      "index": 11,
+      "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 7 bis 10 TOP 7 Antrag Für Bayerns Kitas VII - Zügige und unbürokratische Anerkennung ausländischer Abschlüsse TOP 8 Antrag Für Bayerns Kitas VIII - Fachkräfte gewinnen TOP 9 Antrag Für Bayerns Kitas IX - Stärkung der Ausbildung TOP 10 Antrag Für Bayerns Kitas X - Unterschiede in den regionalen Herausforderungen in den bayerischen Kitas herausarbeiten",
+      "playlist": "meta_vod_50156.json",
+      "meta_vod_url": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_624/meta_vod_50156.json",
+      "speech_count": 8
+    },
+    {
+      "index": 12,
+      "title": "TOP 11 Antrag Bayern trägt Verantwortung! - Unabhängige Anlaufstelle für Nachkommen der Opfer von NS-verfolgungsbedingt entzogenem Kulturgut schaffen",
+      "playlist": "meta_vod_50161.json",
+      "meta_vod_url": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_624/meta_vod_50161.json",
+      "speech_count": 8
+    },
+    {
+      "index": 13,
+      "title": "TOP 12 Antrag Experimente am Reisenden beenden - Verbrennungsmotoren beibehalten",
+      "playlist": "meta_vod_50162.json",
+      "meta_vod_url": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_624/meta_vod_50162.json",
+      "speech_count": 9
+    },
+    {
+      "index": 14,
+      "title": "TOP 13 Antrag Neutralitätspflicht in Bayerns Schulen gewährleisten",
+      "playlist": "meta_vod_50163.json",
+      "meta_vod_url": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_624/meta_vod_50163.json",
+      "speech_count": 11
+    },
+    {
+      "index": 15,
+      "title": "TOP 14 Antrag Reform des Gesetzes über die Entschädigung für Strafverfolgungsmaßnahmen (StrERG)",
+      "playlist": "meta_vod_50164.json",
+      "meta_vod_url": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_624/meta_vod_50164.json",
+      "speech_count": 5
+    },
+    {
+      "index": 16,
+      "title": "TOP 15 Antrag Schluss mit Eltern-Taxis - Sicherheit für unsere Kinder",
+      "playlist": "meta_vod_50165.json",
+      "meta_vod_url": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_624/meta_vod_50165.json",
+      "speech_count": 9
+    },
+    {
+      "index": 17,
+      "title": "Sitzungsende 21:40 Uhr",
+      "playlist": null,
+      "meta_vod_url": null,
+      "speech_count": 0
+    }
+  ]
+}

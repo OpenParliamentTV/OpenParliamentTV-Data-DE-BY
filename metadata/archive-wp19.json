@@ -1,0 +1,4782 @@
+{
+  "wp": 19,
+  "built": "2026-05-30T19:04:58",
+  "sessions": [
+    {
+      "session_id": "19080",
+      "date": "2026-05-21",
+      "gremium_id": 640,
+      "sitzungsnr": 80,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 09:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Regierungserklärung des Ministerpräsidenten"
+        },
+        {
+          "index": 2,
+          "title": "Mittagspause"
+        },
+        {
+          "index": 3,
+          "title": "TOP 2 Aktuelle Stunde auf Vorschlag der AfD-Fraktion zum Thema: \"Bayern wieder stark machen - Wohlstand, Sicherheit und Solidarität für unsere Heimat!\""
+        },
+        {
+          "index": 4,
+          "title": "TOP 3 Antragsliste Abstimmung über Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 5,
+          "title": "TOP 4 Erste Lesung zum Gesetzentwurf zur Aufhebung des Bayerischen Klimaschutzgesetzes - Streit ums Klimadatum endgültig beenden"
+        },
+        {
+          "index": 6,
+          "title": "Abstimmung Antrag auf Begründung und Aussprache zu TOP 5+6"
+        },
+        {
+          "index": 7,
+          "title": "TOP 5 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags"
+        },
+        {
+          "index": 8,
+          "title": "TOP 6 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 9,
+          "title": "TOP 7 Bestellung eines Mitglieds und eines stellvertretenden Mitglieds in die Datenschutzkommission"
+        },
+        {
+          "index": 10,
+          "title": "TOP 8 Zweite Lesung zum Antrag auf Zustimmung zum Vertrag vom 12. März 2025 zwischen der Bundesrepublik Deutschland und der Tschechischen Republik über die gemeinsame Staatsgrenze"
+        },
+        {
+          "index": 11,
+          "title": "TOP 9 Beratung der zum Plenum eingereichten Dringlichkeitsanträge"
+        },
+        {
+          "index": 12,
+          "title": "Sitzungsende 17:34 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19079",
+      "date": "2026-05-06",
+      "gremium_id": 639,
+      "sitzungsnr": 79,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 13:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1a) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Gesetzes über das Erziehungs- und Unterrichtswesen hier: Öffnungsklausel für längeres gemeinsames Lernen"
+        },
+        {
+          "index": 2,
+          "title": "TOP 1b) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Kinderbildungs- und -betreuungsgesetzes und weiterer Rechtsvorschriften"
+        },
+        {
+          "index": 3,
+          "title": "TOP 2 Antragsliste Abstimmung über Verfassungsstreitigkeiten und Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 4,
+          "title": "Abstimmung Antrag auf Begründung und Aussprache zu TOP 3+4"
+        },
+        {
+          "index": 5,
+          "title": "TOP 3 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags"
+        },
+        {
+          "index": 6,
+          "title": "TOP 4 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 7,
+          "title": "TOP 5 Berufung eines Mitglieds der Abgeordnetenrechtskommission"
+        },
+        {
+          "index": 8,
+          "title": "TOP 6 Zweite Lesung zum Gesetzentwurf zur Änderung des Kommunalabgabengesetzes"
+        },
+        {
+          "index": 9,
+          "title": "TOP 7 Zweite Lesung zum Gesetzentwurf zur Änderung des Gesetzes zur Ausführung des Flurbereinigungsgesetzes"
+        },
+        {
+          "index": 10,
+          "title": "TOP 8 Zweite Lesung zum Gesetzentwurf Bayerisches Gesetz zur erprobungsweisen Befreiung von landesrechtlichen Regelungen für Gemeinden, Landkreise und Bezirke (Bayerisches Kommunales Regelungsbefreiungsgesetz - BayKommRegBefrG)"
+        },
+        {
+          "index": 11,
+          "title": "TOP 9 Zweite Lesung zum Gesetzentwurf Bayerisches Landesbetreuungsgeldgesetz (BayLBGG)"
+        },
+        {
+          "index": 12,
+          "title": "TOP 10 Beratung der zum Plenum eingereichten Dringlichkeitsanträge"
+        },
+        {
+          "index": 13,
+          "title": "TOP 11 Antrag Sicherheitsüberprüfung und Datenabgleich bei Einbürgerungen vollständig digitalisieren und vereinheitlichen - Bundesratsinitiative des Freistaates"
+        },
+        {
+          "index": 14,
+          "title": "Sitzungsende 19:11 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19078",
+      "date": "2026-04-28",
+      "gremium_id": 638,
+      "sitzungsnr": 78,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 14:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Aktuelle Stunde auf Vorschlag der Fraktion FREIE WÄHLER zum Thema: \"Chancen sichern, Zukunft gestalten: Die Initiative \"Mittelschule - stark für jeden Weg\"\""
+        },
+        {
+          "index": 2,
+          "title": "TOP 2 Antragsliste Abstimmung über Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 3,
+          "title": "TOP 3a) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Strafvollzugsgesetzes und des Bayerischen Sicherungsverwahrungsvollzugsgesetzes"
+        },
+        {
+          "index": 4,
+          "title": "TOP 3b) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Schulfinanzierungsgesetzes"
+        },
+        {
+          "index": 5,
+          "title": "TOP 3c) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Gesetzes über das Erziehungs- und Unterrichtswesen und weiterer Rechtsvorschriften"
+        },
+        {
+          "index": 6,
+          "title": "Abstimmung Antrag auf Begründung und Aussprache zu TOP 4+5"
+        },
+        {
+          "index": 7,
+          "title": "TOP 4 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags"
+        },
+        {
+          "index": 8,
+          "title": "TOP 5 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 9,
+          "title": "TOP 6 Zweite Lesung zum Gesetzentwurf Änderung der Gemeindeordnung und des Gemeinde- und Landkreiswahlgesetzes hier: Einführung der Abwahl von Bürgermeistern in Bayern"
+        },
+        {
+          "index": 10,
+          "title": "TOP 7 Zweite Lesung zum Gesetzentwurf zur Einführung von Modellregionen und zur Deregulierung - Bayerisches Modellregionengesetz (BayMoG)"
+        },
+        {
+          "index": 11,
+          "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 8 und 9 TOP 8 Antrag Betrug im Einbürgerungsverfahren verhindern I: Fälschungssicherheit von Zertifikaten im Einbürgerungsverfahren sicherstellen TOP 9 Antrag Betrug im Einbürgerungsverfahren verhindern II: Schaffung von rechtlichen Konsequenzen im Einbürgerungsverfahren"
+        },
+        {
+          "index": 12,
+          "title": "TOP 10 Antrag Arzneimittelversorgung verbessern, Nutzenbewertung und Preisverhandlungen für neue Arzneimittel vereinfachen"
+        },
+        {
+          "index": 13,
+          "title": "TOP 11 Dringlichkeitsantrag Zukunft statt wirtschaftlichem Niedergang - Politisches ökosozialistisches Ziel der Klimaneutralität endgültig beerdigen"
+        },
+        {
+          "index": 14,
+          "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 12 und 13"
+        },
+        {
+          "index": 15,
+          "title": "TOP 14 Antrag Wirtschaftsschädliche CO2-Bepreisung zurücknehmen: Taten statt Populismus!"
+        },
+        {
+          "index": 16,
+          "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 15 bis 19 TOP 15 Antrag Gemeinsam gegen Antiziganismus I: Planungssicherheit für die \"Melde- und Informationsstelle Antiziganismus in Bayern\" (MIA Bayern) TOP 16 Antrag Gemeinsam gegen Antiziganismus II: Vertretung des Landesverbandes der Sinti und Roma im Rundfunkrat des Bayerischen Rundfunks und im Medienrat der Bayerischen Landeszentrale für neue Medien TOP 17 Antrag Gemeinsam gegen Antiziganismus III: Bekämpfung des Antiziganismus in Südosteuropa TOP 18 Antrag Gemeinsam gegen Antiziganismus IV: Antidiskriminierungsberatung des Landesverbandes der Sinti und Roma in Bayern sichern TOP 19 Antrag Gemeinsam gegen Antiziganismus V - Einrichtung der Stelle eines unabhängigen Beauftragten gegen Antiziganismus und für das Leben der Sinti und Roma"
+        },
+        {
+          "index": 17,
+          "title": "TOP 20 Antrag Einsetzung eines Untersuchungsausschusses zur Aufklärung eines möglichen Fehlverhaltens von Mitgliedern der Staatsregierung und des Landtags im Zusammenhang mit dem von der Weimer Media Group ausgerichteten Ludwig-Erhard-Gipfel, insbesondere bezüglich der Teilnahme an durch die Weimer Media Group verkauften Treffen mit Spitzenpolitikern, eines möglichen Fehlverhaltens der Weimer Media Group im Zusammenhang mit dem Ludwig-Erhard-Gipfel, sowie eines möglichen Fehlverhaltens von bayerischen Behörden und bayerischen Staatsunternehmen, insbesondere der finanziellen Förderung des Ludwig-Erhard-Gipfels und einer möglichen intransparenten Einflussnahme durch die von der Weimer Media Group verkauften Treffen auf Gesetzgebungsverfahren und Verwaltungsführung in Bayern sowie auf das Verhalten des Freistaates bei Gesetzgebungsverfahren im Bundesrat"
+        },
+        {
+          "index": 18,
+          "title": "Sitzungsende 20:48 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19075",
+      "date": "2026-04-23",
+      "gremium_id": 637,
+      "sitzungsnr": 75,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 09:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 15 Einzelplan Haushaltsplan 2026/2027; Einzelplan 06 für den Geschäftsbereich des Bayerischen Staatsministeriums der Finanzen und für Heimat"
+        },
+        {
+          "index": 2,
+          "title": "TOP 16 Einzelplan Haushaltsplan 2026/2027; Einzelplan 08 für den Geschäftsbereich des Bayerischen Staatsministeriums für Ernährung, Landwirtschaft, Forsten und Tourismus"
+        },
+        {
+          "index": 3,
+          "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 17 bis 19 TOP 17 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Finanzausgleichsgesetzes und der Bayerischen Durchführungsverordnung Finanzausgleichsgesetz (Finanzausgleichsänderungsgesetz 2026) TOP 18 Einzelplan Haushaltsplan 2026/2027; Einzelplan 13 Allgemeine Finanzverwaltung TOP 19 Zweite Lesung zum Gesetzentwurf über die Feststellung des Haushaltsplans des Freistaates Bayern für die Haushaltsjahre 2026 und 2027 (Haushaltsgesetz 2026/2027 - HG 2026/2027)"
+        },
+        {
+          "index": 4,
+          "title": "Sitzungsende 14:43 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19075",
+      "date": "2026-04-22",
+      "gremium_id": 636,
+      "sitzungsnr": 75,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 09:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 7 Einzelplan Haushaltsplan 2026/2027; Einzelplan 07 für den Geschäftsbereich des Bayerischen Staatsministeriums für Wirtschaft, Landesentwicklung und Energie"
+        },
+        {
+          "index": 2,
+          "title": "TOP 8 Einzelplan Haushaltsplan 2026/2027; Einzelplan 04 für den Geschäftsbereich des Bayerischen Staatsministeriums der Justiz"
+        },
+        {
+          "index": 3,
+          "title": "TOP 9 Einzelplan Haushaltsplan 2026/2027; Einzelplan 10 für den Geschäftsbereich des Bayerischen Staatsministeriums für Familie, Arbeit und Soziales"
+        },
+        {
+          "index": 4,
+          "title": "Mittagspause"
+        },
+        {
+          "index": 5,
+          "title": "TOP 10 Einzelplan Haushaltsplan 2026/2027; Einzelplan 03 für den Geschäftsbereich des Bayerischen Staatsministeriums des Innern, für Sport und Integration"
+        },
+        {
+          "index": 6,
+          "title": "TOP 11 Einzelplan Haushaltsplan 2026/2027; Einzelplan 12 für den Geschäftsbereich des Bayerischen Staatsministeriums für Umwelt und Verbraucherschutz"
+        },
+        {
+          "index": 7,
+          "title": "TOP 12 Einzelplan Haushaltsplan 2026/2027; Einzelplan 15 für den Geschäftsbereich des Bayerischen Staatsministeriums für Wissenschaft und Kunst"
+        },
+        {
+          "index": 8,
+          "title": "TOP 13 Einzelplan Haushaltsplan 2026/2027; Einzelplan 09 für den Geschäftsbereich des Bayerischen Staatsministeriums für Wohnen, Bau und Verkehr"
+        },
+        {
+          "index": 9,
+          "title": "TOP 14 Einzelplan Haushaltsplan 2026/2027; Einzelplan 05 für den Geschäftsbereich des Bayerischen Staatsministeriums für Unterricht und Kultus"
+        },
+        {
+          "index": 10,
+          "title": "Sitzungsende 21:05 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19075",
+      "date": "2026-04-21",
+      "gremium_id": 635,
+      "sitzungsnr": 75,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 14:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Einzelplan Haushaltsplan 2026/2027; Einzelplan 01 für den Geschäftsbereich des Bayerischen Landtags"
+        },
+        {
+          "index": 2,
+          "title": "TOP 2 Einzelplan Haushaltsplan 2026/2027; Einzelplan 11 für den Geschäftsbereich des Bayerischen Obersten Rechnungshofs"
+        },
+        {
+          "index": 3,
+          "title": "TOP 3 Einzelplan Haushaltsplan 2026/2027; Einzelplan 02 für den Geschäftsbereich des Ministerpräsidenten und der Staatskanzlei"
+        },
+        {
+          "index": 4,
+          "title": "TOP 4 Einzelplan Haushaltsplan 2026/2027; Einzelplan 16 für den Geschäftsbereich des Bayerischen Staatsministeriums für Digitales"
+        },
+        {
+          "index": 5,
+          "title": "TOP 5 Einzelplan Haushaltsplan 2026/2027; Einzelplan 14 für den Geschäftsbereich des Bayerischen Staatsministeriums für Gesundheit, Pflege und Prävention"
+        },
+        {
+          "index": 6,
+          "title": "TOP 6 Antragsliste Abstimmung über Verfassungsstreitigkeiten und Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 7,
+          "title": "Sitzungsende 19:24 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19074",
+      "date": "2026-04-15",
+      "gremium_id": 634,
+      "sitzungsnr": 74,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 13:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1a) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Hochschulinnovationsgesetzes hier: Einführung eines integrierten Bachelorabschlusses im Studium der Rechtswissenschaft"
+        },
+        {
+          "index": 2,
+          "title": "TOP 1b) Erste Lesung zum Antrag auf Zustimmung zum Zweiten Staatsvertrag zur Änderung des Glücksspielstaatsvertrags 2021 (2. GlüÄndStV 2021)"
+        },
+        {
+          "index": 3,
+          "title": "TOP 2 Antragsliste Abstimmung über Europaangelegenheiten und Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 4,
+          "title": "Abstimmung Antrag auf Begründung und Aussprache zu TOP 3+4"
+        },
+        {
+          "index": 5,
+          "title": "TOP 3 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags"
+        },
+        {
+          "index": 6,
+          "title": "TOP 4 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 7,
+          "title": "TOP 5 Bestätigung eines stellvertretenden Mitglieds für den Landesgesundheitsrat"
+        },
+        {
+          "index": 8,
+          "title": "TOP 6 Zweite Lesung zum Gesetzentwurf Gesetz zur Förderung der Verteidigungsindustrie in Bayern"
+        },
+        {
+          "index": 9,
+          "title": "TOP 7 Beratung der zum Plenum eingereichten Dringlichkeitsanträge"
+        },
+        {
+          "index": 10,
+          "title": "TOP 8 Antrag Einführung einer verbindlichen Haltungsverordnung für Milchkühe"
+        },
+        {
+          "index": 11,
+          "title": "TOP 9 Antrag Schwarzarbeits- und Integritätsrisiken im Friseur- und Barbershop-Segment in Bayern"
+        },
+        {
+          "index": 12,
+          "title": "TOP 10 Antrag Sektorengrenzen überwinden: Bayerisches Modellprojekt für eine regionale, sektorenverbindende Versorgungsplanung"
+        },
+        {
+          "index": 13,
+          "title": "TOP 11 Antrag Klimadaten offenlegen und verifizieren"
+        },
+        {
+          "index": 14,
+          "title": "TOP 12 Antrag Tierwohl braucht verlässliche Landwirtschaftspolitik - keine Streichung des Bundesprogramms zum Umbau der Tierhaltung"
+        },
+        {
+          "index": 15,
+          "title": "TOP 13 Dringlichkeitsantrag Nein zum Kampf gegen das Erdgas - Versorgung der bayerischen Industrie, Wirtschaft und Haushalte mit günstigem Erdgas sicherstellen!"
+        },
+        {
+          "index": 16,
+          "title": "TOP 14 Antrag Biotechnologie-Regulierung modernisieren - Innovationskraft und Wettbewerbsfähigkeit Europas sichern"
+        },
+        {
+          "index": 17,
+          "title": "TOP 15 Antrag Asylstopp im Unterallgäu - Verzicht auf neue Asylunterkünfte und Auflösung bestehender Mietverträge!"
+        },
+        {
+          "index": 18,
+          "title": "TOP 16 Antrag Unverzüglichen Rücknahme der CO2-Reduktionsziele für Lkw-Anhänger der EU-Verordnung 2024/1610"
+        },
+        {
+          "index": 19,
+          "title": "TOP 17 Dringlichkeitsantrag Klimairrsinn beenden: Umwelt und Menschen vor den negativen Auswirkungen der sogenannten grünen Transformation schützen!"
+        },
+        {
+          "index": 20,
+          "title": "Sitzungsende 20:23 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19073",
+      "date": "2026-03-24",
+      "gremium_id": 633,
+      "sitzungsnr": 73,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 14:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Regierungserklärung des Staatsministers der Finanzen und für Heimat Thema: Verwaltung regionalisieren - Heimat Bayern stärken. Erfolgsbilanz 1. Stufe Behördenverlagerungen"
+        },
+        {
+          "index": 2,
+          "title": "TOP 2 Aktuelle Stunde auf Vorschlag der CSU-Fraktion zum Thema: \"Schutzschild für unsere digitale Heimat - Sicherheit und Rechtsstaatlichkeit im Netz\""
+        },
+        {
+          "index": 3,
+          "title": "TOP 3 Antragsliste Abstimmung über Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 4,
+          "title": "TOP 4a) Erste Lesung zum Gesetzentwurf zur Neuordnung der Bayerischen Ehrenzeichen infolge der strategischen Neuausrichtung der Bundeswehr"
+        },
+        {
+          "index": 5,
+          "title": "TOP 4b) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Gesetzes über das Erziehungs- und Unterrichtswesen hier: Abschaffung des Islamischen Unterrichts in Bayern"
+        },
+        {
+          "index": 6,
+          "title": "Abstimmung Antrag auf Begründung und Aussprache zu TOP 5+6"
+        },
+        {
+          "index": 7,
+          "title": "TOP 5 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags"
+        },
+        {
+          "index": 8,
+          "title": "TOP 6 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 9,
+          "title": "Abstimmung Antrag auf Begründung und Aussprache zu TOP 7"
+        },
+        {
+          "index": 10,
+          "title": "TOP 7 Wahl eines Mitglieds des Parlamentarischen Kontrollgremiums"
+        },
+        {
+          "index": 11,
+          "title": "TOP 8 Zweite Lesung zum Gesetzentwurf zur Änderung des Gesetzes zur Ausführung der Sozialgesetze und weiterer Rechtsvorschriften"
+        },
+        {
+          "index": 12,
+          "title": "TOP 9 Antrag Systematische Beobachtung guter Praxis und Leistungsvergleiche zur Stärkung von Bürokratieabbau und Verwaltungsmodernisierung in Bayern"
+        },
+        {
+          "index": 13,
+          "title": "TOP 10 Antrag ESG-Bürokratieirrsinn beenden - Bayerische Unternehmen von unnötigen Berichtspflichten entlasten"
+        },
+        {
+          "index": 14,
+          "title": "TOP 11 Antrag Deindustrialisierung durch CO2-Emissionshandel und Energiewende verhindern - Chemische Industrie in Bayern erhalten!"
+        },
+        {
+          "index": 15,
+          "title": "TOP 12 Antrag Starkes Bayern - Attraktiver öffentlicher Dienst!"
+        },
+        {
+          "index": 16,
+          "title": "TOP 13 Dringlichkeitsantrag Kopftuchverbot für Schülerinnen unter 14 Jahren an öffentlichen Schulen in Bayern"
+        },
+        {
+          "index": 17,
+          "title": "TOP 14 Antrag Modellregion Ingolstadt: Bürokratieabbau und Stärkung des Industriestandorts Oberbayern"
+        },
+        {
+          "index": 18,
+          "title": "Sitzungsende 21:21 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19072",
+      "date": "2026-03-19",
+      "gremium_id": 632,
+      "sitzungsnr": 72,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 09:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Aktuelle Stunde auf Vorschlag der SPD-Fraktion zum Thema: \"Schulen am Limit - Kein Sparkurs bei der Bildung\""
+        },
+        {
+          "index": 2,
+          "title": "TOP 2 Antragsliste Abstimmung über Verfassungsstreitigkeiten, Europaangelegenheiten und Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 3,
+          "title": "TOP 3 Erste Lesung zum Antrag auf Zustimmung zum Vertrag vom 12. März 2025 zwischen der Bundesrepublik Deutschland und der Tschechischen Republik über die gemeinsame Staatsgrenze"
+        },
+        {
+          "index": 4,
+          "title": "Abstimmung Antrag auf Begründung und Aussprache zu TOP 4+5"
+        },
+        {
+          "index": 5,
+          "title": "TOP 4 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags"
+        },
+        {
+          "index": 6,
+          "title": "TOP 5 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 7,
+          "title": "TOP 6 Zweite Lesung zum Gesetzentwurf Bayerisches Gesetz über die Finanzierung der Bildungsarbeit der parteinahen politischen Stiftungen (Bayerisches Parteienstiftungsgesetz - BayPartStiftG)"
+        },
+        {
+          "index": 8,
+          "title": "TOP 7 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Jagdgesetzes und weiterer Rechtsvorschriften"
+        },
+        {
+          "index": 9,
+          "title": "TOP 8 Zweite Lesung zum Gesetzentwurf zur Änderung des Zweckentfremdungsgesetzes"
+        },
+        {
+          "index": 10,
+          "title": "TOP 9 Antrag Heimische Brauereien stärken, Umweltschutz schützen: Erhöhung der Pfandwerte für Glasflaschen und Getränkekisten"
+        },
+        {
+          "index": 11,
+          "title": "Mittagspause"
+        },
+        {
+          "index": 12,
+          "title": "TOP 10 Beratung der zum Plenum eingereichten Dringlichkeitsanträge"
+        },
+        {
+          "index": 13,
+          "title": "TOP 11 Antrag Freiheit statt Zensur: Auflösung der sogenannten Bayern-Allianz"
+        },
+        {
+          "index": 14,
+          "title": "TOP 12 Dringlichkeitsantrag Fachkräftesicherung aus eigener Kraft: \"Ausbildungsbonus Führerschein\" einführen!"
+        },
+        {
+          "index": 15,
+          "title": "TOP 13 Antrag Situation, Förderung und Ausbau kommerzieller familienorientierter Freizeit- und Bildungszentren in Bayern"
+        },
+        {
+          "index": 16,
+          "title": "Sitzungsende 17:44 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19071",
+      "date": "2026-03-11",
+      "gremium_id": 631,
+      "sitzungsnr": 71,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 13:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Erste Lesung zum Gesetzentwurf zur Einführung von Modellregionen und zur Deregulierung - Bayerisches Modellregionengesetz (BayMoG)"
+        },
+        {
+          "index": 2,
+          "title": "TOP 2 Antragsliste Abstimmung über eine Verfassungsstreitigkeit, eine Europaangelegenheit und Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 3,
+          "title": "Abstimmung Antrag auf Begründung und Aussprache zu TOP 3+4"
+        },
+        {
+          "index": 4,
+          "title": "TOP 3 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags"
+        },
+        {
+          "index": 5,
+          "title": "TOP 4 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 6,
+          "title": "TOP 5 Zweite Lesung zum Gesetzentwurf zur Aufhebung des Bayerischen Beauftragtengesetzes und zur Änderung weiterer Rechtsvorschriften"
+        },
+        {
+          "index": 7,
+          "title": "TOP 6 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Richter- und Staatsanwaltsgesetzes hier: Keine Verfassungsfeinde als Schöffenrichter"
+        },
+        {
+          "index": 8,
+          "title": "TOP 7 Zweite Lesung zum Gesetzentwurf zur Änderung des Feiertagsgesetzes hier: Mariä Himmelfahrt als bayernweiter gesetzlicher Feiertag"
+        },
+        {
+          "index": 9,
+          "title": "TOP 8 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Blindengeldgesetzes hier: Weiterentwicklung zu einem Bayerischen Blinden- und Gehörlosengeldgesetz"
+        },
+        {
+          "index": 10,
+          "title": "TOP 9 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Naturschutzgesetzes"
+        },
+        {
+          "index": 11,
+          "title": "TOP 10 Zweite Lesung zum Gesetzentwurf zur Änderung des Gesetzes über den gesundheitlichen Verbraucherschutz und das Veterinärwesen und des Gesetzes zur Ausführung des Tiergesundheitsgesetzes"
+        },
+        {
+          "index": 12,
+          "title": "TOP 11 Zweite Lesung zum Gesetzentwurf zur Änderung der Bayerischen Bauordnung hier: Vollständige Aufhebung der sogenannten 10H-Abstandsregelung"
+        },
+        {
+          "index": 13,
+          "title": "TOP 12 Zweite Lesung zum Gesetzentwurf Viertes Modernisierungsgesetz Bayern"
+        },
+        {
+          "index": 14,
+          "title": "TOP 13 Beratung der zum Plenum eingereichten Dringlichkeitsanträge"
+        },
+        {
+          "index": 15,
+          "title": "TOP 14 Antrag Wissenschaftsfreiheit stärken: Forschungszentrum Globaler Islam in Bayern etablieren"
+        },
+        {
+          "index": 16,
+          "title": "TOP 15 Antrag Öffentliche Förderung, politische Neutralität und der Umgang mit Extremismus beim Bayerischen Jugendring"
+        },
+        {
+          "index": 17,
+          "title": "TOP 16 Dringlichkeitsantrag Studieren ohne Wohnungsnot - Wohnheimausbau jetzt stärken!"
+        },
+        {
+          "index": 18,
+          "title": "Sitzungsende 22:02 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19070",
+      "date": "2026-02-10",
+      "gremium_id": 630,
+      "sitzungsnr": 70,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 14:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Aktuelle Stunde auf Vorschlag der Fraktion BÜNDNIS 90/DIE GRÜNEN zum Thema: \"Preise runter, Leben rein: Mehr Wohneigentum. Weniger Mietkosten. Günstiger bauen.\""
+        },
+        {
+          "index": 2,
+          "title": "TOP 2 Antragsliste Abstimmung über Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 3,
+          "title": "Abstimmung Antrag auf Begründung und Aussprache zu TOP 4+5"
+        },
+        {
+          "index": 4,
+          "title": "TOP 4 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags"
+        },
+        {
+          "index": 5,
+          "title": "TOP 5 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 6,
+          "title": "Abstimmung Antrag auf Begründung und Aussprache zu TOP 6"
+        },
+        {
+          "index": 7,
+          "title": "TOP 6 Wahl eines Mitglieds des Parlamentarischen Kontrollgremiums"
+        },
+        {
+          "index": 8,
+          "title": "TOP 7 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Kinderbildungs- und -betreuungsgesetzes"
+        },
+        {
+          "index": 9,
+          "title": "TOP 8 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Landesplanungsgesetzes hier: Beschleunigung der Ausweisung von Windvorranggebieten"
+        },
+        {
+          "index": 10,
+          "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 9 und 10 TOP 9 Zweite Lesung zum Gesetzentwurf zur Änderung der Gemeindeordnung und weiterer Rechtsvorschriften hier: Stärkung der Demokratie in den Kommunen TOP 10 Zweite Lesung zum Gesetzentwurf zur Änderung der Gemeindeordnung hier: Modernisierung der Kommunalpolitik"
+        },
+        {
+          "index": 11,
+          "title": "TOP 11 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Krankenhausgesetzes"
+        },
+        {
+          "index": 12,
+          "title": "TOP 12 Dringlichkeitsantrag Desinformation effektiv bekämpfen - Faktenprüfung auf Social Media Plattformen in Europa gesetzlich absichern"
+        },
+        {
+          "index": 13,
+          "title": "TOP 13 Dringlichkeitsantrag Badespaß statt Gesundheitsgefahr - Blaualgenmassenvorkommen in Altmühlsee und weiteren betroffenen bayerischen Gewässern wirksam verhindern"
+        },
+        {
+          "index": 14,
+          "title": "TOP 14 Antrag Prüfung der Wirtschaftlichkeit einer bayerischen Abschiebeflotte"
+        },
+        {
+          "index": 15,
+          "title": "TOP 15 Antrag Asylstopp im Unterallgäu - Verzicht auf neue Asylunterkünfte und Auflösung bestehender Mietverträge!"
+        },
+        {
+          "index": 16,
+          "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 16 bis 20 TOP 16 Antrag Bildung für nachhaltige Entwicklung (BNE) konsequent umsetzen I: Strategie statt Stückwerk - BNE braucht einen konkreten Plan TOP 17 Antrag Bildung für nachhaltige Entwicklung (BNE) konsequent umsetzen II: Mehr Zeit für Projekte einplanen und Finanzierung sichern TOP 18 Antrag Bildung für nachhaltige Entwicklung (BNE) konsequent umsetzen III: Lehrkräfte stärken - Nachhaltigkeit beginnt mit guter Ausbildung TOP 19 Antrag Bildung für nachhaltige Entwicklung (BNE) konsequent umsetzen IV: Global denken, lokal vernetzen - BNE braucht starke Strukturen TOP 20 Antrag Bildung für nachhaltige Entwicklung (BNE) konsequent umsetzen V: Mitbestimmen. Mitwirken. Mitverändern. - Demokratie als Lernziel der Zukunft fest verankern"
+        },
+        {
+          "index": 17,
+          "title": "TOP 21 Antrag Bayerns Erster Bürgerrat: Coronapandemie gemeinsam aufarbeiten, Gräben schließen und für die Zukunft vorbereiten"
+        },
+        {
+          "index": 18,
+          "title": "TOP 22 Antrag Kein Aussitzen mehr: Empfehlungen der Nationalen Stelle zur Verhütung von Folter konsequent und zügig umsetzen!"
+        },
+        {
+          "index": 19,
+          "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 23 bis 25 TOP 23 Antrag Oberflächennahe Geothermie bayernweit voranbringen I: Stockwerkübergreifende Bohrungen ermöglichen TOP 24 Antrag Oberflächennahe Geothermie bayernweit voranbringen II: Qualifikation zum Privaten Sachverständigen der Wasserwirtschaft vereinfachen TOP 25 Antrag Oberflächennahe Geothermie bayernweit voranbringen III: Fortbildung im Bereich der Wasserwirtschaftsämter"
+        },
+        {
+          "index": 20,
+          "title": "Sitzungsende 21:18 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19069",
+      "date": "2026-02-05",
+      "gremium_id": 629,
+      "sitzungsnr": 69,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 09:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Aktuelle Stunde auf Vorschlag der AfD-Fraktion zum Thema: \"Energieversorgung sicherstellen - Sabotageakte abwehren - Deindustrialisierung stoppen\""
+        },
+        {
+          "index": 2,
+          "title": "TOP 2 Antragsliste Abstimmung über Europaangelegenheiten und Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 3,
+          "title": "TOP 3a) Erste Lesung zum Gesetzentwurf Bayerisches Gesetz zur erprobungsweisen Befreiung von landesrechtlichen Regelungen für Gemeinden, Landkreise und Bezirke (Bayerisches Kommunales Regelungsbefreiungsgesetz - BayKommRegBefrG)"
+        },
+        {
+          "index": 4,
+          "title": "TOP 3b) Erste Lesung zum Gesetzentwurf Bayerisches Landesbetreuungsgeldgesetz (BayLBGG)"
+        },
+        {
+          "index": 5,
+          "title": "TOP 3c) Gesetzentwurf zur Änderung des Bayerischen Jagdgesetzes und weiterer Rechtsvorschriften"
+        },
+        {
+          "index": 6,
+          "title": "TOP 3d) Erste Lesung zum Gesetzentwurf zur Änderung des Gesetzes zur Ausführung des Flurbereinigungsgesetzes"
+        },
+        {
+          "index": 7,
+          "title": "Mittagspause"
+        },
+        {
+          "index": 8,
+          "title": "Abstimmung Antrag auf Begründung und Aussprache zu TOP 4+5"
+        },
+        {
+          "index": 9,
+          "title": "TOP 4 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags"
+        },
+        {
+          "index": 10,
+          "title": "TOP 5 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 11,
+          "title": "TOP 6 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Naturschutzgesetzes hier: Sichere Nächte für Igel und Co - Einsatzzeiten von Mährobotern begrenzen"
+        },
+        {
+          "index": 12,
+          "title": "TOP 7 Beratung der zum Plenum eingereichten Dringlichkeitsanträge"
+        },
+        {
+          "index": 13,
+          "title": "TOP 8 Antrag Wasser als kostbares Gut besser schützen - Bericht über die Einrichtung von Gewässerrandstreifen in Bayern"
+        },
+        {
+          "index": 14,
+          "title": "Sitzungsende 17:11 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19068",
+      "date": "2026-01-28",
+      "gremium_id": 628,
+      "sitzungsnr": 68,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 13:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1a) Gesetzentwurf Bayerisches Gesetz über die Finanzierung der Bildungsarbeit der parteinahen politischen Stiftungen (Bayerisches Parteienstiftungsgesetz - BayPartStiftG)"
+        },
+        {
+          "index": 2,
+          "title": "TOP 1b) Gesetzentwurf Gesetz zur Förderung der Verteidigungsindustrie in Bayern"
+        },
+        {
+          "index": 3,
+          "title": "TOP 1c) Gesetzentwurf zur Änderung des Kommunalabgabengesetzes"
+        },
+        {
+          "index": 4,
+          "title": "TOP 1d) Gesetzentwurf zur Änderung des Zweckentfremdungsgesetzes"
+        },
+        {
+          "index": 5,
+          "title": "TOP 2 Antragsliste Abstimmung über Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 6,
+          "title": "Abstimmung Antrag auf Begründung und Aussprache zu TOP 3+4"
+        },
+        {
+          "index": 7,
+          "title": "TOP 3 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags"
+        },
+        {
+          "index": 8,
+          "title": "TOP 4 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 9,
+          "title": "TOP 5 Bestätigung eines Mitglieds des Landessportbeirats"
+        },
+        {
+          "index": 10,
+          "title": "TOP 6 Beratung der zum Plenum eingereichten Dringlichkeitsanträge"
+        },
+        {
+          "index": 11,
+          "title": "TOP 7 Eingabe Plenarsitzung 24.07.2025 - Schlussworte der AfD-Fraktionsvorsitzenden VF.0467.19"
+        },
+        {
+          "index": 12,
+          "title": "TOP 8 Antrag Tourismus und Umwelt in Einklang bringen: Besucheranstürme an Wochenenden mit attraktiven Angeboten unter der Woche entgegenwirken - Sportzentrum Mitterdorf an Wochentagen im Sommerhalbjahr besser auslasten"
+        },
+        {
+          "index": 13,
+          "title": "TOP 9 Antrag Öffentlicher Dienst - Nachwuchsinitiative Bayern 2040"
+        },
+        {
+          "index": 14,
+          "title": "TOP 10 Antrag Belegungsbindung von geförderten Sozialwohnungen verlängern"
+        },
+        {
+          "index": 15,
+          "title": "TOP 11 Antrag Familienfreundliche Preispolitik bei der Deutschen Bahn"
+        },
+        {
+          "index": 16,
+          "title": "TOP 12 Dringlichkeitsantrag Desinformation effektiv bekämpfen - Faktenprüfung auf Social Media Plattformen in Europa gesetzlich absichern"
+        },
+        {
+          "index": 17,
+          "title": "TOP 13 Antrag Zukunftsfähig auch ohne Promille - Unterstützung kleiner Brauereien beim Einstieg in die alkoholfreie Bierproduktion"
+        },
+        {
+          "index": 18,
+          "title": "TOP 14 Antrag Medizinernachwuchs sichern, Medizinstipendien auch für Medizinstudierende im EU-Ausland"
+        },
+        {
+          "index": 19,
+          "title": "Sitzungsende 20:46 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19065",
+      "date": "2025-12-11",
+      "gremium_id": 627,
+      "sitzungsnr": 65,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 09:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 39 Beratung der zum Plenum eingereichten Dringlichkeitsanträge"
+        },
+        {
+          "index": 2,
+          "title": "TOP 40 ggf. offene Tagesordnungspunkte aus dem Mittwochsplenum"
+        },
+        {
+          "index": 3,
+          "title": "Schlussworte"
+        },
+        {
+          "index": 4,
+          "title": "Sitzungsende 11:55 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19065",
+      "date": "2025-12-10",
+      "gremium_id": 626,
+      "sitzungsnr": 65,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 09:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 14a) und 14b) TOP 14a) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Finanzausgleichsgesetzes und der Bayerischen Durchführungsverordnung Finanzausgleichsgesetz (Finanzausgleichsänderungsgesetz 2026) TOP 14b) Erste Lesung zum Gesetzentwurf über die Feststellung des Haushaltsplans des Freistaates Bayern für die Haushaltsjahre 2026 und 2027 (Haushaltsgesetz 2026/2027 - HG 2026/2027)"
+        },
+        {
+          "index": 2,
+          "title": "TOP 15 offene Tagesordnungspunkte aus dem Dienstagsplenum"
+        },
+        {
+          "index": 3,
+          "title": "Mittagspause"
+        },
+        {
+          "index": 4,
+          "title": "TOP 16 Antrag Bayern soll Standort für das erste Yad Vashem Education Center außerhalb Israels werden - Erinnerungskultur stärken, Antisemitismus bekämpfen"
+        },
+        {
+          "index": 5,
+          "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 17 und 18 TOP 17 Zweite Lesung zum Gesetzentwurf zur Änderung des Kommunalabgabengesetzes hier: Stärkung des Steuerfindungsrechts der Kommunen und Ermöglichung eines Gästebeitrags im Tourismus TOP 18 Zweite Lesung zum Gesetzentwurf zur Änderung des Kommunalabgabengesetzes"
+        },
+        {
+          "index": 6,
+          "title": "TOP 19 Zweite Lesung zum Gesetzentwurf zur Änderung der Gemeindeordnung und weiterer Rechtsvorschriften"
+        },
+        {
+          "index": 7,
+          "title": "TOP 20 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Waldgesetzes"
+        },
+        {
+          "index": 8,
+          "title": "TOP 21 Zweite Lesung zum Gesetzentwurf zur Änderung der Bayerischen Bauordnung hier: Hochwasserschutz"
+        },
+        {
+          "index": 9,
+          "title": "TOP 22 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Archivgesetzes"
+        },
+        {
+          "index": 10,
+          "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 23 und 24 TOP 23 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Denkmalschutzgesetzes TOP 24 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Denkmalschutzgesetzes und weiterer Rechtsvorschriften"
+        },
+        {
+          "index": 11,
+          "title": "TOP 25 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Schulfinanzierungsgesetzes und des Bayerischen Finanzausgleichsgesetzes hier: Mittagsverpflegung an Grund- und Förderschulen: beitragsfrei, nachhaltig und gesund"
+        },
+        {
+          "index": 12,
+          "title": "TOP 26 Zweite Lesung zum Gesetzentwurf zur Änderung des Gesetzes zur Ausführung der Sozialgesetze"
+        },
+        {
+          "index": 13,
+          "title": "TOP 27 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Straßen- und Wegegesetzes"
+        },
+        {
+          "index": 14,
+          "title": "TOP 28 Zweite Lesung zum Gesetzentwurf Bayerisches Sportgesetz (BaySportG)"
+        },
+        {
+          "index": 15,
+          "title": "TOP 29 Zweite Lesung zum Gesetzentwurf Gesetz zum Schutz vor Drohnenüberflügen in Bayern"
+        },
+        {
+          "index": 16,
+          "title": "TOP 30 Zweite Lesung zum Gesetzentwurf zur Änderung der Verfassung des Freistaates Bayern hier: Streichung der Altersgrenze für das Amt der Ministerpräsidentin bzw. des Ministerpräsidenten"
+        },
+        {
+          "index": 17,
+          "title": "TOP 31 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Wassergesetzes und weiterer Rechtsvorschriften"
+        },
+        {
+          "index": 18,
+          "title": "TOP 32 Antrag Vorrangige Förderung des Wohnraums für deutsche Familien durch gezielte Maßnahmen der Wohnungs- und Grundstückspolitik"
+        },
+        {
+          "index": 19,
+          "title": "TOP 33 Antrag Familienfreundliche Sitzplatzreservierung bei der Deutschen Bahn erhalten - Aufhebung der Familienreservierung rückgängig machen"
+        },
+        {
+          "index": 20,
+          "title": "TOP 34 Antrag Transrapid statt Trans - Prüfung und Förderung des Einsatzes von Magnetschwebebahnen in Bayern"
+        },
+        {
+          "index": 21,
+          "title": "TOP 35 Dringlichkeitsantrag Korruptionsfall in Münchens Ausländerbehörde: Aufklärung und Generalrevision der Asylzahlen durchführen!"
+        },
+        {
+          "index": 22,
+          "title": "TOP 36 Antrag Die Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) grundlegend reformieren - Entwicklungszusammenarbeit wieder an deutschen Interessen ausrichten"
+        },
+        {
+          "index": 23,
+          "title": "TOP 37 Antrag Kommunale Kliniken stärken statt abbauen - Für eine starke Krankenhauslandschaft in Bayern"
+        },
+        {
+          "index": 24,
+          "title": "TOP 38 Antrag Aufarbeitung von Medikamentenmissbrauch in der Pflege - Lehren aus den Oberpfalz-Fällen"
+        },
+        {
+          "index": 25,
+          "title": "Sitzungsende 23:01 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19065",
+      "date": "2025-12-09",
+      "gremium_id": 625,
+      "sitzungsnr": 65,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 14:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Aktuelle Stunde auf Vorschlag der Fraktion FREIE WÄHLER zum Thema: \"Für ein starkes Bayern: Werte machen Schule - für Staat und Gesellschaft\""
+        },
+        {
+          "index": 2,
+          "title": "TOP 2 Antragsliste Abstimmung über Verfassungsstreitigkeiten, Europaangelegenheiten und Anträge die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 3,
+          "title": "TOP 3 Erste Lesung zum Gesetzentwurf zur Änderung des Gesetzes zur Ausführung der Sozialgesetze und weiterer Rechtsvorschriften"
+        },
+        {
+          "index": 4,
+          "title": "Abstimmung Antrag auf Begründung und gemeinsame Aussprache zu TOP 4 und 5"
+        },
+        {
+          "index": 5,
+          "title": "TOP 4 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags"
+        },
+        {
+          "index": 6,
+          "title": "TOP 5 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 7,
+          "title": "Abstimmung Antrag auf Begründung und Aussprache zu TOP 6"
+        },
+        {
+          "index": 8,
+          "title": "TOP 6 Wahl eines Mitglieds des Parlamentarischen Kontrollgremiums"
+        },
+        {
+          "index": 9,
+          "title": "TOP 7 Zweite Lesung zum Gesetzentwurf zur Änderung des Gesetzes über den Bayerischen Maximiliansorden für Wissenschaft und Kunst"
+        },
+        {
+          "index": 10,
+          "title": "TOP 8 Zweite Lesung zum Gesetzentwurf zur Änderung des Gesetzes zur Ausführung des Berufsbildungsgesetzes und des Berufsqualifikationsfeststellungsgesetzes"
+        },
+        {
+          "index": 11,
+          "title": "TOP 9 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Bodenschutzgesetzes"
+        },
+        {
+          "index": 12,
+          "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 10 und 11 TOP 10 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Gesetzes über wirtschafts- und vergaberechtliche Vorschriften und der Zuständigkeitsverordnung TOP 11 Zweite Lesung zum Gesetzentwurf Bayerisches Gesetz über die Beteiligung von Gemeinden und Bevölkerung an Windenergie- und Photovoltaikanlagen (BayWindPVBetG)"
+        },
+        {
+          "index": 13,
+          "title": "TOP 12 Zweite Lesung zum Gesetzentwurf zur Änderung dienstrechtlicher Vorschriften"
+        },
+        {
+          "index": 14,
+          "title": "TOP 13 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Landespflegegeldgesetzes"
+        },
+        {
+          "index": 15,
+          "title": "Sitzungsende 18:14 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19064",
+      "date": "2025-11-25",
+      "gremium_id": 624,
+      "sitzungsnr": 64,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 14:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Regierungserklärung des Ministerpräsidenten Thema: Haushalt des Freistaates Bayern"
+        },
+        {
+          "index": 2,
+          "title": "TOP 2 Aktuelle Stunde auf Vorschlag der CSU-Fraktion zum Thema: \"New Defence in Bayern - Bayerns Führungsrolle in der Verteidigungs- und Rüstungsindustrie festigen und ausbauen!\""
+        },
+        {
+          "index": 3,
+          "title": "TOP 3 Antragsliste Abstimmung über Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 4,
+          "title": "TOP 4a) Erste Lesung zum Gesetzentwurf zur Änderung des Gesetzes zur Sicherung des juristischen Vorbereitungsdienstes hier: Keine Verfassungsfeinde als Rechtsreferendare"
+        },
+        {
+          "index": 5,
+          "title": "TOP 4b) Erste Lesung zum Gesetzentwurf Änderung der Gemeindeordnung und des Gemeinde- und Landkreiswahlgesetzes hier: Einführung der Abwahl von Bürgermeistern in Bayern"
+        },
+        {
+          "index": 6,
+          "title": "TOP 4c) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Wassergesetzes und weiterer Rechtsvorschriften"
+        },
+        {
+          "index": 7,
+          "title": "Abstimmung Antrag auf Begründung und gemeinsame Aussprache zu TOP 5 und 6"
+        },
+        {
+          "index": 8,
+          "title": "TOP 5 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags"
+        },
+        {
+          "index": 9,
+          "title": "TOP 6 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 10,
+          "title": "Abstimmung Antrag auf Begründung und Aussprache zu TOP 7"
+        },
+        {
+          "index": 11,
+          "title": "TOP 7 Wahl eines Mitglieds des Parlamentarischen Kontrollgremiums"
+        },
+        {
+          "index": 12,
+          "title": "TOP 8 Zweite Lesung zum Antrag auf Zustimmung zum Abkommen zur Änderung des Abkommens über die Zentralstelle der Länder für Sicherheitstechnik"
+        },
+        {
+          "index": 13,
+          "title": "TOP 9 Antrag Freiheit und Privatsphäre schützen - Recht auf Bargeld im Grundgesetz verankern"
+        },
+        {
+          "index": 14,
+          "title": "TOP 10 Antrag Mittelfränkische Bedarfsplanung Hallenbäder - Kommunale Zusammenarbeit in einer Musterregion Mittelfranken"
+        },
+        {
+          "index": 15,
+          "title": "TOP 11 Antrag Kosten der Bayerischen Grenzpolizei endlich gegenüber dem Bund einfordern und abrechnen!"
+        },
+        {
+          "index": 16,
+          "title": "TOP 12 Antrag Heimische Brauereien stärken, Umweltschutz schützen: Erhöhung der Pfandwerte für Glasflaschen und Getränkekisten"
+        },
+        {
+          "index": 17,
+          "title": "TOP 13 Antrag CO2-Abgabe auf Müllverbrennung abschaffen"
+        },
+        {
+          "index": 18,
+          "title": "TOP 14 Antrag Freiheit statt Zensur: Auflösung der sogenannten Bayern-Allianz"
+        },
+        {
+          "index": 19,
+          "title": "TOP 15 Dringlichkeitsantrag Fachkräftesicherung aus eigener Kraft: \"Ausbildungsbonus Führerschein\" einführen!"
+        },
+        {
+          "index": 20,
+          "title": "Sitzungsende 22:58 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19063",
+      "date": "2025-11-13",
+      "gremium_id": 623,
+      "sitzungsnr": 63,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 09:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Aktuelle Stunde auf Vorschlag der SPD-Fraktion zum Thema: \"Was zählt die Jugend in Bayern? Anspruch und Wirklichkeit.\""
+        },
+        {
+          "index": 2,
+          "title": "TOP 2 Antragsliste Abstimmung über Europaangelegenheiten und Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 3,
+          "title": "TOP 3a) Erste Lesung zum Gesetzentwurf zur Änderung der Gemeindeordnung hier: Modernisierung der Kommunalpolitik"
+        },
+        {
+          "index": 4,
+          "title": "TOP 3b) Erste Lesung zum Gesetzentwurf zur Änderung des Gesetzes über den gesundheitlichen Verbraucherschutz und das Veterinärwesen und des Gesetzes zur Ausführung des Tiergesundheitsgesetzes"
+        },
+        {
+          "index": 5,
+          "title": "TOP 3c) Erste Lesung zum Gesetzentwurf zur Änderung der Gemeindeordnung und weiterer Rechtsvorschriften"
+        },
+        {
+          "index": 6,
+          "title": "Mittagspause"
+        },
+        {
+          "index": 7,
+          "title": "TOP 3d) Erste Lesung zum Gesetzentwurf zur Änderung der Bayerischen Bauordnung hier: Vollständige Aufhebung der sogenannten 10H-Abstandsregelung"
+        },
+        {
+          "index": 8,
+          "title": "Abstimmung Antrag auf Begründung und gemeinsame Aussprache zu TOP 4 und 5"
+        },
+        {
+          "index": 9,
+          "title": "TOP 4 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags"
+        },
+        {
+          "index": 10,
+          "title": "TOP 5 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 11,
+          "title": "TOP 6 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Maßregelvollzugsgesetzes und weiterer Rechtsvorschriften"
+        },
+        {
+          "index": 12,
+          "title": "TOP 7 Zweite Lesung zum Gesetzentwurf zur Einführung eines Bayerischen Kinderstartgeldes"
+        },
+        {
+          "index": 13,
+          "title": "Dritte Lesung zum Gesetzentwurf der Staatsregierung zur Einführung eines Bayerischen Kinderstartgeldes (Drs. 19/7432)"
+        },
+        {
+          "index": 14,
+          "title": "TOP 8 Beratung der zum Plenum eingereichten Dringlichkeitsanträge"
+        },
+        {
+          "index": 15,
+          "title": "Sitzungsende 17:58 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19062",
+      "date": "2025-10-29",
+      "gremium_id": 622,
+      "sitzungsnr": 62,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 15:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1a) Erste Lesung zum Gesetzentwurf Gesetz zum Schutz vor Drohnenüberflügen in Bayern"
+        },
+        {
+          "index": 2,
+          "title": "TOP 1b) Erste Lesung zum Gesetzentwurf Viertes Modernisierungsgesetz Bayern"
+        },
+        {
+          "index": 3,
+          "title": "TOP 1c) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Blindengeldgesetzes hier: Weiterentwicklung zu einem Bayerischen Blinden- und Gehörlosengeldgesetz"
+        },
+        {
+          "index": 4,
+          "title": "TOP 1d) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Naturschutzgesetzes"
+        },
+        {
+          "index": 5,
+          "title": "TOP 2 Antragsliste Abstimmung über Europaangelegenheiten und einen Antrag, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 6,
+          "title": "Abstimmung Antrag auf Begründung und gemeinsame Aussprache zu TOP 3 und 4"
+        },
+        {
+          "index": 7,
+          "title": "TOP 3 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags"
+        },
+        {
+          "index": 8,
+          "title": "TOP 4 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 9,
+          "title": "TOP 5 Beratung der zum Plenum eingereichten Dringlichkeitsanträge"
+        },
+        {
+          "index": 10,
+          "title": "TOP 6 Antrag Verbreitung antisemitischer Stereotypen und Narrative in Schulen monitoren und wirkungsvoll bekämpfen!"
+        },
+        {
+          "index": 11,
+          "title": "TOP 7 Dringlichkeitsantrag Keine Rückkehr in die Kreidezeit - Medienbildung statt Medienverbot!"
+        },
+        {
+          "index": 12,
+          "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 8 und 9 TOP 8 Antrag Antisemitismus bekämpfen I: Unterstützung der Beauftragten, Lehrstuhl für Israel-Studien TOP 9 Antrag Antisemitismus bekämpfen II: Wissenschaftliche Zusammenarbeit und Studierendenaustausch intensivieren!"
+        },
+        {
+          "index": 13,
+          "title": "TOP 10 Antrag Kurorte in der Krise"
+        },
+        {
+          "index": 14,
+          "title": "TOP 11 Antrag Faire Arbeitsbedingungen und Bezahlung für angehende Ärztinnen und Ärzte im Praktischen Jahr"
+        },
+        {
+          "index": 15,
+          "title": "TOP 12 Antrag Mittelfränkische Bedarfsplanung Hallenbäder - Kommunale Zusammenarbeit in einer Musterregion Mittelfranken"
+        },
+        {
+          "index": 16,
+          "title": "TOP 13 Antrag Kosten der Bayerischen Grenzpolizei endlich gegenüber dem Bund einfordern und abrechnen!"
+        },
+        {
+          "index": 17,
+          "title": "Sitzungsende 22:38 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19061",
+      "date": "2025-10-21",
+      "gremium_id": 621,
+      "sitzungsnr": 61,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 14:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Aktuelle Stunde auf Vorschlag der Fraktion BÜNDNIS 90/DIE GRÜNEN zum Thema: \"Leere Kassen, viele Pflichten, wenig Freiheit: Gebt den Kommunen ihre Zukunft zurück!\""
+        },
+        {
+          "index": 2,
+          "title": "TOP 2 Antragsliste Abstimmung über eine Europaangelegenheit und einen Antrag, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 3,
+          "title": "TOP 3a) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Richter- und Staatsanwaltsgesetzes hier: Keine Verfassungsfeinde als Schöffenrichter"
+        },
+        {
+          "index": 4,
+          "title": "TOP 3b) Erste Lesung zum Gesetzentwurf zur Änderung des Feiertagsgesetzes hier: Mariä Himmelfahrt als bayernweiter gesetzlicher Feiertag"
+        },
+        {
+          "index": 5,
+          "title": "TOP 3c) Erste Lesung zum Gesetzentwurf Bayerisches Sportgesetz (BaySportG)"
+        },
+        {
+          "index": 6,
+          "title": "TOP 3d) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Krankenhausgesetzes"
+        },
+        {
+          "index": 7,
+          "title": "Wortmeldung zur Geschäftsordnung (§ 106 BayLTGeSchO)"
+        },
+        {
+          "index": 8,
+          "title": "TOP 4 Wahl von Vertrauensleuten für die Ausschüsse zur Wahl der ehrenamtlichen Richter bei den Finanzgerichten München und Nürnberg"
+        },
+        {
+          "index": 9,
+          "title": "TOP 5 Benennung eines Mitglieds für den Kongress der Gemeinden und Regionen Europas beim Europarat (KGRE)"
+        },
+        {
+          "index": 10,
+          "title": "TOP 6 Bestellung eines stellvertretenden Mitglieds für den Landesdenkmalrat"
+        },
+        {
+          "index": 11,
+          "title": "TOP 7 Bestätigung eines Mitglieds für den Landesgesundheitsrat"
+        },
+        {
+          "index": 12,
+          "title": "Abstimmung Antrag auf Begründung und gemeinsame Aussprache zu TOP 8 und 9"
+        },
+        {
+          "index": 13,
+          "title": "TOP 8 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags"
+        },
+        {
+          "index": 14,
+          "title": "TOP 9 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 15,
+          "title": "TOP 10 Zweite Lesung zum Gesetzentwurf Gesetz über das Beflaggen öffentlicher Gebäude (Bayerisches Beflaggungsgesetz - BayBeFlagG)"
+        },
+        {
+          "index": 16,
+          "title": "TOP 11 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Petitionsgesetzes"
+        },
+        {
+          "index": 17,
+          "title": "TOP 12 Antrag Freiheit und Privatsphäre schützen - Recht auf Bargeld im Grundgesetz verankern"
+        },
+        {
+          "index": 18,
+          "title": "TOP 13 Antrag Schnellerer Umstieg auf Pauschalierung bei der Finanzierung privater Förderschulen"
+        },
+        {
+          "index": 19,
+          "title": "TOP 14 Antrag Förderung von Tempo 50"
+        },
+        {
+          "index": 20,
+          "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 15 bis 18 TOP 15 Antrag Prävention stärken, Zukunft der Reha in Bayern sichern I: Pflegeausbildung auch in Reha-Kliniken und weiteren Einrichtungen TOP 16 Antrag Prävention stärken, Zukunft der Reha in Bayern sichern II: Reha-Kliniken in Krankenhausreform mitdenken TOP 17 Antrag Prävention stärken, Zukunft der Reha in Bayern sichern III: Wirtschaftliche Situation der Reha-Kliniken verbessern, Bürokratie abbauen TOP 18 Antrag Prävention stärken, Zukunft der Reha in Bayern sichern IV: Digitale Transformation in den Reha-Einrichtungen unterstützen"
+        },
+        {
+          "index": 21,
+          "title": "TOP 19 Antrag Gebrauchte Züge beim Vergabeverfahren der BEG berücksichtigen"
+        },
+        {
+          "index": 22,
+          "title": "TOP 20 Antrag Förderung von Hochwasserschutzmaßnahmen auch in bebauten Randgebieten: Rechtsklarheit und finanzielle Unterstützung für Kommunen schaffen"
+        },
+        {
+          "index": 23,
+          "title": "TOP 21 Antrag EU-CO2-Flottengrenzwerte abschaffen - Keine planwirtschaftlichen Vorgaben für die Automobilindustrie in Bayern, Deutschland und Europa"
+        },
+        {
+          "index": 24,
+          "title": "TOP 22 Antrag Keine zweite Runde: Weg mit dem Sitzenbleiben, dafür Chancen schaffen!"
+        },
+        {
+          "index": 25,
+          "title": "Sitzungsende 21:13 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19060",
+      "date": "2025-10-16",
+      "gremium_id": 620,
+      "sitzungsnr": 60,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 09:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Aktuelle Stunde auf Vorschlag der AfD-Fraktion zum Thema: \"Klimaideologie beenden - maßlosen Ausbau von Windrädern stoppen!\""
+        },
+        {
+          "index": 2,
+          "title": "TOP 2 Antragsliste Abstimmung über Verfassungsstreitigkeiten, Europaangelegenheiten und Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 3,
+          "title": "TOP 3a) Erste Lesung zum Gesetzentwurf zur Änderung der Gemeindeordnung und weiterer Rechtsvorschriften hier: Stärkung der Demokratie in den Kommunen"
+        },
+        {
+          "index": 4,
+          "title": "TOP 3b) Erste Lesung zum Gesetzentwurf zur Änderung des Gesetzes zur Ausführung des Berufsbildungsgesetzes und des Berufsqualifikationsfeststellungsgesetzes"
+        },
+        {
+          "index": 5,
+          "title": "TOP 3c) Erste Lesung zum Gesetzentwurf zur Änderung des Gesetzes zur Ausführung der Sozialgesetze"
+        },
+        {
+          "index": 6,
+          "title": "Mittagspause"
+        },
+        {
+          "index": 7,
+          "title": "TOP 3d) Erste Lesung zum Gesetzentwurf zur Änderung des Gesetzes über den Bayerischen Maximiliansorden für Wissenschaft und Kunst"
+        },
+        {
+          "index": 8,
+          "title": "TOP 3e) Erste Lesung zum Gesetzentwurf zur Änderung dienstrechtlicher Vorschriften"
+        },
+        {
+          "index": 9,
+          "title": "Abstimmung Antrag auf Begründung und gemeinsame Aussprache zu TOP 4 und 5"
+        },
+        {
+          "index": 10,
+          "title": "TOP 4 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags"
+        },
+        {
+          "index": 11,
+          "title": "TOP 5 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 12,
+          "title": "TOP 6 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Sozialgerichts-Ausführungsgesetzes"
+        },
+        {
+          "index": 13,
+          "title": "TOP 7 Beratung der zum Plenum eingereichten Dringlichkeitsanträge"
+        },
+        {
+          "index": 14,
+          "title": "Sitzungsende 17:00 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19059",
+      "date": "2025-10-08",
+      "gremium_id": 619,
+      "sitzungsnr": 59,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 13:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1a) Erste Lesung zum Gesetzentwurf zur Aufhebung des Bayerischen Beauftragtengesetzes und zur Änderung weiterer Rechtsvorschriften"
+        },
+        {
+          "index": 2,
+          "title": "TOP 1b) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Schulfinanzierungsgesetzes und des Bayerischen Finanzausgleichsgesetzes hier: Mittagsverpflegung an Grund- und Förderschulen: beitragsfrei, nachhaltig und gesund"
+        },
+        {
+          "index": 3,
+          "title": "TOP 1c) Erste Lesung zum Gesetzentwurf zur Änderung des Kommunalabgabengesetzes"
+        },
+        {
+          "index": 4,
+          "title": "TOP 1d) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Archivgesetzes"
+        },
+        {
+          "index": 5,
+          "title": "TOP 1e) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Denkmalschutzgesetzes und weiterer Rechtsvorschriften"
+        },
+        {
+          "index": 6,
+          "title": "TOP 1f) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Bodenschutzgesetzes"
+        },
+        {
+          "index": 7,
+          "title": "TOP 1g) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Landespflegegeldgesetzes"
+        },
+        {
+          "index": 8,
+          "title": "TOP 1h) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Straßen- und Wegegesetzes"
+        },
+        {
+          "index": 9,
+          "title": "TOP 2 Antragsliste Abstimmung über Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 10,
+          "title": "TOP 3 Bestätigung eines Mitglieds und eines stellvertretenden Mitglieds für den Landesgesundheitsrat"
+        },
+        {
+          "index": 11,
+          "title": "Abstimmung Antrag auf Begründung und gemeinsame Aussprache zu TOP 4 und 5"
+        },
+        {
+          "index": 12,
+          "title": "TOP 4 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags"
+        },
+        {
+          "index": 13,
+          "title": "TOP 5 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 14,
+          "title": "TOP 6 Zwischenbericht der Enquete-Kommission Potenziale in Gesellschaft, Wirtschaft und Verwaltung entfesseln - Das Leben leichter machen, Bürokratie abbauen, den Staat neu denken"
+        },
+        {
+          "index": 15,
+          "title": "TOP 7 Beratung der zum Plenum eingereichten Dringlichkeitsanträge"
+        },
+        {
+          "index": 16,
+          "title": "Sitzungsende 21:32 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19056",
+      "date": "2025-07-24",
+      "gremium_id": 618,
+      "sitzungsnr": 56,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 09:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 29 Beratung der zum Plenum eingereichten Dringlichkeitsanträge"
+        },
+        {
+          "index": 2,
+          "title": "Schlussworte"
+        },
+        {
+          "index": 3,
+          "title": "Sitzungsende 13:32 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19056",
+      "date": "2025-07-23",
+      "gremium_id": 617,
+      "sitzungsnr": 56,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 09:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 6a) Erste Lesung zum Gesetzentwurf zur Einführung eines Bayerischen Kinderstartgeldes"
+        },
+        {
+          "index": 2,
+          "title": "TOP 6b) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Denkmalschutzgesetzes"
+        },
+        {
+          "index": 3,
+          "title": "TOP 7 Wahl Besetzung des Bayerischen Verfassungsgerichtshofs Wieder- bzw. Neuwahl berufsrichterlicher Mitglieder"
+        },
+        {
+          "index": 4,
+          "title": "TOP 8 Zweite Lesung zum Antrag auf Zustimmung zum Vertrag über die Errichtung, den Betrieb und die Weiterentwicklung des Nationalen Once-Only-Technical-Systems (NOOTS) - Vertrag zur Ausführung von Artikel 91c Absatz 1, Absatz 2 GG - NOOTS-Staatsvertrag"
+        },
+        {
+          "index": 5,
+          "title": "Geschäftsordnungsantrag nach §106 der Geschäftsordnung"
+        },
+        {
+          "index": 6,
+          "title": "TOP 9 Zweite Lesung zum Gesetzentwurf Drittes Modernisierungsgesetz Bayern"
+        },
+        {
+          "index": 7,
+          "title": "TOP 10 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Wassergesetzes"
+        },
+        {
+          "index": 8,
+          "title": "Mittagspause"
+        },
+        {
+          "index": 9,
+          "title": "TOP 11 Zweite Lesung zum Gesetzentwurf Bayerisches Transparenzgesetz (BayTranspG)"
+        },
+        {
+          "index": 10,
+          "title": "TOP 12 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Gesetzes über das Erziehungs- und Unterrichtswesen"
+        },
+        {
+          "index": 11,
+          "title": "TOP 13 Dringlichkeitsantrag Kostenexplosion Elternbeiträge verhindern - Für eine echte Entlastung unserer Familien!"
+        },
+        {
+          "index": 12,
+          "title": "TOP 14 Antrag Tierschutz in der Nutztierhaltung durchsetzen - Schmerzen bei Tieren erfassen und ihre Ursachen beseitigen"
+        },
+        {
+          "index": 13,
+          "title": "TOP 15 Antrag Bundesregierung lässt afghanische Asylbewerber einfliegen - Rechtmäßigkeit und Auswirkungen des Bundesaufnahmeprogramms"
+        },
+        {
+          "index": 14,
+          "title": "TOP 16 Antrag Datenerfassung an bayerischen Schulen zur Individuellen Lernzeitverkürzung (ILV) am neunjährigen Gymnasium (G9)"
+        },
+        {
+          "index": 15,
+          "title": "TOP 17 Antrag Akademie der Bildenden Künste Nürnberg: Kein Solidaritätsakt für Mordversuche!"
+        },
+        {
+          "index": 16,
+          "title": "TOP 18 Antrag \"Wahrheitsministerium\" verhindern!"
+        },
+        {
+          "index": 17,
+          "title": "TOP 19 Antrag Forschungsoffensive für Altersforschung auf den Weg bringen!"
+        },
+        {
+          "index": 18,
+          "title": "TOP 20 Antrag Nein zum E-Rechnungszwang - Freiwillige Digitalisierung statt staatlicher Bevormundung!"
+        },
+        {
+          "index": 19,
+          "title": "TOP 21 Antrag Bayerische KMU entlasten: Kassenbonzwang endlich abschaffen!"
+        },
+        {
+          "index": 20,
+          "title": "TOP 22 Antrag AfD-Forderung umsetzen und CSU-Wahlversprechen einhalten: Das Heizungsgesetz abschaffen!"
+        },
+        {
+          "index": 21,
+          "title": "TOP 23 Antrag Einführung einer Digitalsteuer nach dem Marktlandprinzip - Faire Besteuerung digitaler Großkonzerne in Deutschland"
+        },
+        {
+          "index": 22,
+          "title": "TOP 24 Antrag Regelung im Kommunalabgabengesetz schaffen - keine Straßenerschließungskosten für vorhandene Straßenprovisorien!"
+        },
+        {
+          "index": 23,
+          "title": "TOP 25 Antrag Pflanzenschutz zukunftsfähig und effektiv gestalten: Auflagen für technische Innovationen in der Landwirtschaft aus dem Weg räumen!"
+        },
+        {
+          "index": 24,
+          "title": "TOP 26 Antrag Mehr Geld für Start-ups - Stiftungen als Kapitalgeber für Start-ups gewinnen"
+        },
+        {
+          "index": 25,
+          "title": "TOP 27 Antrag Anwerbung und Integration US-amerikanischer Wissenschaftlerinnen und Wissenschaftler"
+        },
+        {
+          "index": 26,
+          "title": "TOP 28 Eingabe Einwände gegen die geplante Asylunterkunft in München-Großhadern EB.0551.19"
+        },
+        {
+          "index": 27,
+          "title": "Sitzungsende 19:29 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19056",
+      "date": "2025-07-22",
+      "gremium_id": 616,
+      "sitzungsnr": 56,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 14:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Aktuelle Stunde auf Vorschlag der Fraktion FREIE WÄHLER zum Thema: \"Mehr Freiheit für unsere Wirtschaft\""
+        },
+        {
+          "index": 2,
+          "title": "TOP 2 Antragsliste Abstimmung über Europaangelegenheiten und Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 3,
+          "title": "TOP 3a) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Naturschutzgesetzes hier: Sichere Nächte für Igel und Co - Einsatzzeiten von Mährobotern begrenzen"
+        },
+        {
+          "index": 4,
+          "title": "TOP 3b) Erste Lesung zum Gesetzentwurf zur Änderung der Bayerischen Bauordnung hier: Hochwasserschutz"
+        },
+        {
+          "index": 5,
+          "title": "Abstimmung Antrag auf Begründung und gemeinsame Aussprache zu TOP 4 und 5"
+        },
+        {
+          "index": 6,
+          "title": "TOP 4 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags"
+        },
+        {
+          "index": 7,
+          "title": "TOP 5 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 8,
+          "title": "Sitzungsende 16:44 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19055",
+      "date": "2025-07-10",
+      "gremium_id": 615,
+      "sitzungsnr": 55,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 09:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Aktuelle Stunde auf Vorschlag der CSU-Fraktion zum Thema: \"NGOs: Sorgsame Verwendung von Steuergeldern und rechtsstaatliche Kontrolle für ein partnerschaftliches Miteinander\""
+        },
+        {
+          "index": 2,
+          "title": "TOP 2 Antragsliste Abstimmung über Europaangelegenheiten und Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 3,
+          "title": "TOP 3a) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Landesplanungsgesetzes hier: Beschleunigung der Ausweisung von Windvorranggebieten"
+        },
+        {
+          "index": 4,
+          "title": "TOP 3b) Erste Lesung zum Gesetzentwurf zur Änderung der Verfassung des Freistaates Bayern hier: Streichung der Altersgrenze für das Amt der Ministerpräsidentin bzw. des Ministerpräsidenten"
+        },
+        {
+          "index": 5,
+          "title": "Abstimmung Antrag auf Begründung und gemeinsame Aussprache zu TOP 4 und 5"
+        },
+        {
+          "index": 6,
+          "title": "TOP 4 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags"
+        },
+        {
+          "index": 7,
+          "title": "TOP 5 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 8,
+          "title": "TOP 6 Zweite Lesung zum Gesetzentwurf Bayerisches Ladenschlussgesetz (BayLadSchlG)"
+        },
+        {
+          "index": 9,
+          "title": "TOP 7 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Gesetzes über das Erziehungs- und Unterrichtswesen"
+        },
+        {
+          "index": 10,
+          "title": "Mittagspause"
+        },
+        {
+          "index": 11,
+          "title": "TOP 8 Zweite Lesung zum Gesetzentwurf Bayerisches Antidiskriminierungsgesetz (BayADG)"
+        },
+        {
+          "index": 12,
+          "title": "TOP 9 Beratung der zum Plenum eingereichten Dringlichkeitsanträge"
+        },
+        {
+          "index": 13,
+          "title": "TOP 10 Antrag Klimaschutzpolitik auf Kosten des Handwerks? Anhörung zu den Auswirkungen der nationalen CO2-Abgabe auf das bayerische Bäckerhandwerk"
+        },
+        {
+          "index": 14,
+          "title": "TOP 11 Antrag Kooperativen Naturschutz entbürokratisieren und effizienter gestalten: Landwirte bei der Vergabe von Fördermitteln im Bereich der Landschaftspflege priorisieren!"
+        },
+        {
+          "index": 15,
+          "title": "Sitzungsende 17:22 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19054",
+      "date": "2025-07-02",
+      "gremium_id": 614,
+      "sitzungsnr": 54,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 13:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1a) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Kinderbildungs- und -betreuungsgesetzes"
+        },
+        {
+          "index": 2,
+          "title": "TOP 1b) Erste Lesung zum Gesetzentwurf Bayerisches Gesetz über die Beteiligung von Gemeinden und Bevölkerung an Windenergie- und Photovoltaikanlagen (BayWindPVBetG)"
+        },
+        {
+          "index": 3,
+          "title": "TOP 1c) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Maßregelvollzugsgesetzes und weiterer Rechtsvorschriften"
+        },
+        {
+          "index": 4,
+          "title": "TOP 1d) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Sozialgerichts-Ausführungsgesetzes"
+        },
+        {
+          "index": 5,
+          "title": "TOP 1e) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Waldgesetzes"
+        },
+        {
+          "index": 6,
+          "title": "TOP 2 Antragsliste Abstimmung über Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 7,
+          "title": "Abstimmung Antrag auf Begründung und gemeinsame Aussprache zu TOP 3 und 4"
+        },
+        {
+          "index": 8,
+          "title": "TOP 3 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags"
+        },
+        {
+          "index": 9,
+          "title": "TOP 4 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 10,
+          "title": "Abstimmung Antrag auf Begründung und Aussprache zu TOP 5"
+        },
+        {
+          "index": 11,
+          "title": "TOP 5 Wahl eines Mitglieds des Parlamentarischen Kontrollgremiums"
+        },
+        {
+          "index": 12,
+          "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 6 und 7 Zweite Lesung zum Gesetzentwurf der Staatsregierung zur Änderung des Bayerischen Gleichstellungsgesetzes (Drs. 19/4432) und Zweite Lesung zum Gesetzentwurf der SPD-Fraktion zur Änderung des Bayerischen Gleichstellungsgesetzes (Drs. 19/4553) TOP 6 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Gleichstellungsgesetzes TOP 7 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Gleichstellungsgesetzes"
+        },
+        {
+          "index": 13,
+          "title": "TOP 8 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Katastrophenschutzgesetzes hier: Helfergleichstellung in Bayern"
+        },
+        {
+          "index": 14,
+          "title": "TOP 9 Zweite Lesung zum Gesetzentwurf zur Änderung des Gesetzes zur Ausführung der Verwaltungsgerichtsordnung"
+        },
+        {
+          "index": 15,
+          "title": "TOP 10 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Feuerwehrgesetzes und der Bayerischen Bauordnung"
+        },
+        {
+          "index": 16,
+          "title": "TOP 11 Antrag auf Zustimmung zum Staatsvertrag zur Aufgabenerfüllung nach dem Barrierefreiheitsstärkungsgesetz"
+        },
+        {
+          "index": 17,
+          "title": "TOP 12 Antrag auf Zustimmung zum Sechsten Staatsvertrag zur Änderung medienrechtlicher Staatsverträge (Sechster Medienänderungsstaatsvertrag)"
+        },
+        {
+          "index": 18,
+          "title": "TOP 13 Antrag auf Zustimmung zum Siebten Staatsvertrag zur Änderung medienrechtlicher Staatsverträge - Reform des öffentlich-rechtlichen Rundfunks (Reformstaatsvertrag)"
+        },
+        {
+          "index": 19,
+          "title": "TOP 14 Beratung der zum Plenum eingereichten Dringlichkeitsanträge"
+        },
+        {
+          "index": 20,
+          "title": "Sitzungsende 21:21 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19053",
+      "date": "2025-06-24",
+      "gremium_id": 613,
+      "sitzungsnr": 53,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 14:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Aktuelle Stunde auf Vorschlag der SPD-Fraktion zum Thema: \"Zukunft wird vor Ort gestaltet - mehr Geld für Städte und Gemeinden\""
+        },
+        {
+          "index": 2,
+          "title": "TOP 2a) Erste Lesung zum Antrag auf Zustimmung zum Vertrag über die Errichtung, den Betrieb und die Weiterentwicklung des Nationalen Once-Only-Technical-Systems (NOOTS) - Vertrag zur Ausführung von Artikel 91c Absatz 1, Absatz 2 GG - NOOTS-Staatsvertrag"
+        },
+        {
+          "index": 3,
+          "title": "TOP 2b) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Gesetzes über das Erziehungs- und Unterrichtswesen"
+        },
+        {
+          "index": 4,
+          "title": "TOP 2c) Gesetzentwurf zur Änderung des Bayerischen Petitionsgesetzes"
+        },
+        {
+          "index": 5,
+          "title": "TOP 2d) Erste Lesung zum Gesetzentwurf zur Änderung des Kommunalabgabengesetzes hier: Stärkung des Steuerfindungsrechts der Kommunen und Ermöglichung eines Gästebeitrags im Tourismus"
+        },
+        {
+          "index": 6,
+          "title": "TOP 2e) Erste Lesung zum Antrag auf Zustimmung zum Abkommen zur Änderung des Abkommens über die Zentralstelle der Länder für Sicherheitstechnik"
+        },
+        {
+          "index": 7,
+          "title": "Abstimmung Antrag auf Begründung und gemeinsame Aussprache zu TOP 3 und 4"
+        },
+        {
+          "index": 8,
+          "title": "TOP 3 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags"
+        },
+        {
+          "index": 9,
+          "title": "TOP 4 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 10,
+          "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 5 und 6 TOP 5 Antrag Entlastung der Staatsregierung aufgrund der Haushaltsrechnung des Freistaates Bayern für das Haushaltsjahr 2023 TOP 6 Antrag Entlastung aufgrund des Beitrags zur Haushaltsrechnung 2023 für den Epl. 11"
+        },
+        {
+          "index": 11,
+          "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 7 bis 10 TOP 7 Antrag Für Bayerns Kitas VII - Zügige und unbürokratische Anerkennung ausländischer Abschlüsse TOP 8 Antrag Für Bayerns Kitas VIII - Fachkräfte gewinnen TOP 9 Antrag Für Bayerns Kitas IX - Stärkung der Ausbildung TOP 10 Antrag Für Bayerns Kitas X - Unterschiede in den regionalen Herausforderungen in den bayerischen Kitas herausarbeiten"
+        },
+        {
+          "index": 12,
+          "title": "TOP 11 Antrag Bayern trägt Verantwortung! - Unabhängige Anlaufstelle für Nachkommen der Opfer von NS-verfolgungsbedingt entzogenem Kulturgut schaffen"
+        },
+        {
+          "index": 13,
+          "title": "TOP 12 Antrag Experimente am Reisenden beenden - Verbrennungsmotoren beibehalten"
+        },
+        {
+          "index": 14,
+          "title": "TOP 13 Antrag Neutralitätspflicht in Bayerns Schulen gewährleisten"
+        },
+        {
+          "index": 15,
+          "title": "TOP 14 Antrag Reform des Gesetzes über die Entschädigung für Strafverfolgungsmaßnahmen (StrERG)"
+        },
+        {
+          "index": 16,
+          "title": "TOP 15 Antrag Schluss mit Eltern-Taxis - Sicherheit für unsere Kinder"
+        },
+        {
+          "index": 17,
+          "title": "Sitzungsende 21:40 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19052",
+      "date": "2025-06-05",
+      "gremium_id": 612,
+      "sitzungsnr": 52,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 09:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Aktuelle Stunde auf Vorschlag der Fraktion BÜNDNIS 90/DIE GRÜNEN zum Thema: \"Rettet die Berge - Bergliebe statt Bausünde\""
+        },
+        {
+          "index": 2,
+          "title": "TOP 2 Antragsliste Abstimmung über Europaangelegenheiten und Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 3,
+          "title": "Außerhalb der Tagesordnung: Aufhebung der Immunität eines Mitglieds des Bayerischen Landtags"
+        },
+        {
+          "index": 4,
+          "title": "TOP 3a) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Wassergesetzes"
+        },
+        {
+          "index": 5,
+          "title": "TOP 3b) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Gesetzes über das Erziehungs- und Unterrichtswesen"
+        },
+        {
+          "index": 6,
+          "title": "TOP 3c) Erste Lesung zum Gesetzentwurf Gesetz über das Beflaggen öffentlicher Gebäude (Bayerisches Beflaggungsgesetz - BayBeFlagG)"
+        },
+        {
+          "index": 7,
+          "title": "Abstimmung Antrag auf Begründung und gemeinsame Aussprache zu TOP 4 und 5"
+        },
+        {
+          "index": 8,
+          "title": "TOP 4 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags"
+        },
+        {
+          "index": 9,
+          "title": "TOP 5 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 10,
+          "title": "Mittagspause"
+        },
+        {
+          "index": 11,
+          "title": "TOP 6 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Strafvollzugsgesetzes und weiterer Rechtsvorschriften"
+        },
+        {
+          "index": 12,
+          "title": "TOP 7 Beratung der zum Plenum eingereichten Dringlichkeitsanträge"
+        },
+        {
+          "index": 13,
+          "title": "TOP 8 Antrag LKW-Führerschein für die Mitglieder der Blaulichtfamilie vereinfachen!"
+        },
+        {
+          "index": 14,
+          "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 9 bis 13 TOP 9 Antrag Bürokratie abbauen: Wegfall der Wohnungsgeberbestätigung TOP 10 Antrag Bürokratie abbauen, Ausländerbehörden entlasten I: Plattform mit bayernweit einheitlichen Standards zur Aktenversendung TOP 11 Antrag Bürokratie abbauen, Ausländerbehörden entlasten II: Beteiligung der Bundesagentur für Arbeit bei Antrag auf Beschäftigungsverhältnis streichen TOP 12 Antrag Bürokratie abbauen, Ausländerbehörden entlasten III: Wartezeitauskunft der Deutschen Rentenversicherung bei Erteilung einer Niederlassungserlaubnis digitalisieren TOP 13 Antrag Bürokratie abbauen, Ausländerbehörden entlasten IV: Bei befristeten Aufenthaltstiteln auf Passdaten verzichten"
+        },
+        {
+          "index": 15,
+          "title": "Sitzungsende 17:13 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19051",
+      "date": "2025-05-21",
+      "gremium_id": 611,
+      "sitzungsnr": 51,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 13:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Erste Lesung zum Gesetzentwurf Bayerisches Transparenzgesetz (BayTranspG)"
+        },
+        {
+          "index": 2,
+          "title": "TOP 2 Antragsliste Abstimmung über eine Verfassungsstreitigkeit und Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 3,
+          "title": "Abstimmung Antrag auf Begründung und gemeinsame Aussprache zu TOP 3 und 4"
+        },
+        {
+          "index": 4,
+          "title": "TOP 3 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags"
+        },
+        {
+          "index": 5,
+          "title": "TOP 4 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 6,
+          "title": "TOP 5 Beratung der zum Plenum eingereichten Dringlichkeitsanträge"
+        },
+        {
+          "index": 7,
+          "title": "TOP 6 Antrag Strategische Rohstoffversorgung für Bayerns Wirtschaft: Zukunftssicherung mit günstigen Seltenen Erden"
+        },
+        {
+          "index": 8,
+          "title": "TOP 7 Antrag Wiederinbetriebnahme des Kernkraftwerks Isar II sicherstellen"
+        },
+        {
+          "index": 9,
+          "title": "TOP 8 Dringlichkeitsantrag Nein zum Preisschock auf Sprit und Heizen: CO2-Abgabe abschaffen!"
+        },
+        {
+          "index": 10,
+          "title": "TOP 9 Antrag Digitale Ausgabe von Parkausweisen für Handwerkerinnen und Handwerker, Handelsvertretungen und Soziale Dienste ermöglichen"
+        },
+        {
+          "index": 11,
+          "title": "TOP 10 Antrag Keine Abwälzung von Polizeikosten bei Sport- und Kulturveranstaltungen!"
+        },
+        {
+          "index": 12,
+          "title": "TOP 11 Antrag Sprachstandstests korrekt umsetzen und Lehrkräfte angemessen entlohnen"
+        },
+        {
+          "index": 13,
+          "title": "TOP 12 Antrag Biss in die Zukunft: Kostenloses Obst und Gemüse für alle Kinder in Bayern!"
+        },
+        {
+          "index": 14,
+          "title": "Sitzungsende 20:22 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19050",
+      "date": "2025-05-13",
+      "gremium_id": 610,
+      "sitzungsnr": 50,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 14:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Aktuelle Stunde auf Vorschlag der AfD-Fraktion zum Thema: \"Aufbruch für Bayern - Niedergang beenden: Migrations- und Wirtschaftswende jetzt!\""
+        },
+        {
+          "index": 2,
+          "title": "TOP 2 Antragsliste Abstimmung über eine Verfassungsstreitigkeit und Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 3,
+          "title": "TOP 3 Erste Lesung zum Gesetzentwurf Drittes Modernisierungsgesetz Bayern"
+        },
+        {
+          "index": 4,
+          "title": "Abstimmung Antrag auf Begründung und gemeinsame Aussprache zu TOP 4 und 5"
+        },
+        {
+          "index": 5,
+          "title": "TOP 4 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags"
+        },
+        {
+          "index": 6,
+          "title": "TOP 5 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 7,
+          "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 6 bis 17 TOP 6 Antrag Gemeinsam gegen islamistischen Terrorismus I - Online-Radikalisierung verfolgen und bekämpfen! TOP 7 Antrag Gemeinsam gegen islamistischen Terrorismus II - Ein Update für die Prävention und Radikalisierungsforschung! TOP 8 Antrag Gemeinsam gegen islamistischen Terrorismus III - Terrorfinanzierung austrocknen! TOP 9 Antrag Gemeinsam gegen islamistischen Terrorismus IV - Zusammenarbeit der Sicherheitsbehörden voranbringen! TOP 10 Antrag Islamistischen Terrorismus in Bayern effektiv bekämpfen - Sofortmaßnahmen umsetzen TOP 11 Antrag Keine Toleranz für die Intoleranten - Islamismus transparent machen und umfassend bekämpfen I: Entwicklung eines Bund-Länder-Aktionsplans gegen Islamismus TOP 12 Antrag Keine Toleranz für die Intoleranten - Islamismus transparent machen und umfassend bekämpfen II: Maßnahmen zur Transparenz der Auslandsfinanzierung von Moschee-Vereinen in Deutschland TOP 13 Antrag Keine Toleranz für die Intoleranten - Islamismus transparent machen und umfassend bekämpfen III: Prüfung der Einrichtung einer bundesweiten multidisziplinären Dokumentationsstelle \"Politischer Islamismus\" TOP 14 Antrag Keine Toleranz für die Intoleranten - Islamismus transparent machen und umfassend bekämpfen IV: Präventionsarbeit gegen Islamismus weiter ausbauen TOP 15 Antrag Keine Toleranz für die Intoleranten - Islamismus transparent machen und umfassend bekämpfen V: Mädchen und Frauen schützen! Stärkung der Strukturen gegen Zwangsheirat und Verschleppung, Schaffung einer Melde- und Koordinationsstelle TOP 16 Antrag Keine Toleranz für die Intoleranten - Islamismus transparent machen und umfassend bekämpfen VI: Islamistische Versammlungen unterbinden und Einzelpersonen genau ins Visier nehmen TOP 17 Antrag Bayern muss Konsequenzen aus islamistischen Anschlägen ziehen!"
+        },
+        {
+          "index": 8,
+          "title": "TOP 18 Antrag \"Olaf Scholz begleitet die Einbürgerung einer türkischen Staatsbürgerin ohne Deutschkenntnisse in Nürnberg - Information der Staatsregierung\""
+        },
+        {
+          "index": 9,
+          "title": "TOP 19 Antrag Regelüberprüfung der Schutzberechtigung wieder einführen - Asyl ist Schutz auf Zeit, kein Vehikel der Einwanderung"
+        },
+        {
+          "index": 10,
+          "title": "TOP 20 Antrag Streichung des § 188 StGB"
+        },
+        {
+          "index": 11,
+          "title": "TOP 21 Antrag Vermeidung von doppelter oder mehrfacher Staatsbürgerschaft wieder zum Leitprinzip erheben"
+        },
+        {
+          "index": 12,
+          "title": "TOP 22 Dringlichkeitsantrag Freihandel statt Protektionismus: Mercosur-Abkommen sichern"
+        },
+        {
+          "index": 13,
+          "title": "TOP 23 Dringlichkeitsantrag Eine Frage der Generationengerechtigkeit - Absenkung des Wahlalters auf 16 Jahre"
+        },
+        {
+          "index": 14,
+          "title": "Sitzungsende 19:48 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19049",
+      "date": "2025-05-06",
+      "gremium_id": 609,
+      "sitzungsnr": 49,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 14:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Aktuelle Stunde auf Vorschlag der Fraktion FREIE WÄHLER zum Thema: \"Solide Kommunalfinanzen als Schlüssel zur Leistungsfähigkeit unserer Kommunen\""
+        },
+        {
+          "index": 2,
+          "title": "TOP 2 Antragsliste Abstimmung über Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 3,
+          "title": "TOP 3a) Erste Lesung zum Antrag auf Zustimmung zum Sechsten Staatsvertrag zur Änderung medienrechtlicher Staatsverträge (Sechster Medienänderungsstaatsvertrag)"
+        },
+        {
+          "index": 4,
+          "title": "TOP 3b) Erste Lesung zum Antrag auf Zustimmung zum Siebten Staatsvertrag zur Änderung medienrechtlicher Staatsverträge - Reform des öffentlich-rechtlichen Rundfunks (Reformstaatsvertrag)"
+        },
+        {
+          "index": 5,
+          "title": "TOP 3c) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Naturschutzgesetzes"
+        },
+        {
+          "index": 6,
+          "title": "TOP 3d) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Wassergesetzes"
+        },
+        {
+          "index": 7,
+          "title": "Abstimmung Antrag auf Begründung und gemeinsame Aussprache zu TOP 4 und 5"
+        },
+        {
+          "index": 8,
+          "title": "TOP 4 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags"
+        },
+        {
+          "index": 9,
+          "title": "TOP 5 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 10,
+          "title": "TOP 6 Zweite Lesung zum Gesetzentwurf zur Änderung der Bayerischen Bauordnung hier: Abschaffung des Solardach-Zwangs"
+        },
+        {
+          "index": 11,
+          "title": "TOP 7 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Waldgesetzes hier: Schutz des Waldes im Freistaat Bayern vor Windkraftanlagen"
+        },
+        {
+          "index": 12,
+          "title": "TOP 8 Zweite Lesung zum Gesetzentwurf zur Aufhebung des Bayerischen Klimaschutzgesetzes - Entlastung der bayerischen Bürger, der Wirtschaft sowie der Verwaltung von Bürokratie"
+        },
+        {
+          "index": 13,
+          "title": "TOP 9 Zweite Lesung zum Antrag auf Zustimmung zum Abkommen zur Änderung des Abkommens über die Errichtung und Finanzierung des Instituts für medizinische und pharmazeutische Prüfungsfragen"
+        },
+        {
+          "index": 14,
+          "title": "TOP 10 Eingabe Unterbringung von Asylsuchenden im Markt Lappersdorf Beschwerde über Landratsamt Regensburg EB 0306.19"
+        },
+        {
+          "index": 15,
+          "title": "TOP 11 Antrag Bericht über die Planungen und Fortschritte zur weiteren Nutzung des Nürnberger Fernmeldeturmes"
+        },
+        {
+          "index": 16,
+          "title": "TOP 12 Antrag Zurück zu Deutsch als Wissenschaftssprache"
+        },
+        {
+          "index": 17,
+          "title": "Sitzungsende 19:42 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19048",
+      "date": "2025-04-09",
+      "gremium_id": 608,
+      "sitzungsnr": 48,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 13:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1a) Erste Lesung zum Gesetzentwurf zur Änderung des Gesetzes zur Ausführung der Verwaltungsgerichtsordnung"
+        },
+        {
+          "index": 2,
+          "title": "TOP 1b) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Feuerwehrgesetzes und der Bayerischen Bauordnung"
+        },
+        {
+          "index": 3,
+          "title": "TOP 2 Antragsliste Abstimmung über Europaangelegenheiten und Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 4,
+          "title": "Abstimmung Antrag auf Begründung und gemeinsame Aussprache zu TOP 3 und 4"
+        },
+        {
+          "index": 5,
+          "title": "TOP 3 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags"
+        },
+        {
+          "index": 6,
+          "title": "TOP 4 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 7,
+          "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 5 und 6 TOP 5 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Finanzausgleichsgesetzes und der Bayerischen Durchführungsverordnung Finanzausgleichsgesetz (Finanzausgleichsänderungsgesetz 2025) TOP 6 Zweite Lesung zum Gesetzentwurf zur Änderung des Haushaltsgesetzes 2024/2025 (Nachtragshaushaltsgesetz 2025 - NHG 2025) Änderungsanträge zum Nachtragshaushaltsgesetz 2025:"
+        },
+        {
+          "index": 8,
+          "title": "TOP 7 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Krankenhausgesetzes und der Verordnung zur Durchführung des Bayerischen Krankenhausgesetzes"
+        },
+        {
+          "index": 9,
+          "title": "TOP 8 Zweite Lesung zum Gesetzentwurf zur Änderung des Gesetzes über die Errichtung der Bayerischen Forschungsstiftung und des Bayerischen Ministergesetzes"
+        },
+        {
+          "index": 10,
+          "title": "TOP 9 Beratung der zum Plenum eingereichten Dringlichkeitsanträge"
+        },
+        {
+          "index": 11,
+          "title": "Sitzungsende 22:59 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19047",
+      "date": "2025-04-01",
+      "gremium_id": 607,
+      "sitzungsnr": 47,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 14:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Aktuelle Stunde auf Vorschlag der CSU-Fraktion zum Thema: \"Für einen modernen Staat: Mehr Freiheit, mehr Vertrauen, weniger Bürokratie\""
+        },
+        {
+          "index": 2,
+          "title": "TOP 2 Antragsliste Abstimmung über Europaangelegenheiten und Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 3,
+          "title": "TOP 3a) Erste Lesung zum Antrag auf Zustimmung zum Staatsvertrag zur Aufgabenerfüllung nach dem Barrierefreiheitsstärkungsgesetz"
+        },
+        {
+          "index": 4,
+          "title": "TOP 3b) Gesetzentwurf Bayerisches Ladenschlussgesetz (BayLadSchlG)"
+        },
+        {
+          "index": 5,
+          "title": "Abstimmung Antrag auf Begründung und gemeinsame Aussprache zu TOP 4 und 5"
+        },
+        {
+          "index": 6,
+          "title": "TOP 4 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags"
+        },
+        {
+          "index": 7,
+          "title": "TOP 5 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 8,
+          "title": "Abstimmung Antrag auf Begründung und Aussprache zu TOP 6"
+        },
+        {
+          "index": 9,
+          "title": "TOP 6 Wahl eines Mitglieds des Parlamentarischen Kontrollgremiums"
+        },
+        {
+          "index": 10,
+          "title": "TOP 7 Antrag Umsetzung der EU-Richtlinie über die Abschöpfung und Einziehung von Vermögenswerten: Die Grundrechte der Bürger wahren, kein EU-Vermögensregister einführen!"
+        },
+        {
+          "index": 11,
+          "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 8 bis 15 TOP 8 Antrag Wärmepakt 2040: Wirtschaftsbooster energetische Sanierung TOP 9 Antrag Wärmepakt 2040: Förderung der Solarthermie TOP 10 Antrag Wärmepakt 2040: Das Geld ist da - es muss nur aktiviert werden TOP 11 Antrag Wärmepakt 2040: Gemeinsam zum Ziel. Alle Expertinnen und Experten an einen Tisch holen. TOP 12 Antrag Wärmepakt 2040: Komfort und Sicherheit durch Wärmenetze TOP 13 Antrag Wärmepakt 2040: Investitionen der Kommunen bei der Wärmewende wirkungsvoll unterstützen TOP 14 Antrag Wärmepakt 2040: Rechtssicherheit für alle bayerischen Kommunen herstellen. TOP 15 Antrag Wärmepakt 2040: Sanierungssprint für Ein- und Zweifamilienhäuser"
+        },
+        {
+          "index": 12,
+          "title": "TOP 16 Antrag Kooperation von Landwirtschaft, Landschaftspflege und Naturschutz nicht aufs Spiel setzen"
+        },
+        {
+          "index": 13,
+          "title": "TOP 17 Antrag Förderlehrkräftenachwuchs sichern!"
+        },
+        {
+          "index": 14,
+          "title": "Sitzungsende 18:23 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19046",
+      "date": "2025-03-27",
+      "gremium_id": 606,
+      "sitzungsnr": 46,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 09:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Aktuelle Stunde auf Vorschlag der SPD-Fraktion zum Thema: \"Wohnen muss bezahlbar sein! Echter Booster statt Bewilligungsstopp im Wohnungsbau!\""
+        },
+        {
+          "index": 2,
+          "title": "TOP 2 Antragsliste Abstimmung über eine Europaangelegenheit, Verfassungsstreitigkeiten und Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 3,
+          "title": "TOP 3 Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Katastrophenschutzgesetzes hier: Helfergleichstellung in Bayern"
+        },
+        {
+          "index": 4,
+          "title": "Abstimmung Antrag auf Begründung und gemeinsame Aussprache zu TOP 4 und 5"
+        },
+        {
+          "index": 5,
+          "title": "TOP 4 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags"
+        },
+        {
+          "index": 6,
+          "title": "TOP 5 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 7,
+          "title": "TOP 6 Antrag Schulden des Freistaates bei den Kommunen begleichen - Beendigung des staatlichen Auszahlungsrückstaus an die Kommunen"
+        },
+        {
+          "index": 8,
+          "title": "TOP 7 Antrag Stromnetze entlasten - Intelligente Stromspeicher fördern"
+        },
+        {
+          "index": 9,
+          "title": "TOP 8 Verfassungsstreitigkeit Schreiben des Bundesverfassungsgerichts - Erster Senat - vom 8. Januar 2025 (1 BvR 2525/24 / 1 BvR 2524/24) betreffend Verfassungsbeschwerden gegen das Unterlassen der Länder, die aktuelle Beitragsempfehlung der Kommission zur Überprüfung und Ermittlung des Finanzbedarfs der Rundfunkanstalten (KEF) umzusetzen, insbesondere den monatlichen Rundfunkbeitrag vom 1. Januar 2025 um 0,58 Euro auf 18,94 Euro zu erhöhen PII-3001-5-65"
+        },
+        {
+          "index": 10,
+          "title": "Mittagspause"
+        },
+        {
+          "index": 11,
+          "title": "TOP 9 Beratung der zum Plenum eingereichten Dringlichkeitsanträge"
+        },
+        {
+          "index": 12,
+          "title": "Sitzungsende 16:19 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19045",
+      "date": "2025-03-19",
+      "gremium_id": 605,
+      "sitzungsnr": 45,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 13:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Erste Lesung zum Gesetzentwurf Bayerisches Antidiskriminierungsgesetz (BayADG)"
+        },
+        {
+          "index": 2,
+          "title": "TOP 2 Antragsliste Abstimmung über eine Europaangelegenheit, Verfassungsstreitigkeiten und Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 3,
+          "title": "Abstimmung Antrag auf Begründung und gemeinsame Aussprache zu TOP 3 und 4"
+        },
+        {
+          "index": 4,
+          "title": "TOP 3 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags"
+        },
+        {
+          "index": 5,
+          "title": "TOP 4 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 6,
+          "title": "TOP 5 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Naturschutzgesetzes"
+        },
+        {
+          "index": 7,
+          "title": "TOP 6 Beratung der zum Plenum eingereichten Dringlichkeitsanträge"
+        },
+        {
+          "index": 8,
+          "title": "Sitzungsende 17:01 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19044",
+      "date": "2025-03-11",
+      "gremium_id": 604,
+      "sitzungsnr": 44,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 14:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Aktuelle Stunde auf Vorschlag der Fraktion BÜNDNIS 90/DIE GRÜNEN zum Thema: \"Was unser Land braucht: Schuldenbremse für strukturelle Reformen öffnen statt Selbstbedienungsladen.\""
+        },
+        {
+          "index": 2,
+          "title": "TOP 2 Antragsliste Abstimmung über Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 3,
+          "title": "Abstimmung Antrag auf Begründung und gemeinsame Aussprache zu TOP 3 und 4"
+        },
+        {
+          "index": 4,
+          "title": "TOP 3 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags"
+        },
+        {
+          "index": 5,
+          "title": "TOP 4 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 6,
+          "title": "TOP 5 Antrag Für Bayerns Kitas I - Weiterentwicklung der kindbezogenen Förderung (BayKiBiG)"
+        },
+        {
+          "index": 7,
+          "title": "TOP 6 Antrag Für Bayerns Kitas II - Einrichtung eines Sonderinvestitionsprogramms für den Ausbau qualitativ hochwertiger Bildungs- und Betreuungsangebote"
+        },
+        {
+          "index": 8,
+          "title": "TOP 7 Antrag Zur Erleichterung der Ausweisung von straffälligen Ausländern und Versagung der Anerkennung als Flüchtling"
+        },
+        {
+          "index": 9,
+          "title": "TOP 8 Antrag Bayerische Automobilindustrie und Biospritbranche retten: Ausnahme für Biokraftstoffe aus dem EU-Verbrennerverbot"
+        },
+        {
+          "index": 10,
+          "title": "TOP 9 Dringlichkeitsantrag Raus aus dem Verbrenner-Aus - Aufschub und Aufhebung der Strafzahlungen für die Nichteinhaltung der CO2-Flottengrenzwerte"
+        },
+        {
+          "index": 11,
+          "title": "Sitzungsende 17:50 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19043",
+      "date": "2025-02-27",
+      "gremium_id": 603,
+      "sitzungsnr": 43,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 09:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Aktuelle Stunde auf Vorschlag der AfD-Fraktion zum Thema: \"Ministerpräsident Dr. Markus Söder und die Union in die Pflicht nehmen: Keine Aufweichung der Schuldenbremse und anderer Wahlversprechen\""
+        },
+        {
+          "index": 2,
+          "title": "TOP 2 Antragsliste Abstimmung über Europaangelegenheiten und Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 3,
+          "title": "Abstimmung Antrag auf Begründung und gemeinsame Aussprache zu TOP 3 und 4"
+        },
+        {
+          "index": 4,
+          "title": "TOP 3 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags"
+        },
+        {
+          "index": 5,
+          "title": "TOP 4 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 6,
+          "title": "TOP 5 Antrag Prüfungsarchiv den Schülerinnen und Schülern zur Verfügung stellen!"
+        },
+        {
+          "index": 7,
+          "title": "TOP 6 Dringlichkeitsantrag Gute Arbeitsbedingungen für studentische Beschäftigte schaffen"
+        },
+        {
+          "index": 8,
+          "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 7 bis 14 TOP 7 Antrag Folgen aus dem Folterskandal I: Überprüfung aller Sicherungs-, Zwangs- und Disziplinarmaßnahmen im Justizvollzug TOP 8 Antrag Folgen aus dem Folterskandal II: Richtervorbehalt einführen TOP 9 Antrag Folgen aus dem Folterskandal III: Lückenlose Dokumentation von Grundrechtseingriffen in Bayerischen Gefängnissen TOP 10 Antrag Folgen aus dem Folterskandal IV: Rechtsschutz auch bei der Unterbringung in besonders gesicherten Hafträumen TOP 11 Antrag Folgen aus dem Folterskandal V: Bessere Erfassung und Kontrolle von Sicherungs-, Zwangs- und Disziplinarmaßnahmen im Justizvollzug TOP 12 Antrag Folgen aus dem Folterskandal VI: Grundrechtssensible Ausstattung von besonders gesicherten Hafträumen TOP 13 Antrag Folgen aus dem Folterskandal VII: Sicherstellung einer intensiven medizinischen und psychologischen Betreuung in Krisensituationen TOP 14 Antrag Folgen aus dem Folterskandal VIII: Massiver Ausbau der psychiatrischen und psychotherapeutischen Versorgung im bayerischen Justizvollzug"
+        },
+        {
+          "index": 9,
+          "title": "TOP 16 Antrag Mehr Menschen mit Behinderung in Arbeit bringen II"
+        },
+        {
+          "index": 10,
+          "title": "Mittagspause"
+        },
+        {
+          "index": 11,
+          "title": "TOP 15 Beratung der zum Plenum eingereichten Dringlichkeitsanträge"
+        },
+        {
+          "index": 12,
+          "title": "Sitzungsende 16:26 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19042",
+      "date": "2025-02-19",
+      "gremium_id": 602,
+      "sitzungsnr": 42,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Erste Lesung zum Antrag auf Zustimmung zum Abkommen zur Änderung des Abkommens über die Errichtung und Finanzierung des Instituts für medizinische und pharmazeutische Prüfungsfragen"
+        },
+        {
+          "index": 2,
+          "title": "TOP 2 Antragsliste Abstimmung über Verfassungsstreitigkeiten und Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 3,
+          "title": "TOP 3 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Kinderbildungs- und -betreuungsgesetzes"
+        },
+        {
+          "index": 4,
+          "title": "TOP 4 Zweite Lesung zum Gesetzentwurf zur Änderung des Aufnahmegesetzes - Bayerisches Asylnotstandsgesetz"
+        },
+        {
+          "index": 5,
+          "title": "Abstimmung Antrag auf Begründung und gemeinsame Aussprache zu TOP 5 und 6"
+        },
+        {
+          "index": 6,
+          "title": "TOP 5 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags"
+        },
+        {
+          "index": 7,
+          "title": "TOP 6 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 8,
+          "title": "TOP 7 Beratung der zum Plenum eingereichten Dringlichkeitsanträge"
+        },
+        {
+          "index": 9,
+          "title": "TOP 8 Antrag Folgen und Auswirkungen des Windkraftausbaus auf Bodentemperaturen und lokale Strömungssysteme ermitteln"
+        },
+        {
+          "index": 10,
+          "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 9 und 10 TOP 9 Antrag Hochwasser des Riedstroms im Juni 2024: Verbindliche Riedstromvereinbarung für künftige Hochwasserereignisse umsetzen TOP 10 Antrag Hochwasser des Riedstroms im Juni 2024: Finanzielle Hilfen für die privaten Haushalte"
+        },
+        {
+          "index": 11,
+          "title": "TOP 11 Antrag ASP noch entschlossener bekämpfen: Anreize zur Tierseuchenbekämpfung erhöhen"
+        },
+        {
+          "index": 12,
+          "title": "TOP 12 Antrag Bayerischen Verfassungsgerichtshof personell verstärken"
+        },
+        {
+          "index": 13,
+          "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 13 und 14 TOP 13 Dringlichkeitsantrag Öffentlich-rechtlicher Rundfunk: Reform statt nur Reförmchen TOP 14 Dringlichkeitsantrag Reformen des öffentlich-rechtlichen Rundfunks vorantreiben, Beitragsstabilität wahren, Mitwirkung der Landesparlamente sichern"
+        },
+        {
+          "index": 14,
+          "title": "TOP 15 Antrag Temporäre humanitäre Aufenthalte in Deutschland nicht als \"gewöhnlichen Aufenthalt im Inland\" im Sinne des Einbürgerungsrechts werten"
+        },
+        {
+          "index": 15,
+          "title": "Sitzungsende 20:02 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19041",
+      "date": "2025-02-04",
+      "gremium_id": 601,
+      "sitzungsnr": 41,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 14:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Aktuelle Stunde auf Vorschlag der Fraktion FREIE WÄHLER zum Thema: \"Autoland Bayern erhalten - Zukunft sichern\""
+        },
+        {
+          "index": 2,
+          "title": "TOP 2 Antragsliste Abstimmung über Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 3,
+          "title": "TOP 3a) Erste Lesung zum Gesetzentwurf zur Aufhebung des Bayerischen Klimaschutzgesetzes - Entlastung der bayerischen Bürger, der Wirtschaft sowie der Verwaltung von Bürokratie"
+        },
+        {
+          "index": 4,
+          "title": "TOP 3b) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Krankenhausgesetzes und der Verordnung zur Durchführung des Bayerischen Krankenhausgesetzes"
+        },
+        {
+          "index": 5,
+          "title": "Abstimmung Antrag auf Begründung und gemeinsame Aussprache zu TOP 4 und 5"
+        },
+        {
+          "index": 6,
+          "title": "TOP 4 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags"
+        },
+        {
+          "index": 7,
+          "title": "TOP 5 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 8,
+          "title": "TOP 6 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Naturschutzgesetzes"
+        },
+        {
+          "index": 9,
+          "title": "TOP 7 Besetzung des Bayerischen Verfassungsgerichtshofs Wiederwahl eines berufsrichterlichen Mitglieds"
+        },
+        {
+          "index": 10,
+          "title": "TOP 8 Bestellung eines stellvertretenden Mitglieds für den Landesdenkmalrat"
+        },
+        {
+          "index": 11,
+          "title": "TOP 9 Eingabe Einwände gegen die Errichtung einer Flüchtlingsunterkunft in der Gemarkung Leiblfing EB.0370.19"
+        },
+        {
+          "index": 12,
+          "title": "TOP 10 Antrag Sitzplatzkapazität in Zügen an Oktoberfest-Wochenenden erhöhen!"
+        },
+        {
+          "index": 13,
+          "title": "TOP 11 Antrag Direkte Demokratie und Waldschutz statt Flächenfraß der Windlobby!"
+        },
+        {
+          "index": 14,
+          "title": "TOP 12 Antrag Verbesserung der ärztlichen Versorgung und Verminderung der Wartezeiten bei Kassenpatienten"
+        },
+        {
+          "index": 15,
+          "title": "TOP 13 Antrag Schaustellerinnen und Schausteller entlasten - zusätzliche Schankerlaubnispflicht abschaffen"
+        },
+        {
+          "index": 16,
+          "title": "TOP 14 Antrag Vom stillen Örtchen zur Chefsache - Toiletten-Upgrade für Bayerns Schulen!"
+        },
+        {
+          "index": 17,
+          "title": "TOP 15 Dringlichkeitsantrag Schulessen der Zukunft: Bio, regional und pädagogisch wertvoll"
+        },
+        {
+          "index": 18,
+          "title": "Sitzungsende 20:15 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19040",
+      "date": "2025-01-30",
+      "gremium_id": 600,
+      "sitzungsnr": 40,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 09:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Aktuelle Stunde auf Vorschlag der CSU-Fraktion zum Thema: \"Zuversicht für Bayerns Jugend\""
+        },
+        {
+          "index": 2,
+          "title": "TOP 2 Antragsliste Abstimmung über Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 3,
+          "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 3a) und 3b) TOP 3a) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Gleichstellungsgesetzes TOP 3b) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Gleichstellungsgesetzes"
+        },
+        {
+          "index": 4,
+          "title": "TOP 3c) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Strafvollzugsgesetzes und weiterer Rechtsvorschriften"
+        },
+        {
+          "index": 5,
+          "title": "TOP 3d) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Waldgesetzes hier: Schutz des Waldes im Freistaat Bayern vor Windkraftanlagen"
+        },
+        {
+          "index": 6,
+          "title": "Außerhalb der Tagesordnung"
+        },
+        {
+          "index": 7,
+          "title": "Abstimmung nach § 101 Abs. 3 GeschO"
+        },
+        {
+          "index": 8,
+          "title": "Abstimmung Antrag auf Begründung und gemeinsame Aussprache zu TOP 4 und 5"
+        },
+        {
+          "index": 9,
+          "title": "TOP 4 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags"
+        },
+        {
+          "index": 10,
+          "title": "TOP 5 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 11,
+          "title": "Mittagspause bis 13:00 Uhr"
+        },
+        {
+          "index": 12,
+          "title": "TOP 6 Beratung der zum Plenum eingereichten Dringlichkeitsanträge"
+        },
+        {
+          "index": 13,
+          "title": "TOP 7 Antrag Gewalt an Schulen entschieden entgegentreten!"
+        },
+        {
+          "index": 14,
+          "title": "TOP 8 Dringlichkeitsantrag Bayerisches Geld für bayerische Innovationen - Perspektiven für Lilium erarbeiten"
+        },
+        {
+          "index": 15,
+          "title": "TOP 9 Antrag Rundfunkbeitragspflicht: Menschen mit Grad der Behinderung von 100 Prozent generell von der Zahlungspflicht befreien!"
+        },
+        {
+          "index": 16,
+          "title": "Sitzungsende 17:19 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19039",
+      "date": "2025-01-22",
+      "gremium_id": 599,
+      "sitzungsnr": 39,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 13:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1a) Erste Lesung zum Gesetzentwurf zur Änderung des Gesetzes über die Errichtung der Bayerischen Forschungsstiftung und des Bayerischen Ministergesetzes"
+        },
+        {
+          "index": 2,
+          "title": "TOP 1b) Erste Lesung zum Gesetzentwurf zur Änderung der Bayerischen Bauordnung hier: Abschaffung des Solardach-Zwangs"
+        },
+        {
+          "index": 3,
+          "title": "TOP 1c) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Gesetzes über wirtschafts- und vergaberechtliche Vorschriften und der Zuständigkeitsverordnung"
+        },
+        {
+          "index": 4,
+          "title": "TOP 2 Antragsliste Abstimmung über Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 5,
+          "title": "Abstimmung Antrag auf Begründung und gemeinsame Aussprache zu TOP 3 und 4"
+        },
+        {
+          "index": 6,
+          "title": "TOP 3 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags"
+        },
+        {
+          "index": 7,
+          "title": "TOP 4 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 8,
+          "title": "TOP 5 Beratung der zum Plenum eingereichten Dringlichkeitsanträge"
+        },
+        {
+          "index": 9,
+          "title": "Außerhalb der Tagesordnung Gedenkworte"
+        },
+        {
+          "index": 10,
+          "title": "TOP 6 Eingabe Einwände gegen die Nutzungsänderung des ehemaligen Sheraton Hotels zu einem Ankunftszentrum für Flüchtlinge EB.0327.19"
+        },
+        {
+          "index": 11,
+          "title": "TOP 7 Dringlichkeitsantrag Bahnausbau im Nordosten Bayerns beschleunigen - Verbindung nach Tschechien verbessern!"
+        },
+        {
+          "index": 12,
+          "title": "TOP 8 Antrag Genderverbot an bayerischen Schulen effektiv durchsetzen!"
+        },
+        {
+          "index": 13,
+          "title": "TOP 9 Antrag Evaluierung der Düngeverordnung"
+        },
+        {
+          "index": 14,
+          "title": "TOP 10 Dringlichkeitsantrag Betriebsaufgaben durch verschärfte Regelungen zur Anbindehaltung verhindern, Hilfspaket für betroffene Tierhalter schnell auf den Weg bringen!"
+        },
+        {
+          "index": 15,
+          "title": "TOP 11 Antrag Sitzplatzkapazität in Zügen an Oktoberfest-Wochenenden erhöhen!"
+        },
+        {
+          "index": 16,
+          "title": "TOP 12 Antrag Bayerische Gemeinden nicht im Regen stehen lassen! Fördersätze für kommunalen Hochwasserschutz anpassen!"
+        },
+        {
+          "index": 17,
+          "title": "Sitzungsende 21:06 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19036",
+      "date": "2024-12-12",
+      "gremium_id": 598,
+      "sitzungsnr": 36,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 09:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 18 Beratung der zum Plenum eingereichten Dringlichkeitsanträge"
+        },
+        {
+          "index": 2,
+          "title": "Schlussworte"
+        },
+        {
+          "index": 3,
+          "title": "Sitzungsende 12:59 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19036",
+      "date": "2024-12-11",
+      "gremium_id": 597,
+      "sitzungsnr": 36,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 09:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 9a) und 9b) TOP 9a) Gesetzentwurf zur Änderung des Bayerischen Finanzausgleichsgesetzes und der Bayerischen Durchführungsverordnung Finanzausgleichsgesetz (Finanzausgleichsänderungsgesetz 2025) TOP 9b) Gesetzentwurf zur Änderung des Haushaltsgesetzes 2024/2025 (Nachtragshaushaltsgesetz 2025 - NHG 2025)"
+        },
+        {
+          "index": 2,
+          "title": "TOP 10 offene Tagesordnungspunkte aus dem Dienstagsplenum"
+        },
+        {
+          "index": 3,
+          "title": "TOP 11 Zweite Lesung zum Gesetzentwurf zur Änderung des Land- und forstwirtschaftlichen Zuständigkeits- und Vollzugsgesetzes"
+        },
+        {
+          "index": 4,
+          "title": "Mittagspause"
+        },
+        {
+          "index": 5,
+          "title": "TOP 12 Zweite Lesung zum Gesetzentwurf Gesetz über die Beteiligung von Bürgerinnen und Bürgern sowie Gemeinden an der Nutzung von Wind- und Sonnenenergie (Bürgerenergiebeteiligungsgesetz Bayern - BürgEnBeG)"
+        },
+        {
+          "index": 6,
+          "title": "TOP 13 Zweite Lesung zum Gesetzentwurf zur Änderung des Gesetzes über den gesundheitlichen Verbraucherschutz und das Veterinärwesen"
+        },
+        {
+          "index": 7,
+          "title": "TOP 14 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Feuerwehrgesetzes"
+        },
+        {
+          "index": 8,
+          "title": "TOP 15 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Verwaltungsverfahrensgesetzes und weiterer Rechtsvorschriften"
+        },
+        {
+          "index": 9,
+          "title": "TOP 16 Zweite Lesung zum Gesetzentwurf zur Änderung des Integrierte Leitstellen-Gesetzes und des Bayerischen Rettungsdienstgesetzes"
+        },
+        {
+          "index": 10,
+          "title": "TOP 17 Eingabe Einwände gegen geplante Ankunftseinrichtung im Gewerbegebiet \"Am Eckfeld 10\" in Rott am Inn EB.0164.19"
+        },
+        {
+          "index": 11,
+          "title": "Sitzungsende 15:22 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19036",
+      "date": "2024-12-10",
+      "gremium_id": 596,
+      "sitzungsnr": 36,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 14:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Aktuelle Stunde auf Vorschlag der SPD-Fraktion zum Thema: \"Mehr Herz für Bayerns Kinder!\""
+        },
+        {
+          "index": 2,
+          "title": "Außerhalb der Tagesordnung: Aufhebung der Immunität eines Mitglieds des Bayerischen Landtags"
+        },
+        {
+          "index": 3,
+          "title": "TOP 2 Antragsliste Abstimmung über Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 4,
+          "title": "TOP 3 Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Naturschutzgesetzes"
+        },
+        {
+          "index": 5,
+          "title": "Abstimmung Antrag auf Begründung und gemeinsame Aussprache zu TOP 4 + 5"
+        },
+        {
+          "index": 6,
+          "title": "TOP 4 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags"
+        },
+        {
+          "index": 7,
+          "title": "TOP 5 Wahl Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 8,
+          "title": "TOP 6 Zweite Lesung zum Gesetzentwurf zur Änderung des Gesundheitsdienstgesetzes und weiterer Rechtsvorschriften"
+        },
+        {
+          "index": 9,
+          "title": "TOP 7 Zweite Lesung zum Gesetzentwurf Erstes Modernisierungsgesetz Bayern"
+        },
+        {
+          "index": 10,
+          "title": "TOP 8 Zweite Lesung zum Gesetzentwurf Zweites Modernisierungsgesetz Bayern"
+        },
+        {
+          "index": 11,
+          "title": "Sitzungsende 18:20 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19035",
+      "date": "2024-12-03",
+      "gremium_id": 595,
+      "sitzungsnr": 35,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 14:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Aktuelle Stunde auf Vorschlag der Fraktion BÜNDNIS 90/DIE GRÜNEN zum Thema: \"Fakten statt Fake: Wie Lügen das Vertrauen der Menschen in Bayern in die Politik zerstören\""
+        },
+        {
+          "index": 2,
+          "title": "TOP 2 Antragsliste Abstimmung über Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 3,
+          "title": "TOP 3 Abstimmung über die Dringlichkeitsanträge (Die Aussprache hierzu hat bereits in der Sitzung am 28. November 2024 stattgefunden.)"
+        },
+        {
+          "index": 4,
+          "title": "TOP 4 Bestätigung von Mitgliedern und stellvertretenden Mitgliedern für den Landesgesundheitsrat"
+        },
+        {
+          "index": 5,
+          "title": "Abstimmung Antrag auf Begründung und gemeinsame Aussprache zu TOP 5 + 6"
+        },
+        {
+          "index": 6,
+          "title": "TOP 5 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags"
+        },
+        {
+          "index": 7,
+          "title": "TOP 6 Wahl Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 8,
+          "title": "TOP 7 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Mediengesetzes und des Ausführungsgesetzes Medienstaatsverträge"
+        },
+        {
+          "index": 9,
+          "title": "TOP 8 Zweite Lesung zum Gesetzentwurf zur Erleichterung des Ehrenamts"
+        },
+        {
+          "index": 10,
+          "title": "TOP 9 Dringlichkeitsantrag Erdgasförderung nicht länger subventionieren: Befreiung von der Förderabgabe bei Erdgas beenden"
+        },
+        {
+          "index": 11,
+          "title": "TOP 10 Antrag Straftäter aus Bayern priorisiert abschieben"
+        },
+        {
+          "index": 12,
+          "title": "TOP 11 Dringlichkeitsantrag Corona-Unrecht beenden! Freiheit für den inhaftierten Impfverweigerer nach Begnadigung durch den Ministerpräsidenten"
+        },
+        {
+          "index": 13,
+          "title": "TOP 12 Antrag Klage des Freistaates Bayern gegen den Bund wegen Verstoß gegen Art. 16a Grundgesetz"
+        },
+        {
+          "index": 14,
+          "title": "Sitzungsende 18:27 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19034",
+      "date": "2024-11-28",
+      "gremium_id": 594,
+      "sitzungsnr": 34,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 09:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Regierungserklärung des Staatsministers für Wirtschaft, Landesentwicklung und Energie zum Thema: \"Für einen starken Wirtschaftsstandort!\""
+        },
+        {
+          "index": 2,
+          "title": "Außerhalb der Tagesordnung Bekanntgabe einer Ausschussumbesetzung"
+        },
+        {
+          "index": 3,
+          "title": "Mittagspause"
+        },
+        {
+          "index": 4,
+          "title": "TOP 2 Aktuelle Stunde auf Vorschlag der AfD-Fraktion zum Thema: \"Unser Geld für unsere Leute - bayerische Zukunft sichern und Heimat stärken\""
+        },
+        {
+          "index": 5,
+          "title": "TOP 3 Antragsliste Abstimmung über eine Verfassungsstreitigkeit und Europaangelegenheiten, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 6,
+          "title": "Außerhalb der Tagesordnung: Aufhebung der Immunität eines Mitglieds des Bayerischen Landtags"
+        },
+        {
+          "index": 7,
+          "title": "TOP 4 Erste Lesung zur Änderung der Bayerischen Bauordnung hier: Abschaffung des Solardach-Zwangs"
+        },
+        {
+          "index": 8,
+          "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 5 und 6 TOP 5 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags TOP 6 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 9,
+          "title": "TOP 7 Wahl eines Mitglieds des Parlamentarischen Kontrollgremiums"
+        },
+        {
+          "index": 10,
+          "title": "TOP 8 Zweite Lesung zum Gesetzentwurf zur Änderung des Kommunalabgabengesetzes"
+        },
+        {
+          "index": 11,
+          "title": "TOP 9 Zweite Lesung zum Gesetzentwurf zur Einführung und Durchsetzung verbindlicher Sprachstandserhebungen und Sprachfördermaßnahmen vor der Einschulung"
+        },
+        {
+          "index": 12,
+          "title": "TOP 10 Zweite Lesung zum Gesetzentwurf zur Änderung des Zweckvermögensgesetzes und des Bayerischen Landesbank-Gesetzes"
+        },
+        {
+          "index": 13,
+          "title": "TOP 11 Antrag zur Änderung der Geschäftsordnung für den Bayerischen Landtag"
+        },
+        {
+          "index": 14,
+          "title": "TOP 12 Beratung der zum Plenum eingereichten Dringlichkeitsanträge"
+        },
+        {
+          "index": 15,
+          "title": "Sitzungsende 18:03 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19033",
+      "date": "2024-11-13",
+      "gremium_id": 593,
+      "sitzungsnr": 33,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 13:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1a) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Kinderbildungs- und -betreuungsgesetzes"
+        },
+        {
+          "index": 2,
+          "title": "TOP 1b) Erste Lesung zum Gesetzentwurf zur Änderung des Aufnahmegesetzes - Bayerisches Asylnotstandsgesetz"
+        },
+        {
+          "index": 3,
+          "title": "TOP 2 Antragsliste Abstimmung über eine Europaangelegenheit und Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 4,
+          "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 3 und 4 TOP 3 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags TOP 4 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 5,
+          "title": "TOP 5 Bestätigung eines Mitglieds und eines stellvertretenden Mitglieds für den Landesgesundheitsrat"
+        },
+        {
+          "index": 6,
+          "title": "TOP 6 Beratung der zum Plenum eingereichten Dringlichkeitsanträge"
+        },
+        {
+          "index": 7,
+          "title": "TOP 7 Antrag Ja zur bayerischen Automobilindustrie! Ja zum deutschen Verbrennungsmotor!"
+        },
+        {
+          "index": 8,
+          "title": "TOP 8 Dringlichkeitsantrag Erdgasförderung nicht länger subventionieren: Befreiung von der Förderabgabe bei Erdgas beenden"
+        },
+        {
+          "index": 9,
+          "title": "TOP 9 Antrag Sanierung und Ausbau kommunaler Feuerwehrhäuser fördern"
+        },
+        {
+          "index": 10,
+          "title": "Sitzungsende 19:20 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19032",
+      "date": "2024-11-05",
+      "gremium_id": 592,
+      "sitzungsnr": 32,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 14:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Aktuelle Stunde auf Vorschlag der Fraktion FREIE WÄHLER zum Thema: \"Öffentliche Sicherheit erhalten, gesellschaftliche Spannungen überwinden: Für ein sicheres und geeintes Bayern\""
+        },
+        {
+          "index": 2,
+          "title": "TOP 2 Antragsliste Abstimmung über Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 3,
+          "title": "TOP 3 Abstimmung über den Dringlichkeitsantrag der SPD-Fraktion betreffend \"Kitas, Schulen, Busse, Krankenhäuser - Bayerns Kommunen am Limit: mehr Finanzmittel jetzt!\""
+        },
+        {
+          "index": 4,
+          "title": "TOP 4 Erste Lesung zur Änderung des Integrierte Leitstellen-Gesetzes und des Bayerischen Rettungsdienstgesetzes"
+        },
+        {
+          "index": 5,
+          "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 5 und 6 TOP 5 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags TOP 6 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 6,
+          "title": "TOP 7 Antrag Angriffe auf Personen des politischen Lebens schärfer bestrafen"
+        },
+        {
+          "index": 7,
+          "title": "TOP 8 Antrag Stromnetze voll auslasten - Netzinfrastruktur besser nutzen"
+        },
+        {
+          "index": 8,
+          "title": "TOP 9 Antrag Aufhebung der Sonderregelungen im BauGB für den erleichterten Bau von Flüchtlings- und Asylunterkünften"
+        },
+        {
+          "index": 9,
+          "title": "TOP 10 Antrag Sturzflutvorsorge beschleunigen"
+        },
+        {
+          "index": 10,
+          "title": "Sitzungsende 18:19 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19031",
+      "date": "2024-10-24",
+      "gremium_id": 591,
+      "sitzungsnr": 31,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 09:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Regierungserklärung der Staatsministerin für Gesundheit, Pflege und Prävention zum Thema: \"Krankenhäuser in Bayern - den Wandel gemeinsam gestalten\""
+        },
+        {
+          "index": 2,
+          "title": "TOP 2 Aktuelle Stunde auf Vorschlag der CSU-Fraktion zum Thema: \"Tourismus in Bayern - Leitökonomie: vielfältig, nachhaltig, erfolgreich\""
+        },
+        {
+          "index": 3,
+          "title": "TOP 3 Antragsliste Abstimmung über Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 4,
+          "title": "Mittagspause bis 13:30 Uhr"
+        },
+        {
+          "index": 5,
+          "title": "TOP 4a) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Feuerwehrgesetzes"
+        },
+        {
+          "index": 6,
+          "title": "TOP 4b) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Verwaltungsverfahrensgesetzes und weiterer Rechtsvorschriften"
+        },
+        {
+          "index": 7,
+          "title": "TOP 4c) Erste Lesung zum Gesetzentwurf Zweites Modernisierungsgesetz Bayern"
+        },
+        {
+          "index": 8,
+          "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 5 und 6 TOP 5 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags TOP 6 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 9,
+          "title": "TOP 7 Dringlichkeitsantrag Balkonkraftwerke retten! Einspruch zum Normenentwurf VDE V 0126-95:2024-06"
+        },
+        {
+          "index": 10,
+          "title": "TOP 8 Antrag Intelligentes Wassermanagement statt neuer Steuer - Förderprogramm für Regenwassernutzungsanlagen auflegen!"
+        },
+        {
+          "index": 11,
+          "title": "TOP 9 Beratung der zum Plenum eingereichten Dringlichkeitsanträge"
+        },
+        {
+          "index": 12,
+          "title": "Sitzungsende 18:23 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19030",
+      "date": "2024-10-16",
+      "gremium_id": 590,
+      "sitzungsnr": 30,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 13:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Erste Lesung zum Gesetzentwurf zur Änderung des Gesetzes über den gesundheitlichen Verbraucherschutz und das Veterinärwesen"
+        },
+        {
+          "index": 2,
+          "title": "TOP 2 Besetzung des Bayerischen Verfassungsgerichtshofs Wiederwahl berufsrichterlicher Mitglieder"
+        },
+        {
+          "index": 3,
+          "title": "TOP 3 Wahl des stellvertretenden Vorsitzenden des Maßregelvollzugsbeirats beim Bezirksklinikum Regensburg, Fachklinik für Forensische Psychiatrie und Psychotherapie"
+        },
+        {
+          "index": 4,
+          "title": "TOP 4 Antragsliste Abstimmung über Europaangelegenheiten und Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 5,
+          "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 5 und 6 TOP 5 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags TOP 6 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 6,
+          "title": "TOP 7 Beratung der zum Plenum eingereichten Dringlichkeitsanträge"
+        },
+        {
+          "index": 7,
+          "title": "TOP 8 Antrag Stärkung der Notfallvorsorge in Gesundheitseinrichtungen"
+        },
+        {
+          "index": 8,
+          "title": "TOP 9 Antrag Aufklärung und Prävention von Gewalt im Kreißsaal"
+        },
+        {
+          "index": 9,
+          "title": "TOP 10 Antrag Ergänzung des § 130 StGB und Strafbarkeit des Verunglimpfens des deutschen Volkes"
+        },
+        {
+          "index": 10,
+          "title": "TOP 11 Antrag Angriffe auf Personen des politischen Lebens schärfer bestrafen"
+        },
+        {
+          "index": 11,
+          "title": "TOP 12 Antrag Übernahmefristen im Dublin-Verfahren streichen - Das Asylchaos innerhalb der EU beenden"
+        },
+        {
+          "index": 12,
+          "title": "TOP 13 Dringlichkeitsantrag Mehr Bock auf Demokratie - Politische Bildung und Demokratie an Schulen stärken!"
+        },
+        {
+          "index": 13,
+          "title": "TOP 14 Antrag Aufhebung des Erdkabelzwangs bei den neu geplanten HGÜ-Leitungen"
+        },
+        {
+          "index": 14,
+          "title": "TOP 15 Antrag Stand und Zukunft der bayerischen Erdgasinfrastruktur und der leitungsgebundenen kommunalen Wärmeversorgung"
+        },
+        {
+          "index": 15,
+          "title": "Sitzungsende 20:48 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19029",
+      "date": "2024-10-08",
+      "gremium_id": 589,
+      "sitzungsnr": 29,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 14:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Aktuelle Stunde auf Vorschlag der SPD-Fraktion zum Thema: \"Handwerk schafft Zukunft für Bayern!\""
+        },
+        {
+          "index": 2,
+          "title": "TOP 2 Antragsliste Abstimmung über Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 3,
+          "title": "TOP 3 Antrag Solidarität mit Israel - jüdisches Leben in Bayern stärken"
+        },
+        {
+          "index": 4,
+          "title": "TOP 4a) Erste Lesung zum Gesetzentwurf Gesetz über die Beteiligung von Bürgerinnen und Bürgern sowie Gemeinden an der Nutzung von Wind- und Sonnenenergie (Bürgerenergiebeteiligungsgesetz Bayern - BürgEnBeG)"
+        },
+        {
+          "index": 5,
+          "title": "TOP 4b) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Naturschutzgesetzes"
+        },
+        {
+          "index": 6,
+          "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 5 und 6 TOP 5 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags TOP 6 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 7,
+          "title": "TOP 7 Antrag Sicherheit und Bezahlbarkeit der Energieversorgung wiederherstellen"
+        },
+        {
+          "index": 8,
+          "title": "TOP 8 Antrag Die Tätigkeit als Polizei-Diensthundeführer muss als ruhegehaltsfähige Dienstzeit anerkannt werden"
+        },
+        {
+          "index": 9,
+          "title": "TOP 9 Antrag Schlachthof Kulmbach zum Modellschlachthof ausbauen"
+        },
+        {
+          "index": 10,
+          "title": "TOP 10 Antrag 5. Nachtrag zum Bau- und Finanzierungsvertrag 2. S-Bahn-Stammstrecke München offenlegen!"
+        },
+        {
+          "index": 11,
+          "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 11 bis 17 TOP 11 Antrag Zahnärztliche Versorgung auch künftig sichern I: Bericht über den Bedarf an Zahnmedizinerinnen und Zahnmedizinern TOP 12 Antrag Zahnärztliche Versorgung auch künftig sichern II: Gebührenordnungen anpassen TOP 13 Antrag Zahnärztliche Versorgung auch künftig sichern III: Tarifsteigerungen der ZFA refinanzieren TOP 14 Antrag Zahnärztliche Versorgung auch künftig sichern IV: Praxiszukunftsfonds für (Zahn-)Arztpraxen TOP 15 Antrag Zahnärztliche Versorgung auch künftig sichern V: Kinderzahnärzte und Kinderärzte gleichbehandeln TOP 16 Antrag Zahnärztliche Versorgung auch künftig sichern VI: Bericht zur Zahngesundheit von Kindern und Pflegebedürftigen TOP 17 Antrag Zahnärztliche Versorgung auch künftig sichern VII: Parodontitistherapie wieder höher vergüten"
+        },
+        {
+          "index": 12,
+          "title": "TOP 18 Antrag Mehr Ärzte fürs Land: Landarztquote erhöhen, Numerus clausus abschaffen"
+        },
+        {
+          "index": 13,
+          "title": "TOP 19 Antrag Voraussetzungen zur Reaktivierung der Wehrpflicht schaffen - Deutschland muss wieder verteidigungsfähig werden"
+        },
+        {
+          "index": 14,
+          "title": "TOP 20 Dringlichkeitsantrag Ökologischen Hochwasserschutz endlich voranbringen"
+        },
+        {
+          "index": 15,
+          "title": "Sitzungsende 21:40 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19028",
+      "date": "2024-09-26",
+      "gremium_id": 588,
+      "sitzungsnr": 28,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 09:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Aktuelle Stunde auf Vorschlag der Fraktion BÜNDNIS 90/DIE GRÜNEN zum Thema: \"Realismus statt Populismus: Zuwanderung steuern, Arbeitskräfte integrieren.\""
+        },
+        {
+          "index": 2,
+          "title": "TOP 2 Antragsliste Abstimmung über eine Verordnung und Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 3,
+          "title": "TOP 3 Bestätigung eines Mitglieds und eines stellvertretenden Mitglieds für den Landesgesundheitsrat"
+        },
+        {
+          "index": 4,
+          "title": "TOP 4a) Erste Lesung zum Gesetzentwurf zur Änderung des Land- und forstwirtschaftlichen Zuständigkeits- und Vollzugsgesetzes"
+        },
+        {
+          "index": 5,
+          "title": "TOP 4b) Erste Lesung zum Gesetzentwurf zur Erleichterung des Ehrenamts"
+        },
+        {
+          "index": 6,
+          "title": "TOP 4c) Erste Lesung zum Gesetzentwurf Erstes Modernisierungsgesetz Bayern"
+        },
+        {
+          "index": 7,
+          "title": "TOP 4d) Erste Lesung zum Gesetzentwurf zur Änderung des Zweckvermögensgesetzes und des Bayerischen Landesbank-Gesetzes"
+        },
+        {
+          "index": 8,
+          "title": "Mittagspause"
+        },
+        {
+          "index": 9,
+          "title": "TOP 4e) Erste Lesung zum Gesetzentwurf zur Einführung und Durchsetzung verbindlicher Sprachstandserhebungen und Sprachfördermaßnahmen vor der Einschulung"
+        },
+        {
+          "index": 10,
+          "title": "TOP 4f) Erste Lesung zum Gesetzentwurf zur Änderung des Gesundheitsdienstgesetzes und weiterer Rechtsvorschriften"
+        },
+        {
+          "index": 11,
+          "title": "Gemeinsamer Aufruf TOP der Tagesordnungspunkte 5 und 6 TOP 5 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags TOP 6 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 12,
+          "title": "TOP 7 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Digitalgesetzes und des Gesetzes über die Bayerische Landesstiftung"
+        },
+        {
+          "index": 13,
+          "title": "TOP 8 Beratung der zum Plenum eingereichten Dringlichkeitsanträge"
+        },
+        {
+          "index": 14,
+          "title": "TOP 9 Antrag Sicherheit und Bezahlbarkeit der Energieversorgung wiederherstellen"
+        },
+        {
+          "index": 15,
+          "title": "Sitzungsende 18:03 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19025",
+      "date": "2024-07-18",
+      "gremium_id": 587,
+      "sitzungsnr": 25,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 09:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 21 Beratung der zum Plenum eingereichten Dringlichkeitsanträge"
+        },
+        {
+          "index": 2,
+          "title": "Schlussworte"
+        },
+        {
+          "index": 3,
+          "title": "Sitzungsende 12:59 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19025",
+      "date": "2024-07-17",
+      "gremium_id": 586,
+      "sitzungsnr": 25,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 09:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 4 Bestellung eines Mitglieds des Stiftungsrats der Bayerischen Landesstiftung"
+        },
+        {
+          "index": 2,
+          "title": "TOP 5 Berufung eines Mitglieds der Abgeordnetenrechtskommission"
+        },
+        {
+          "index": 3,
+          "title": "TOP 6 Wahl des stellvertretenden Vorsitzenden des Anstaltsbeirats der Justizvollzugsanstalt Regensburg"
+        },
+        {
+          "index": 4,
+          "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 7 und 8 TOP 7 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags TOP 8 Wahl Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 5,
+          "title": "TOP 9 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Universitätsklinikagesetzes"
+        },
+        {
+          "index": 6,
+          "title": "TOP 10 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Gesetzes über das Erziehungs- und Unterrichtswesen"
+        },
+        {
+          "index": 7,
+          "title": "TOP 11 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Wohnungsbindungsgesetzes"
+        },
+        {
+          "index": 8,
+          "title": "TOP 12 Zweite Lesung zum Gesetzentwurf zur Förderung der Bundeswehr in Bayern"
+        },
+        {
+          "index": 9,
+          "title": "TOP 13 Zweite Lesung zum Gesetzentwurf zur Änderung des Gesetzes über den Bayerischen Verfassungsgerichtshof"
+        },
+        {
+          "index": 10,
+          "title": "Mittagspause"
+        },
+        {
+          "index": 11,
+          "title": "TOP 14 Zweite Lesung zum Gesetzentwurf Bayerisches Gesetz zur Begrenzung der Folgen des Cannabiskonsums (Bayerisches Cannabisfolgenbegrenzungsgesetz)"
+        },
+        {
+          "index": 12,
+          "title": "TOP 15 Zweite Lesung zum Gesetzentwurf zur Änderung des Polizeiaufgabengesetzes und weiterer Rechtsvorschriften"
+        },
+        {
+          "index": 13,
+          "title": "TOP 16 Antrag zur Änderung der Geschäftsordnung für den Bayerischen Landtag"
+        },
+        {
+          "index": 14,
+          "title": "TOP 17 Dringlichkeitsantrag Neutralität der Justiz stärken - Weisungsgebundenheit von Staatsanwaltschaften abschaffen!"
+        },
+        {
+          "index": 15,
+          "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 18 und 19 TOP 18 Antrag Generelle Anwendung des Erwachsenenstrafrechts bei Straftätern ab 18 Jahren TOP 19 Antrag Herabsetzung der Strafmündigkeit auf 12 Jahre"
+        },
+        {
+          "index": 16,
+          "title": "TOP 20 Antrag Landkreise für den Mangel an staatlichem Personal in den Landratsämtern kompensieren"
+        },
+        {
+          "index": 17,
+          "title": "Sitzungsende 16:14 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19025",
+      "date": "2024-07-16",
+      "gremium_id": 585,
+      "sitzungsnr": 25,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 14:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Aktuelle Stunde auf Vorschlag der AfD-Fraktion zum Thema: \"Steuergerechtigkeit statt Inländerdiskriminierung - keine Privilegien für ausländische Arbeitskräfte\""
+        },
+        {
+          "index": 2,
+          "title": "TOP 2 Antragsliste Abstimmung über eine Verfassungsstreitigkeit und Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 3,
+          "title": "TOP 3 Antrag Einsetzung einer Enquete-Kommission im Bayerischen Landtag \"Potenziale in Gesellschaft, Wirtschaft und Verwaltung entfesseln - Das Leben leichter machen, Bürokratie abbauen, den Staat neu denken\""
+        },
+        {
+          "index": 4,
+          "title": "Sitzungsende 15:49 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19024",
+      "date": "2024-07-03",
+      "gremium_id": 584,
+      "sitzungsnr": 24,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 13:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1a) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Mediengesetzes und des Ausführungsgesetzes Medienstaatsverträge"
+        },
+        {
+          "index": 2,
+          "title": "TOP 1b) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Digitalgesetzes und des Gesetzes über die Bayerische Landesstiftung"
+        },
+        {
+          "index": 3,
+          "title": "TOP 1c) Erste Lesung zum Gesetzentwurf zur Änderung des Kommunalabgabengesetzes"
+        },
+        {
+          "index": 4,
+          "title": "TOP 2 Antrag Einsetzung einer Kommission zur Wahrnehmung der Belange der Kinder im Landtag (Kinderkommission)"
+        },
+        {
+          "index": 5,
+          "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 3 und 4 TOP 3 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags TOP 4 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 6,
+          "title": "TOP 5 Antragsliste Abstimmung über Verfassungsstreitigkeiten und Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 7,
+          "title": "Außerhalb der Tagesordnung Aufhebung der Immunität zweier Mitglieder des Bayerischen Landtags"
+        },
+        {
+          "index": 8,
+          "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 6 und 7 TOP 6 Antrag Entlastung der Staatsregierung aufgrund der Haushaltsrechnung des Freistaates Bayern für das Haushaltsjahr 2022 TOP 7 Antrag Entlastung aufgrund des Beitrags zur Haushaltsrechnung 2022 für den Epl. 11"
+        },
+        {
+          "index": 9,
+          "title": "TOP 8 Zweite Lesung zum Gesetzentwurf zur Änderung des Pflegendenvereinigungsgesetzes"
+        },
+        {
+          "index": 10,
+          "title": "TOP 9 Antrag auf Zustimmung zum Fünften Staatsvertrag zur Änderung medienrechtlicher Staatsverträge (Fünfter Medienänderungsstaatsvertrag)"
+        },
+        {
+          "index": 11,
+          "title": "TOP 10 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Finanzausgleichsgesetzes"
+        },
+        {
+          "index": 12,
+          "title": "TOP 11 Zweite Lesung zum Gesetzentwurf zur Anpassung der Bezüge 2024/2025"
+        },
+        {
+          "index": 13,
+          "title": "TOP 12 Beratung der zum Plenum eingereichten Dringlichkeitsanträge"
+        },
+        {
+          "index": 14,
+          "title": "TOP 13 Antrag Antisemitischen, rassistischen und extremistischen Tendenzen und Gewalt an Hochschulen entschieden entgegentreten!"
+        },
+        {
+          "index": 15,
+          "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 14 und 15 TOP 14 Antrag Planungen für die Tram-Nordtangente durch den Englischen Garten fortsetzen TOP 15 Dringlichkeitsantrag Weg für die Tram-Nordtangente freimachen - zurück an den Verhandlungstisch kehren"
+        },
+        {
+          "index": 16,
+          "title": "Sitzungsende 22:22 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19023",
+      "date": "2024-06-18",
+      "gremium_id": 583,
+      "sitzungsnr": 23,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 14:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Aktuelle Stunde auf Vorschlag der Fraktion FREIE WÄHLER zum Thema: \"Für das Gemeinwohl: Verteidigungsfähigkeit herstellen - soziales Engagement stärken\""
+        },
+        {
+          "index": 2,
+          "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 2 und 3 TOP 2 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags TOP 3 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 3,
+          "title": "TOP 4 Abstimmung über Dringlichkeitsanträge aus der Plenarsitzung am 13.06.2024 Dringlichkeitsantrag der CSU-Fraktion Drs. 19/2434 und Dringlichkeitsantrag der Fraktion BÜNDNIS 90/DIE GRÜNEN Drs. 19/2465"
+        },
+        {
+          "index": 4,
+          "title": "TOP 5 Antragsliste Abstimmung über Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 5,
+          "title": "TOP 6 Antrag Deutsche Umwelthilfe in die Schranken weisen! Zweifelhafte Klage- und Abmahnpraxis beenden!"
+        },
+        {
+          "index": 6,
+          "title": "TOP 7 Antrag Bürger vor Zahlungen des Rundfunkbeitrags schützen: Meldebehörden zur Aufklärung über Möglichkeiten zur Vermeidung der Beitragspflicht anhalten"
+        },
+        {
+          "index": 7,
+          "title": "TOP 8 Dringlichkeitsantrag Man spricht Deutsch: Gendersprache verbieten"
+        },
+        {
+          "index": 8,
+          "title": "TOP 9 Antrag Schaffung eines Bayerischen Verwaltungsgerichtes für den Bezirk Niederbayern in Plattling"
+        },
+        {
+          "index": 9,
+          "title": "TOP 10 Dringlichkeitsantrag Verfassung schützen - Demokratie verteidigen: Bayerns Reaktion auf die aktuellen rechtsextremen Entwicklungen"
+        },
+        {
+          "index": 10,
+          "title": "TOP 11 Antrag Für ein NSU-Dokumentationszentrum in Nürnberg"
+        },
+        {
+          "index": 11,
+          "title": "Sitzungsende 18:04 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19022",
+      "date": "2024-06-13",
+      "gremium_id": 582,
+      "sitzungsnr": 22,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 09:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Regierungserklärung des Ministerpräsidenten zum Thema: \"Modernisierungs- und Beschleunigungsprogramm Bayern 2030\""
+        },
+        {
+          "index": 2,
+          "title": "Mittagspause"
+        },
+        {
+          "index": 3,
+          "title": "TOP 2 Aktuelle Stunde auf Vorschlag der CSU-Fraktion zum Thema: \"Sport in Bayern - vielfältig, gesund, integrativ\""
+        },
+        {
+          "index": 4,
+          "title": "TOP 3 Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Wohnungsbindungsgesetzes"
+        },
+        {
+          "index": 5,
+          "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 4 und 5 TOP 4 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags TOP 5 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 6,
+          "title": "TOP 6 Antragsliste Abstimmung über Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 7,
+          "title": "TOP 7 Zweite Lesung zum Gesetzentwurf zur Änderung dienstrechtlicher Vorschriften"
+        },
+        {
+          "index": 8,
+          "title": "TOP 8 Beratung der zum Plenum eingereichten Dringlichkeitsanträge"
+        },
+        {
+          "index": 9,
+          "title": "TOP 9 Antrag Deutsche Umwelthilfe in die Schranken weisen! Zweifelhafte Klage- und Abmahnpraxis beenden!"
+        },
+        {
+          "index": 10,
+          "title": "TOP 10 Antrag Bürger vor Zahlungen des Rundfunkbeitrags schützen: Meldebehörden zur Aufklärung über Möglichkeiten zur Vermeidung der Beitragspflicht anhalten"
+        },
+        {
+          "index": 11,
+          "title": "Sitzungsende 18:06 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19019",
+      "date": "2024-06-06",
+      "gremium_id": 581,
+      "sitzungsnr": 19,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 09:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 15 Einzelplan Haushaltsplan 2024/2025; Einzelplan 06 für den Geschäftsbereich des Bayerischen Staatsministeriums der Finanzen und für Heimat"
+        },
+        {
+          "index": 2,
+          "title": "TOP 16 Einzelplan Haushaltsplan 2024/2025; Einzelplan 16 für den Geschäftsbereich des Bayerischen Staatsministeriums für Digitales"
+        },
+        {
+          "index": 3,
+          "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 17 bis 19 TOP 17 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Finanzausgleichsgesetzes und der Bayerischen Durchführungsverordnung Finanzausgleichsgesetz (Finanzausgleichsänderungsgesetz 2024) TOP 18 Einzelplan Haushaltsplan 2024/2025; Einzelplan 13 Allgemeine Finanzverwaltung TOP 19 Zweite Lesung zum Gesetzentwurf über die Feststellung des Haushaltsplans des Freistaates Bayern für die Haushaltsjahre 2024 und 2025 (Haushaltsgesetz 2024/2025 - HG 2024/2025)"
+        },
+        {
+          "index": 4,
+          "title": "Sitzungsende 14:59 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19019",
+      "date": "2024-06-05",
+      "gremium_id": 580,
+      "sitzungsnr": 19,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 09:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 7 Einzelplan Haushaltsplan 2024/2025; Einzelplan 07 für den Geschäftsbereich des Bayerischen Staatsministeriums für Wirtschaft, Landesentwicklung und Energie"
+        },
+        {
+          "index": 2,
+          "title": "TOP 8 Einzelplan Haushaltsplan 2024/2025; Einzelplan 08 für den Geschäftsbereich des Bayerischen Staatsministeriums für Ernährung, Landwirtschaft, Forsten und Tourismus"
+        },
+        {
+          "index": 3,
+          "title": "TOP 9 Einzelplan Haushaltsplan 2024/2025; Einzelplan 10 für den Geschäftsbereich des Bayerischen Staatsministeriums für Familie, Arbeit und Soziales"
+        },
+        {
+          "index": 4,
+          "title": "Mittagspause"
+        },
+        {
+          "index": 5,
+          "title": "TOP 10 Einzelplan Haushaltsplan 2024/2025; Einzelplan 03 für den Geschäftsbereich des Bayerischen Staatsministeriums des Innern, für Sport und Integration"
+        },
+        {
+          "index": 6,
+          "title": "TOP 11 Einzelplan Haushaltsplan 2024/2025; Einzelplan 05 für den Geschäftsbereich des Bayerischen Staatsministeriums für Unterricht und Kultus"
+        },
+        {
+          "index": 7,
+          "title": "TOP 12 Einzelplan Haushaltsplan 2024/2025; Einzelplan 15 für den Geschäftsbereich des Bayerischen Staatsministeriums für Wissenschaft und Kunst"
+        },
+        {
+          "index": 8,
+          "title": "TOP 13 Einzelplan Haushaltsplan 2024/2025; Einzelplan 09 für den Geschäftsbereich des Bayerischen Staatsministeriums für Wohnen, Bau und Verkehr"
+        },
+        {
+          "index": 9,
+          "title": "TOP 14 Einzelplan Haushaltsplan 2024/2025; Einzelplan 12 für den Geschäftsbereich des Bayerischen Staatsministeriums für Umwelt und Verbraucherschutz"
+        },
+        {
+          "index": 10,
+          "title": "Sitzungsende 21:07 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19019",
+      "date": "2024-06-04",
+      "gremium_id": 579,
+      "sitzungsnr": 19,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 14:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Einzelplan Haushaltsplan 2024/2025; Einzelplan 01 für den Geschäftsbereich des Bayerischen Landtags"
+        },
+        {
+          "index": 2,
+          "title": "TOP 2 Einzelplan Haushaltsplan 2024/2025; Einzelplan 11 für den Geschäftsbereich des Bayerischen Obersten Rechnungshofes"
+        },
+        {
+          "index": 3,
+          "title": "TOP 3 Einzelplan Haushaltsplan 2024/2025; Einzelplan 02 für den Geschäftsbereich des Ministerpräsidenten und der Staatskanzlei"
+        },
+        {
+          "index": 4,
+          "title": "TOP 4 Einzelplan Haushaltsplan 2024/2025; Einzelplan 04 für den Geschäftsbereich des Bayerischen Staatsministeriums der Justiz"
+        },
+        {
+          "index": 5,
+          "title": "TOP 5 Einzelplan Haushaltsplan 2024/2025; Einzelplan 14 für den Geschäftsbereich des Bayerischen Staatsministeriums für Gesundheit, Pflege und Prävention"
+        },
+        {
+          "index": 6,
+          "title": "TOP 6 Antragsliste Abstimmung über Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 7,
+          "title": "Sitzungsende 19.46 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19018",
+      "date": "2024-05-14",
+      "gremium_id": 578,
+      "sitzungsnr": 18,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 14:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Aktuelle Stunde auf Vorschlag der SPD-Fraktion zum Thema: \"Europa in Gefahr: Bayerns Zukunft liegt in einer demokratischen und sozialen EU!\""
+        },
+        {
+          "index": 2,
+          "title": "TOP 2a) Gesetzentwurf zur Änderung des Bayerischen Finanzausgleichsgesetzes"
+        },
+        {
+          "index": 3,
+          "title": "TOP 2b) Gesetzentwurf zur Änderung des Bayerischen Gesetzes über das Erziehungs- und Unterrichtswesen"
+        },
+        {
+          "index": 4,
+          "title": "TOP 2c) Gesetzentwurf zur Änderung des Gesetzes über den Bayerischen Verfassungsgerichtshof"
+        },
+        {
+          "index": 5,
+          "title": "TOP 2d) Gesetzentwurf Bayerisches Gesetz zur Begrenzung der Folgen des Cannabiskonsums (Bayerisches Cannabisfolgenbegrenzungsgesetz)"
+        },
+        {
+          "index": 6,
+          "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 3 und 4 TOP 3 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags TOP 4 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 7,
+          "title": "TOP 5 Antragsliste Abstimmung über Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 8,
+          "title": "TOP 6 Antrag Keine weitere Wohnkostenbelastung - EU-Gebäuderichtlinie stoppen!"
+        },
+        {
+          "index": 9,
+          "title": "TOP 7 Antrag Ganzjährige Schonzeit für den Eichelhäher"
+        },
+        {
+          "index": 10,
+          "title": "TOP 8 Antrag Sichere Schulen sind Orte des Vertrauens für Kinder und Jugendliche - schulische Schutzkonzepte zur Vorbeugung und Aufarbeitung von sexuellen Missbrauchsfällen und Gewalthandlungen jetzt zügig in Bayern einführen"
+        },
+        {
+          "index": 11,
+          "title": "Sitzungsende 19:41 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19017",
+      "date": "2024-04-25",
+      "gremium_id": 577,
+      "sitzungsnr": 17,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 09:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Aktuelle Stunde auf Vorschlag der Fraktion BÜNDNIS 90/DIE GRÜNEN zum Thema: \"Klima-Booster Bayern statt Bremsklotz der Nation: Zukunft gestalten!\""
+        },
+        {
+          "index": 2,
+          "title": "TOP 2a) Erste Lesung zum Gesetzentwurf zur Änderung des Polizeiaufgabengesetzes und weiterer Rechtsvorschriften"
+        },
+        {
+          "index": 3,
+          "title": "TOP 2b) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Universitätsklinikagesetzes"
+        },
+        {
+          "index": 4,
+          "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 3 und 4 TOP 3 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags TOP 4 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 5,
+          "title": "TOP 5 Antragsliste Abstimmung über Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 6,
+          "title": "Mittagspause"
+        },
+        {
+          "index": 7,
+          "title": "TOP 6 Zweite Lesung zum Gesetzentwurf zur Änderung der Bayerischen Bauordnung - Bayerisches Kulturschutzgesetz"
+        },
+        {
+          "index": 8,
+          "title": "TOP 7 Dritte Lesung zum Gesetzentwurf zur Änderung der Bayerischen Bauordnung - Bayerisches Kulturschutzgesetz"
+        },
+        {
+          "index": 9,
+          "title": "TOP 8 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Abgeordnetengesetzes"
+        },
+        {
+          "index": 10,
+          "title": "TOP 9 Dritte Lesung zum Gesetzentwurf zur Änderung des Bayerischen Abgeordnetengesetzes"
+        },
+        {
+          "index": 11,
+          "title": "TOP 10 Beratung der zum Plenum eingereichten Dringlichkeitsanträge"
+        },
+        {
+          "index": 12,
+          "title": "Sitzungsende 17:54 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19016",
+      "date": "2024-04-17",
+      "gremium_id": 576,
+      "sitzungsnr": 16,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 13:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1a) Erste Lesung zum Gesetzentwurf zur Anpassung der Bezüge 2024/2025"
+        },
+        {
+          "index": 2,
+          "title": "TOP 1b) Erste Lesung zum Gesetzentwurf zur Förderung der Bundeswehr in Bayern"
+        },
+        {
+          "index": 3,
+          "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 2 und 3 TOP 2 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags TOP 3 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 4,
+          "title": "TOP 4 Wahl eines Mitglieds des Parlamentarischen Kontrollgremiums"
+        },
+        {
+          "index": 5,
+          "title": "TOP 5 Antragsliste Abstimmung über Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 6,
+          "title": "TOP 6 Bestellung von Mitgliedern und stellvertretenden Mitgliedern für den Landesdenkmalrat"
+        },
+        {
+          "index": 7,
+          "title": "TOP 7 Bestätigung eines stellvertretenden Mitglieds für den Landesgesundheitsrat"
+        },
+        {
+          "index": 8,
+          "title": "TOP 8 Beratung der zum Plenum eingereichten Dringlichkeitsanträge"
+        },
+        {
+          "index": 9,
+          "title": "Sitzungsende 18:04 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19015",
+      "date": "2024-04-09",
+      "gremium_id": 575,
+      "sitzungsnr": 15,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 14:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Aktuelle Stunde auf Vorschlag der AfD-Fraktion zum Thema: \"Corona-Protokolle des RKI überführen Söder-Regierung - Transparenz und Aufklärung jetzt\""
+        },
+        {
+          "index": 2,
+          "title": "TOP 2 Antragsliste Abstimmung über Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 3,
+          "title": "TOP 3 Erste Lesung zum Antrag auf Zustimmung zum Fünften Staatsvertrag zur Änderung medienrechtlicher Staatsverträge (Fünfter Medienänderungsstaatsvertrag)"
+        },
+        {
+          "index": 4,
+          "title": "TOP 4 Prüfung der Wahl zum Bayerischen Landtag vom 8. Oktober 2023 gemäß Art. 33 Satz 1 der Verfassung und Art. 51 des Landeswahlgesetzes"
+        },
+        {
+          "index": 5,
+          "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 5 und 6 TOP 5 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags TOP 6 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags"
+        },
+        {
+          "index": 6,
+          "title": "TOP 7 Antrag Kleinbäuerliche Landwirtschaft erhalten: Berlin die rote Karte zeigen!"
+        },
+        {
+          "index": 7,
+          "title": "TOP 8 Antrag Grünflation stoppen: CO2-Abgabe abschaffen!"
+        },
+        {
+          "index": 8,
+          "title": "Sitzungsende 17:06 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19014",
+      "date": "2024-03-21",
+      "gremium_id": 574,
+      "sitzungsnr": 14,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 09:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Aktuelle Stunde auf Vorschlag der Fraktion FREIE WÄHLER zum Thema: \"Moderner Staat, innovative Verwaltung, digitales Bayern: Zukunftschancen der Digitalisierung nutzen!\""
+        },
+        {
+          "index": 2,
+          "title": "TOP 2a) Erste Lesung zum Gesetzentwurf zur Änderung dienstrechtlicher Vorschriften"
+        },
+        {
+          "index": 3,
+          "title": "TOP 2b) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Abgeordnetengesetzes"
+        },
+        {
+          "index": 4,
+          "title": "TOP 3 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags"
+        },
+        {
+          "index": 5,
+          "title": "Mittagspause"
+        },
+        {
+          "index": 6,
+          "title": "TOP 4 Beratung der zum Plenum eingereichten Dringlichkeitsanträge"
+        },
+        {
+          "index": 7,
+          "title": "Sitzungsende 15:52 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19013",
+      "date": "2024-03-13",
+      "gremium_id": 573,
+      "sitzungsnr": 13,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 13:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Bekanntgabe des Ergebnisses der Wahl eines Vizepräsidenten des Bayerischen Landtags am 27.02.2024"
+        },
+        {
+          "index": 2,
+          "title": "TOP 2 Antragsliste Abstimmung über Verfassungsstreitigkeiten, Europaangelegenheiten und Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 3,
+          "title": "TOP 3 Zweite Lesung zum Antrag auf Zustimmung zum Zweiten Staatsvertrag zur Änderung des IT-Staatsvertrags"
+        },
+        {
+          "index": 4,
+          "title": "TOP 4 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags"
+        },
+        {
+          "index": 5,
+          "title": "TOP 5 Beratung der zum Plenum eingereichten Dringlichkeitsanträge"
+        },
+        {
+          "index": 6,
+          "title": "TOP 6 Antrag Verlässlichkeit für Freyung: Verwaltungsgericht oder Kompensation"
+        },
+        {
+          "index": 7,
+          "title": "Sitzungsende 16:46 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19012",
+      "date": "2024-02-27",
+      "gremium_id": 572,
+      "sitzungsnr": 12,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Aktuelle Stunde auf Vorschlag der CSU-Fraktion zum Thema: \"Für einen zukunftsfähigen und schlanken öffentlich-rechtlichen Rundfunk: Strukturelle Reformen vorantreiben - Rundfunkbeitrag stabil halten!\""
+        },
+        {
+          "index": 2,
+          "title": "TOP 2 Gemeinsamer Aufruf der Tagesordnungspunkte 2a) und 2b)"
+        },
+        {
+          "index": 3,
+          "title": "TOP 3 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags"
+        },
+        {
+          "index": 4,
+          "title": "Sitzungsende 18:20 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19011",
+      "date": "2024-02-22",
+      "gremium_id": 571,
+      "sitzungsnr": 11,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 09:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Aktuelle Stunde auf Vorschlag der SPD-Fraktion zum Thema: \"Ja zu guter sozialer Sicherung - soziale Politik ist der beste Schutz vor Extremismus!\""
+        },
+        {
+          "index": 2,
+          "title": "TOP 2 Antragsliste Abstimmung über eine Verfassungsstreitigkeit und Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 3,
+          "title": "TOP 3 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags"
+        },
+        {
+          "index": 4,
+          "title": "TOP 4 Erste Lesung zum Gesetzentwurf zur Änderung der Bayerischen Bauordnung - Bayerisches Kulturschutzgesetz"
+        },
+        {
+          "index": 5,
+          "title": "Mittagspause - entfällt -"
+        },
+        {
+          "index": 6,
+          "title": "TOP 5 Beratung der zum Plenum eingereichten Dringlichkeitsanträge"
+        },
+        {
+          "index": 7,
+          "title": "Sitzungsende 14:03 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19010",
+      "date": "2024-02-07",
+      "gremium_id": 570,
+      "sitzungsnr": 10,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 13.00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Bekanntgabe des Ergebnisses der Wahl eines Vizepräsidenten des Bayerischen Landtags am 30.01.2024"
+        },
+        {
+          "index": 2,
+          "title": "TOP 2 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags"
+        },
+        {
+          "index": 3,
+          "title": "TOP 3 Besetzung von Gremien"
+        },
+        {
+          "index": 4,
+          "title": "TOP 4 Beratung der zum Plenum eingereichten Dringlichkeitsanträge"
+        },
+        {
+          "index": 5,
+          "title": "Sitzungsende 16:33 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19009",
+      "date": "2024-01-30",
+      "gremium_id": 569,
+      "sitzungsnr": 9,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 14:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Aktuelle Stunde auf Vorschlag der Fraktion BÜNDNIS 90/DIE GRÜNEN zum Thema: \"Nach dem Schulterschluss - den zweiten Schritt gegen den Rechtsrutsch gehen: konkrete Maßnahmen ergreifen!\""
+        },
+        {
+          "index": 2,
+          "title": "TOP 2 Antragsliste Abstimmung über Verfassungsstreitigkeiten und Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 3,
+          "title": "TOP 3 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags"
+        },
+        {
+          "index": 4,
+          "title": "Sitzungsende 15:48 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19008",
+      "date": "2024-01-24",
+      "gremium_id": 568,
+      "sitzungsnr": 8,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 14:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1a) Erste Lesung zum Gesetzentwurf zur Änderung des Pflegendenvereinigungsgesetzes"
+        },
+        {
+          "index": 2,
+          "title": "TOP 1b) Erste Lesung zum Antrag auf Zustimmung zum Zweiten Staatsvertrag zur Änderung des IT-Staatsvertrags"
+        },
+        {
+          "index": 3,
+          "title": "TOP 2 Besetzung von Gremien"
+        },
+        {
+          "index": 4,
+          "title": "TOP 3 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags"
+        },
+        {
+          "index": 5,
+          "title": "TOP 4 Nachwahl einer Vertrauensperson für den Ausschuss zur Wahl der ehrenamtlichen Richter beim Finanzgericht München"
+        },
+        {
+          "index": 6,
+          "title": "TOP 5 Beratung der zum Plenum eingereichten Dringlichkeitsanträge"
+        },
+        {
+          "index": 7,
+          "title": "Sitzungsende 18:07 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19007",
+      "date": "2023-12-12",
+      "gremium_id": 567,
+      "sitzungsnr": 7,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 14:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Aktuelle Stunde auf Vorschlag der Fraktion FREIE WÄHLER zum Thema: \"Wohnortnahe Versorgung - Apotheken, Haus- und Fachärzte unterstützen, gewachsene Krankenhausstruktur schützen\""
+        },
+        {
+          "index": 2,
+          "title": "TOP 2 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags"
+        },
+        {
+          "index": 3,
+          "title": "TOP 3 Aktuelle Stunde auf Vorschlag der AfD-Fraktion zum Thema: \"Kommunen am Ende: Bayern vor Migrationskollaps bewahren\""
+        },
+        {
+          "index": 4,
+          "title": "TOP 4 Antragsliste Abstimmung über Verfassungsstreitigkeiten, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 5,
+          "title": "TOP 5 Besetzung von Gremien"
+        },
+        {
+          "index": 6,
+          "title": "Schlussworte"
+        },
+        {
+          "index": 7,
+          "title": "Sitzungsende 18:05 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19006",
+      "date": "2023-12-05",
+      "gremium_id": 566,
+      "sitzungsnr": 6,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 14:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Regierungserklärung des Ministerpräsidenten"
+        },
+        {
+          "index": 2,
+          "title": "TOP 2 Antragsliste Abstimmung über Europaangelegenheiten., die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden"
+        },
+        {
+          "index": 3,
+          "title": "TOP 3 Aktuelle Stunde auf Vorschlag der Fraktion FREIE WÄHLER zum Thema: \"Wohnortnahe Versorgung - Apotheken, Haus- und Fachärzte unterstützen, gewachsene Krankenhausstruktur schützen\""
+        },
+        {
+          "index": 4,
+          "title": "TOP 4 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags"
+        },
+        {
+          "index": 5,
+          "title": "Sitzungsende 17:39 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19005",
+      "date": "2023-11-30",
+      "gremium_id": 565,
+      "sitzungsnr": 5,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 09:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Aktuelle Stunde auf Vorschlag der CSU-Fraktion zum Thema: \"Starke Gesellschaft, robuster Rechtsstaat - kein Platz für Hass und Hetze, kein Platz für Antisemitismus\""
+        },
+        {
+          "index": 2,
+          "title": "TOP 2 Bekanntgabe der Mitglieder der Ausschüsse"
+        },
+        {
+          "index": 3,
+          "title": "TOP 3 Besetzung von Gremien"
+        },
+        {
+          "index": 4,
+          "title": "Mittagspause bis 12.00 Uhr"
+        },
+        {
+          "index": 5,
+          "title": "TOP 4 Beratung der zum Plenum eingereichten Dringlichkeitsanträge"
+        },
+        {
+          "index": 6,
+          "title": "Sitzungsende 15:41 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19004",
+      "date": "2023-11-15",
+      "gremium_id": 564,
+      "sitzungsnr": 4,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 13:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "TOP 1 Bestimmung der Stärke der Ausschüsse sowie Verteilung der Zahl der Ausschusssitze und der Stellen der Ausschussvorsitzenden und ihrer Stellvertreterinnen und Stellvertreter auf die Fraktionen"
+        },
+        {
+          "index": 2,
+          "title": "TOP 2 Bekanntgabe der Mitglieder des Ältestenrats"
+        },
+        {
+          "index": 3,
+          "title": "Sitzungsende 13:52 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19003",
+      "date": "2023-11-08",
+      "gremium_id": 563,
+      "sitzungsnr": 3,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 13:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 1 und 2 TOP 1 Bestätigung der vom Ministerpräsidenten bestimmten Zahl und Abgrenzung der Geschäftsbereiche (Staatsministerien) nach Art. 49 der Bayerischen Verfassung TOP 2 Zustimmung zur Berufung der Kabinettsmitglieder sowie zur Bestimmung der Stellvertreterin bzw. des Stellvertreters des Ministerpräsidenten nach Art. 45 und 46 der Bayerischen Verfassung"
+        },
+        {
+          "index": 2,
+          "title": "Vereidigung der Mitglieder der Staatsregierung"
+        },
+        {
+          "index": 3,
+          "title": "TOP 3 Bekanntgabe der Mitglieder der Kontrollkommission BayernFonds"
+        },
+        {
+          "index": 4,
+          "title": "Sitzungsende 14:18 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19002",
+      "date": "2023-10-31",
+      "gremium_id": 562,
+      "sitzungsnr": 2,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 10:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "Wahl des Ministerpräsidenten"
+        },
+        {
+          "index": 2,
+          "title": "Sitzungsende 11:31 Uhr"
+        }
+      ]
+    },
+    {
+      "session_id": "19001",
+      "date": "2023-10-30",
+      "gremium_id": 561,
+      "sitzungsnr": 1,
+      "tops": [
+        {
+          "index": 0,
+          "title": "Eröffnung 15:00 Uhr"
+        },
+        {
+          "index": 1,
+          "title": "Eröffnungsrede"
+        },
+        {
+          "index": 2,
+          "title": "Feststellung der Beschlussfähigkeit"
+        },
+        {
+          "index": 3,
+          "title": "TOP 1 Genehmigung der Tagesordnung"
+        },
+        {
+          "index": 4,
+          "title": "TOP 2 Beschlussfassung über eine Geschäftsordnung für den Bayerischen Landtag"
+        },
+        {
+          "index": 5,
+          "title": "TOP 3 Wahl des Präsidiums"
+        },
+        {
+          "index": 6,
+          "title": "Außerhalb der Tagesordnung: Aufhebung der Immunität eines Mitglieds des Bayerischen Landtags"
+        },
+        {
+          "index": 7,
+          "title": "Sitzungsende 19:12 Uhr"
+        }
+      ]
+    }
+  ]
+}

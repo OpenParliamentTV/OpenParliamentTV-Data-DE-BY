@@ -1,0 +1,47 @@
+{
+    "created": 1749117295242,
+    "live": false,
+    "title": " Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Gesetzes über das Erziehungs- ...",
+    "items": [
+      {
+        "id": 1,
+        "title": "Ramona Storm (AfD)",
+        "hls": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605085820_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8"
+      },
+      {
+        "id": 2,
+        "title": "Björn Jungbauer (CSU)",
+        "hls": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605090319_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8"
+      },
+      {
+        "id": 3,
+        "title": "Markus Walbrunn (AfD)",
+        "hls": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605090841_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8"
+      },
+      {
+        "id": 4,
+        "title": "Björn Jungbauer (CSU)",
+        "hls": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605091339_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8"
+      },
+      {
+        "id": 5,
+        "title": "Markus Walbrunn (AfD)",
+        "hls": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605091420_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8"
+      },
+      {
+        "id": 6,
+        "title": "Dr. Martin Brunnhuber (FREIE WÄHLER)",
+        "hls": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605091452_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8"
+      },
+      {
+        "id": 7,
+        "title": "Benjamin Adjei (BÜNDNIS 90/DIE GRÜNEN)",
+        "hls": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605091955_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8"
+      },
+      {
+        "id": 8,
+        "title": "Dr. Simone Strohmayr (SPD)",
+        "hls": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605092303_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8"
+      }
+    ]
+  }

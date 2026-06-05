@@ -1,0 +1,62 @@
+{
+    "created": 1749113520533,
+    "live": false,
+    "title": "Aktuelle Stunde auf Vorschlag der Fraktion BÜNDNIS 90/DIE GRÜNEN zum Thema: ...",
+    "items": [
+      {
+        "id": 1,
+        "title": "Katharina Schulze (BÜNDNIS 90/DIE GRÜNEN)",
+        "hls": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605070740_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8"
+      },
+      {
+        "id": 2,
+        "title": "Alexander Flierl (CSU)",
+        "hls": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605071530_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8"
+      },
+      {
+        "id": 3,
+        "title": "Katrin Ebner-Steiner (AfD)",
+        "hls": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605072546_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8"
+      },
+      {
+        "id": 4,
+        "title": "Marina Jakob (FREIE WÄHLER)",
+        "hls": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605073134_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8"
+      },
+      {
+        "id": 5,
+        "title": "Florian von Brunn (SPD)",
+        "hls": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605073640_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8"
+      },
+      {
+        "id": 6,
+        "title": "Walter Nussel (CSU)",
+        "hls": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605074208_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8"
+      },
+      {
+        "id": 7,
+        "title": "Markus Striedl (AfD)",
+        "hls": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605074727_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8"
+      },
+      {
+        "id": 8,
+        "title": "Ulrike Müller (FREIE WÄHLER)",
+        "hls": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605075306_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8"
+      },
+      {
+        "id": 9,
+        "title": "Johannes Becher (BÜNDNIS 90/DIE GRÜNEN)",
+        "hls": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605075826_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8"
+      },
+      {
+        "id": 10,
+        "title": "Tanja Schorer-Dremel (CSU)",
+        "hls": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605080411_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8"
+      },
+      {
+        "id": 11,
+        "title": "Staatssekretär Tobias Gotthardt",
+        "hls": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605080923_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8"
+      }
+    ]
+  }

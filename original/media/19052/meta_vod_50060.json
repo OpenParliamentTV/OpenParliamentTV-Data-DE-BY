@@ -1,0 +1,42 @@
+{
+    "created": 1749137792944,
+    "live": false,
+    "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 9 bis 13",
+    "items": [
+      {
+        "id": 1,
+        "title": "Johannes Becher (BÜNDNIS 90/DIE GRÜNEN)",
+        "hls": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605144403_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8"
+      },
+      {
+        "id": 2,
+        "title": "Peter Wachler (CSU)",
+        "hls": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605144930_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8"
+      },
+      {
+        "id": 3,
+        "title": "Johannes Becher (BÜNDNIS 90/DIE GRÜNEN)",
+        "hls": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605145748_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8"
+      },
+      {
+        "id": 4,
+        "title": "Peter Wachler (CSU)",
+        "hls": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605145905_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8"
+      },
+      {
+        "id": 5,
+        "title": "Jörg Baumann (AfD)",
+        "hls": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605145957_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8"
+      },
+      {
+        "id": 6,
+        "title": "Markus Saller (FREIE WÄHLER)",
+        "hls": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605150357_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8"
+      },
+      {
+        "id": 7,
+        "title": "Katja Weitzel (SPD)",
+        "hls": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605150858_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8"
+      }
+    ]
+  }

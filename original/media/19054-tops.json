@@ -1,0 +1,155 @@
+{
+  "session_id": "19054",
+  "date": "2025-07-02",
+  "sitzungsnr": 54,
+  "gremium_id": 614,
+  "tops": [
+    {
+      "index": 0,
+      "title": "Eröffnung 13:00 Uhr",
+      "playlist": "meta_vod_50299.json",
+      "meta_vod_url": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_625/meta_vod_50299.json",
+      "speech_count": 1
+    },
+    {
+      "index": 1,
+      "title": "TOP 1a) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Kinderbildungs- und -betreuungsgesetzes",
+      "playlist": "meta_vod_50234.json",
+      "meta_vod_url": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_625/meta_vod_50234.json",
+      "speech_count": 7
+    },
+    {
+      "index": 2,
+      "title": "TOP 1b) Erste Lesung zum Gesetzentwurf Bayerisches Gesetz über die Beteiligung von Gemeinden und Bevölkerung an Windenergie- und Photovoltaikanlagen (BayWindPVBetG)",
+      "playlist": "meta_vod_50235.json",
+      "meta_vod_url": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_625/meta_vod_50235.json",
+      "speech_count": 14
+    },
+    {
+      "index": 3,
+      "title": "TOP 1c) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Maßregelvollzugsgesetzes und weiterer Rechtsvorschriften",
+      "playlist": "meta_vod_50236.json",
+      "meta_vod_url": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_625/meta_vod_50236.json",
+      "speech_count": 6
+    },
+    {
+      "index": 4,
+      "title": "TOP 1d) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Sozialgerichts-Ausführungsgesetzes",
+      "playlist": null,
+      "meta_vod_url": null,
+      "speech_count": 0
+    },
+    {
+      "index": 5,
+      "title": "TOP 1e) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Waldgesetzes",
+      "playlist": "meta_vod_50238.json",
+      "meta_vod_url": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_625/meta_vod_50238.json",
+      "speech_count": 8
+    },
+    {
+      "index": 6,
+      "title": "TOP 2 Antragsliste Abstimmung über Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden",
+      "playlist": null,
+      "meta_vod_url": null,
+      "speech_count": 0
+    },
+    {
+      "index": 7,
+      "title": "Abstimmung Antrag auf Begründung und gemeinsame Aussprache zu TOP 3 und 4",
+      "playlist": null,
+      "meta_vod_url": null,
+      "speech_count": 0
+    },
+    {
+      "index": 8,
+      "title": "TOP 3 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags",
+      "playlist": null,
+      "meta_vod_url": null,
+      "speech_count": 0
+    },
+    {
+      "index": 9,
+      "title": "TOP 4 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags",
+      "playlist": null,
+      "meta_vod_url": null,
+      "speech_count": 0
+    },
+    {
+      "index": 10,
+      "title": "Abstimmung Antrag auf Begründung und Aussprache zu TOP 5",
+      "playlist": null,
+      "meta_vod_url": null,
+      "speech_count": 0
+    },
+    {
+      "index": 11,
+      "title": "TOP 5 Wahl eines Mitglieds des Parlamentarischen Kontrollgremiums",
+      "playlist": null,
+      "meta_vod_url": null,
+      "speech_count": 0
+    },
+    {
+      "index": 12,
+      "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 6 und 7 Zweite Lesung zum Gesetzentwurf der Staatsregierung zur Änderung des Bayerischen Gleichstellungsgesetzes (Drs. 19/4432) und Zweite Lesung zum Gesetzentwurf der SPD-Fraktion zur Änderung des Bayerischen Gleichstellungsgesetzes (Drs. 19/4553) TOP 6 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Gleichstellungsgesetzes TOP 7 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Gleichstellungsgesetzes",
+      "playlist": "meta_vod_50243.json",
+      "meta_vod_url": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_625/meta_vod_50243.json",
+      "speech_count": 10
+    },
+    {
+      "index": 13,
+      "title": "TOP 8 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Katastrophenschutzgesetzes hier: Helfergleichstellung in Bayern",
+      "playlist": "meta_vod_50246.json",
+      "meta_vod_url": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_625/meta_vod_50246.json",
+      "speech_count": 12
+    },
+    {
+      "index": 14,
+      "title": "TOP 9 Zweite Lesung zum Gesetzentwurf zur Änderung des Gesetzes zur Ausführung der Verwaltungsgerichtsordnung",
+      "playlist": null,
+      "meta_vod_url": null,
+      "speech_count": 0
+    },
+    {
+      "index": 15,
+      "title": "TOP 10 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Feuerwehrgesetzes und der Bayerischen Bauordnung",
+      "playlist": "meta_vod_50248.json",
+      "meta_vod_url": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_625/meta_vod_50248.json",
+      "speech_count": 6
+    },
+    {
+      "index": 16,
+      "title": "TOP 11 Antrag auf Zustimmung zum Staatsvertrag zur Aufgabenerfüllung nach dem Barrierefreiheitsstärkungsgesetz",
+      "playlist": null,
+      "meta_vod_url": null,
+      "speech_count": 0
+    },
+    {
+      "index": 17,
+      "title": "TOP 12 Antrag auf Zustimmung zum Sechsten Staatsvertrag zur Änderung medienrechtlicher Staatsverträge (Sechster Medienänderungsstaatsvertrag)",
+      "playlist": "meta_vod_50250.json",
+      "meta_vod_url": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_625/meta_vod_50250.json",
+      "speech_count": 6
+    },
+    {
+      "index": 18,
+      "title": "TOP 13 Antrag auf Zustimmung zum Siebten Staatsvertrag zur Änderung medienrechtlicher Staatsverträge - Reform des öffentlich-rechtlichen Rundfunks (Reformstaatsvertrag)",
+      "playlist": "meta_vod_50251.json",
+      "meta_vod_url": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_625/meta_vod_50251.json",
+      "speech_count": 16
+    },
+    {
+      "index": 19,
+      "title": "TOP 14 Beratung der zum Plenum eingereichten Dringlichkeitsanträge",
+      "playlist": "meta_vod_50373.json",
+      "meta_vod_url": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_625/meta_vod_50373.json",
+      "speech_count": 14
+    },
+    {
+      "index": 20,
+      "title": "Sitzungsende 21:21 Uhr",
+      "playlist": null,
+      "meta_vod_url": null,
+      "speech_count": 0
+    }
+  ]
+}

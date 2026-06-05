@@ -1,0 +1,47 @@
+{
+    "created": 1751463615658,
+    "live": false,
+    "title": " Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Waldgesetzes",
+    "items": [
+      {
+        "id": 1,
+        "title": "Staatsministerin Michaela Kaniber",
+        "hls": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250702124918_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8"
+      },
+      {
+        "id": 2,
+        "title": "Harald Meußgeier (AfD)",
+        "hls": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250702125506_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8"
+      },
+      {
+        "id": 3,
+        "title": "Thorsten Schwab (CSU)",
+        "hls": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250702125931_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8"
+      },
+      {
+        "id": 4,
+        "title": "Harald Meußgeier (AfD)",
+        "hls": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250702130607_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8"
+      },
+      {
+        "id": 5,
+        "title": "Thorsten Schwab (CSU)",
+        "hls": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250702130637_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8"
+      },
+      {
+        "id": 6,
+        "title": "Toni Schuberl (BÜNDNIS 90/DIE GRÜNEN)",
+        "hls": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250702130730_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8"
+      },
+      {
+        "id": 7,
+        "title": "Roland Weigert (FREIE WÄHLER)",
+        "hls": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250702131037_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8"
+      },
+      {
+        "id": 8,
+        "title": "Christiane Feichtmeier (SPD)",
+        "hls": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250702131211_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8"
+      }
+    ]
+  }

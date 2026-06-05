@@ -1,0 +1,120 @@
+{
+  "session_id": "19052",
+  "date": "2025-06-05",
+  "sitzungsnr": 52,
+  "gremium_id": 612,
+  "tops": [
+    {
+      "index": 0,
+      "title": "Eröffnung 09:00 Uhr",
+      "playlist": "meta_vod_50103.json",
+      "meta_vod_url": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50103.json",
+      "speech_count": 1
+    },
+    {
+      "index": 1,
+      "title": "TOP 1 Aktuelle Stunde auf Vorschlag der Fraktion BÜNDNIS 90/DIE GRÜNEN zum Thema: \"Rettet die Berge - Bergliebe statt Bausünde\"",
+      "playlist": "meta_vod_50049.json",
+      "meta_vod_url": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50049.json",
+      "speech_count": 11
+    },
+    {
+      "index": 2,
+      "title": "TOP 2 Antragsliste Abstimmung über Europaangelegenheiten und Anträge, die gemäß § 59 Abs. 7 der Geschäftsordnung nicht einzeln beraten werden",
+      "playlist": null,
+      "meta_vod_url": null,
+      "speech_count": 0
+    },
+    {
+      "index": 3,
+      "title": "Außerhalb der Tagesordnung: Aufhebung der Immunität eines Mitglieds des Bayerischen Landtags",
+      "playlist": null,
+      "meta_vod_url": null,
+      "speech_count": 0
+    },
+    {
+      "index": 4,
+      "title": "TOP 3a) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Wassergesetzes",
+      "playlist": "meta_vod_50052.json",
+      "meta_vod_url": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50052.json",
+      "speech_count": 11
+    },
+    {
+      "index": 5,
+      "title": "TOP 3b) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Gesetzes über das Erziehungs- und Unterrichtswesen",
+      "playlist": "meta_vod_50053.json",
+      "meta_vod_url": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50053.json",
+      "speech_count": 8
+    },
+    {
+      "index": 6,
+      "title": "TOP 3c) Erste Lesung zum Gesetzentwurf Gesetz über das Beflaggen öffentlicher Gebäude (Bayerisches Beflaggungsgesetz - BayBeFlagG)",
+      "playlist": "meta_vod_50054.json",
+      "meta_vod_url": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50054.json",
+      "speech_count": 14
+    },
+    {
+      "index": 7,
+      "title": "Abstimmung Antrag auf Begründung und gemeinsame Aussprache zu TOP 4 und 5",
+      "playlist": null,
+      "meta_vod_url": null,
+      "speech_count": 0
+    },
+    {
+      "index": 8,
+      "title": "TOP 4 Wahl einer Vizepräsidentin oder eines Vizepräsidenten des Bayerischen Landtags",
+      "playlist": null,
+      "meta_vod_url": null,
+      "speech_count": 0
+    },
+    {
+      "index": 9,
+      "title": "TOP 5 Wahl einer Schriftführerin oder eines Schriftführers des Bayerischen Landtags",
+      "playlist": null,
+      "meta_vod_url": null,
+      "speech_count": 0
+    },
+    {
+      "index": 10,
+      "title": "Mittagspause",
+      "playlist": null,
+      "meta_vod_url": null,
+      "speech_count": 0
+    },
+    {
+      "index": 11,
+      "title": "TOP 6 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Strafvollzugsgesetzes und weiterer Rechtsvorschriften",
+      "playlist": "meta_vod_50057.json",
+      "meta_vod_url": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50057.json",
+      "speech_count": 5
+    },
+    {
+      "index": 12,
+      "title": "TOP 7 Beratung der zum Plenum eingereichten Dringlichkeitsanträge",
+      "playlist": "meta_vod_50125.json",
+      "meta_vod_url": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50125.json",
+      "speech_count": 14
+    },
+    {
+      "index": 13,
+      "title": "TOP 8 Antrag LKW-Führerschein für die Mitglieder der Blaulichtfamilie vereinfachen!",
+      "playlist": "meta_vod_50059.json",
+      "meta_vod_url": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50059.json",
+      "speech_count": 7
+    },
+    {
+      "index": 14,
+      "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 9 bis 13 TOP 9 Antrag Bürokratie abbauen: Wegfall der Wohnungsgeberbestätigung TOP 10 Antrag Bürokratie abbauen, Ausländerbehörden entlasten I: Plattform mit bayernweit einheitlichen Standards zur Aktenversendung TOP 11 Antrag Bürokratie abbauen, Ausländerbehörden entlasten II: Beteiligung der Bundesagentur für Arbeit bei Antrag auf Beschäftigungsverhältnis streichen TOP 12 Antrag Bürokratie abbauen, Ausländerbehörden entlasten III: Wartezeitauskunft der Deutschen Rentenversicherung bei Erteilung einer Niederlassungserlaubnis digitalisieren TOP 13 Antrag Bürokratie abbauen, Ausländerbehörden entlasten IV: Bei befristeten Aufenthaltstiteln auf Passdaten verzichten",
+      "playlist": "meta_vod_50060.json",
+      "meta_vod_url": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50060.json",
+      "speech_count": 7
+    },
+    {
+      "index": 15,
+      "title": "Sitzungsende 17:13 Uhr",
+      "playlist": null,
+      "meta_vod_url": null,
+      "speech_count": 0
+    }
+  ]
+}

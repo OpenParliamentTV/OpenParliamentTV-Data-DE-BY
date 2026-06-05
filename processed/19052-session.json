@@ -1,0 +1,4271 @@
+{
+  "meta": {
+    "schemaVersion": "1.0",
+    "parliament": "DE-BY",
+    "electoralPeriod": {
+      "number": 19
+    },
+    "session": "19052",
+    "dateStart": "2025-06-05T07:01:56",
+    "dateEnd": "2025-06-05T15:08:58",
+    "sourceURI": "https://www.bayern.landtag.de/aktuelles/sitzungen/plenum-videos/",
+    "processing": {
+      "parse_media": "2026-05-31T16:29:54",
+      "merge": "2026-05-31T16:29:54",
+      "nel": "2026-06-02T21:08:13"
+    },
+    "lastUpdate": "2026-05-31T16:29:54"
+  },
+  "data": [
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T07:01:56",
+      "dateEnd": "2025-06-05T07:01:56",
+      "speechIndex": 1,
+      "originID": "50103_1",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "Eröffnung 09:00 Uhr",
+        "title": "Eröffnung 09:00 Uhr",
+        "id": "TOP-0",
+        "nativeType": "DE-BY-opening",
+        "type": "opening"
+      },
+      "people": [
+        {
+          "label": "Ilse Aigner",
+          "context": "president",
+          "firstname": "Ilse",
+          "lastname": "Aigner",
+          "role": "Landtagspräsidentin",
+          "faction": {
+            "label": "CSU",
+            "wid": "Q49763"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605070156_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50103.json&startId=1",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50103_1",
+        "additionalInformation": {
+          "metaVodId": "50103",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50103.json",
+          "startId": 1,
+          "clockStart": "07:01:56"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 0,
+        "rednerRaw": "Landtagspräsidentin  Ilse Aigner (CSU)",
+        "gruppeRaw": "CSU",
+        "clockStart": "07:01:56",
+        "metaVodId": "50103"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T07:07:40",
+      "dateEnd": "2025-06-05T07:07:40",
+      "speechIndex": 2,
+      "originID": "50049_1",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1 Aktuelle Stunde auf Vorschlag der Fraktion BÜNDNIS 90/DIE GRÜNEN zum Thema: \"Rettet die Berge - Bergliebe statt Bausünde\"",
+        "title": "TOP 1 Aktuelle Stunde auf Vorschlag der Fraktion BÜNDNIS 90/DIE GRÜNEN zum Thema: \"Rettet die Berge - Bergliebe statt Bausünde\"",
+        "id": "TOP-1",
+        "nativeType": "DE-BY-current_affairs",
+        "type": "current_affairs"
+      },
+      "people": [
+        {
+          "label": "Katharina Schulze",
+          "context": "main-speaker",
+          "firstname": "Katharina",
+          "lastname": "Schulze",
+          "faction": {
+            "label": "BÜNDNIS 90/DIE GRÜNEN",
+            "wid": "Q49766"
+          },
+          "wid": "Q14949131",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605070740_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50049.json&startId=1",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50049_1",
+        "additionalInformation": {
+          "metaVodId": "50049",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50049.json",
+          "startId": 1,
+          "clockStart": "07:07:40"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 1,
+        "rednerRaw": "Katharina Schulze (BÜNDNIS 90/DIE GRÜNEN)",
+        "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
+        "clockStart": "07:07:40",
+        "metaVodId": "50049"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T07:15:30",
+      "dateEnd": "2025-06-05T07:15:30",
+      "speechIndex": 3,
+      "originID": "50049_2",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1 Aktuelle Stunde auf Vorschlag der Fraktion BÜNDNIS 90/DIE GRÜNEN zum Thema: \"Rettet die Berge - Bergliebe statt Bausünde\"",
+        "title": "TOP 1 Aktuelle Stunde auf Vorschlag der Fraktion BÜNDNIS 90/DIE GRÜNEN zum Thema: \"Rettet die Berge - Bergliebe statt Bausünde\"",
+        "id": "TOP-1",
+        "nativeType": "DE-BY-current_affairs",
+        "type": "current_affairs"
+      },
+      "people": [
+        {
+          "label": "Alexander Flierl",
+          "context": "main-speaker",
+          "firstname": "Alexander",
+          "lastname": "Flierl",
+          "faction": {
+            "label": "CSU",
+            "wid": "Q49763"
+          },
+          "wid": "Q14916752",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605071530_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50049.json&startId=2",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50049_2",
+        "additionalInformation": {
+          "metaVodId": "50049",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50049.json",
+          "startId": 2,
+          "clockStart": "07:15:30"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 1,
+        "rednerRaw": "Alexander Flierl (CSU)",
+        "gruppeRaw": "CSU",
+        "clockStart": "07:15:30",
+        "metaVodId": "50049"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T07:25:46",
+      "dateEnd": "2025-06-05T07:25:46",
+      "speechIndex": 4,
+      "originID": "50049_3",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1 Aktuelle Stunde auf Vorschlag der Fraktion BÜNDNIS 90/DIE GRÜNEN zum Thema: \"Rettet die Berge - Bergliebe statt Bausünde\"",
+        "title": "TOP 1 Aktuelle Stunde auf Vorschlag der Fraktion BÜNDNIS 90/DIE GRÜNEN zum Thema: \"Rettet die Berge - Bergliebe statt Bausünde\"",
+        "id": "TOP-1",
+        "nativeType": "DE-BY-current_affairs",
+        "type": "current_affairs"
+      },
+      "people": [
+        {
+          "label": "Katrin Ebner-Steiner",
+          "context": "main-speaker",
+          "firstname": "Katrin",
+          "lastname": "Ebner-Steiner",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "wid": "Q57418847",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605072546_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50049.json&startId=3",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50049_3",
+        "additionalInformation": {
+          "metaVodId": "50049",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50049.json",
+          "startId": 3,
+          "clockStart": "07:25:46"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 1,
+        "rednerRaw": "Katrin Ebner-Steiner (AfD)",
+        "gruppeRaw": "AfD",
+        "clockStart": "07:25:46",
+        "metaVodId": "50049"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T07:31:34",
+      "dateEnd": "2025-06-05T07:31:34",
+      "speechIndex": 5,
+      "originID": "50049_4",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1 Aktuelle Stunde auf Vorschlag der Fraktion BÜNDNIS 90/DIE GRÜNEN zum Thema: \"Rettet die Berge - Bergliebe statt Bausünde\"",
+        "title": "TOP 1 Aktuelle Stunde auf Vorschlag der Fraktion BÜNDNIS 90/DIE GRÜNEN zum Thema: \"Rettet die Berge - Bergliebe statt Bausünde\"",
+        "id": "TOP-1",
+        "nativeType": "DE-BY-current_affairs",
+        "type": "current_affairs"
+      },
+      "people": [
+        {
+          "label": "Marina Jakob",
+          "context": "main-speaker",
+          "firstname": "Marina",
+          "lastname": "Jakob",
+          "faction": {
+            "label": "FREIE WÄHLER",
+            "wid": "Q1231839"
+          },
+          "wid": "Q123468895",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605073134_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50049.json&startId=4",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50049_4",
+        "additionalInformation": {
+          "metaVodId": "50049",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50049.json",
+          "startId": 4,
+          "clockStart": "07:31:34"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 1,
+        "rednerRaw": "Marina Jakob (FREIE WÄHLER)",
+        "gruppeRaw": "FREIE WÄHLER",
+        "clockStart": "07:31:34",
+        "metaVodId": "50049"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T07:36:40",
+      "dateEnd": "2025-06-05T07:36:40",
+      "speechIndex": 6,
+      "originID": "50049_5",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1 Aktuelle Stunde auf Vorschlag der Fraktion BÜNDNIS 90/DIE GRÜNEN zum Thema: \"Rettet die Berge - Bergliebe statt Bausünde\"",
+        "title": "TOP 1 Aktuelle Stunde auf Vorschlag der Fraktion BÜNDNIS 90/DIE GRÜNEN zum Thema: \"Rettet die Berge - Bergliebe statt Bausünde\"",
+        "id": "TOP-1",
+        "nativeType": "DE-BY-current_affairs",
+        "type": "current_affairs"
+      },
+      "people": [
+        {
+          "label": "Florian von Brunn",
+          "context": "main-speaker",
+          "firstname": "Florian",
+          "lastname": "von Brunn",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q15434915",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605073640_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50049.json&startId=5",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50049_5",
+        "additionalInformation": {
+          "metaVodId": "50049",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50049.json",
+          "startId": 5,
+          "clockStart": "07:36:40"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 1,
+        "rednerRaw": "Florian von Brunn (SPD)",
+        "gruppeRaw": "SPD",
+        "clockStart": "07:36:40",
+        "metaVodId": "50049"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T07:42:08",
+      "dateEnd": "2025-06-05T07:42:08",
+      "speechIndex": 7,
+      "originID": "50049_6",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1 Aktuelle Stunde auf Vorschlag der Fraktion BÜNDNIS 90/DIE GRÜNEN zum Thema: \"Rettet die Berge - Bergliebe statt Bausünde\"",
+        "title": "TOP 1 Aktuelle Stunde auf Vorschlag der Fraktion BÜNDNIS 90/DIE GRÜNEN zum Thema: \"Rettet die Berge - Bergliebe statt Bausünde\"",
+        "id": "TOP-1",
+        "nativeType": "DE-BY-current_affairs",
+        "type": "current_affairs"
+      },
+      "people": [
+        {
+          "label": "Walter Nussel",
+          "context": "main-speaker",
+          "firstname": "Walter",
+          "lastname": "Nussel",
+          "faction": {
+            "label": "CSU",
+            "wid": "Q49763"
+          },
+          "wid": "Q14916840",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605074208_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50049.json&startId=6",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50049_6",
+        "additionalInformation": {
+          "metaVodId": "50049",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50049.json",
+          "startId": 6,
+          "clockStart": "07:42:08"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 1,
+        "rednerRaw": "Walter Nussel (CSU)",
+        "gruppeRaw": "CSU",
+        "clockStart": "07:42:08",
+        "metaVodId": "50049"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T07:47:27",
+      "dateEnd": "2025-06-05T07:47:27",
+      "speechIndex": 8,
+      "originID": "50049_7",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1 Aktuelle Stunde auf Vorschlag der Fraktion BÜNDNIS 90/DIE GRÜNEN zum Thema: \"Rettet die Berge - Bergliebe statt Bausünde\"",
+        "title": "TOP 1 Aktuelle Stunde auf Vorschlag der Fraktion BÜNDNIS 90/DIE GRÜNEN zum Thema: \"Rettet die Berge - Bergliebe statt Bausünde\"",
+        "id": "TOP-1",
+        "nativeType": "DE-BY-current_affairs",
+        "type": "current_affairs"
+      },
+      "people": [
+        {
+          "label": "Markus Striedl",
+          "context": "main-speaker",
+          "firstname": "Markus",
+          "lastname": "Striedl",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "wid": "Q125941398",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605074727_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50049.json&startId=7",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50049_7",
+        "additionalInformation": {
+          "metaVodId": "50049",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50049.json",
+          "startId": 7,
+          "clockStart": "07:47:27"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 1,
+        "rednerRaw": "Markus Striedl (AfD)",
+        "gruppeRaw": "AfD",
+        "clockStart": "07:47:27",
+        "metaVodId": "50049"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T07:53:06",
+      "dateEnd": "2025-06-05T07:53:06",
+      "speechIndex": 9,
+      "originID": "50049_8",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1 Aktuelle Stunde auf Vorschlag der Fraktion BÜNDNIS 90/DIE GRÜNEN zum Thema: \"Rettet die Berge - Bergliebe statt Bausünde\"",
+        "title": "TOP 1 Aktuelle Stunde auf Vorschlag der Fraktion BÜNDNIS 90/DIE GRÜNEN zum Thema: \"Rettet die Berge - Bergliebe statt Bausünde\"",
+        "id": "TOP-1",
+        "nativeType": "DE-BY-current_affairs",
+        "type": "current_affairs"
+      },
+      "people": [
+        {
+          "label": "Ulrike Müller",
+          "context": "main-speaker",
+          "firstname": "Ulrike",
+          "lastname": "Müller",
+          "faction": {
+            "label": "FREIE WÄHLER",
+            "wid": "Q1231839"
+          },
+          "wid": "Q2477402",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605075306_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50049.json&startId=8",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50049_8",
+        "additionalInformation": {
+          "metaVodId": "50049",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50049.json",
+          "startId": 8,
+          "clockStart": "07:53:06"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 1,
+        "rednerRaw": "Ulrike Müller (FREIE WÄHLER)",
+        "gruppeRaw": "FREIE WÄHLER",
+        "clockStart": "07:53:06",
+        "metaVodId": "50049"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T07:58:26",
+      "dateEnd": "2025-06-05T07:58:26",
+      "speechIndex": 10,
+      "originID": "50049_9",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1 Aktuelle Stunde auf Vorschlag der Fraktion BÜNDNIS 90/DIE GRÜNEN zum Thema: \"Rettet die Berge - Bergliebe statt Bausünde\"",
+        "title": "TOP 1 Aktuelle Stunde auf Vorschlag der Fraktion BÜNDNIS 90/DIE GRÜNEN zum Thema: \"Rettet die Berge - Bergliebe statt Bausünde\"",
+        "id": "TOP-1",
+        "nativeType": "DE-BY-current_affairs",
+        "type": "current_affairs"
+      },
+      "people": [
+        {
+          "label": "Johannes Becher",
+          "context": "main-speaker",
+          "firstname": "Johannes",
+          "lastname": "Becher",
+          "faction": {
+            "label": "BÜNDNIS 90/DIE GRÜNEN",
+            "wid": "Q49766"
+          },
+          "wid": "Q57497013",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605075826_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50049.json&startId=9",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50049_9",
+        "additionalInformation": {
+          "metaVodId": "50049",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50049.json",
+          "startId": 9,
+          "clockStart": "07:58:26"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 1,
+        "rednerRaw": "Johannes Becher (BÜNDNIS 90/DIE GRÜNEN)",
+        "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
+        "clockStart": "07:58:26",
+        "metaVodId": "50049"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T08:04:11",
+      "dateEnd": "2025-06-05T08:04:11",
+      "speechIndex": 11,
+      "originID": "50049_10",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1 Aktuelle Stunde auf Vorschlag der Fraktion BÜNDNIS 90/DIE GRÜNEN zum Thema: \"Rettet die Berge - Bergliebe statt Bausünde\"",
+        "title": "TOP 1 Aktuelle Stunde auf Vorschlag der Fraktion BÜNDNIS 90/DIE GRÜNEN zum Thema: \"Rettet die Berge - Bergliebe statt Bausünde\"",
+        "id": "TOP-1",
+        "nativeType": "DE-BY-current_affairs",
+        "type": "current_affairs"
+      },
+      "people": [
+        {
+          "label": "Tanja Schorer-Dremel",
+          "context": "main-speaker",
+          "firstname": "Tanja",
+          "lastname": "Schorer-Dremel",
+          "faction": {
+            "label": "CSU",
+            "wid": "Q49763"
+          },
+          "wid": "Q14916757",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605080411_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50049.json&startId=10",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50049_10",
+        "additionalInformation": {
+          "metaVodId": "50049",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50049.json",
+          "startId": 10,
+          "clockStart": "08:04:11"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 1,
+        "rednerRaw": "Tanja Schorer-Dremel (CSU)",
+        "gruppeRaw": "CSU",
+        "clockStart": "08:04:11",
+        "metaVodId": "50049"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T08:09:23",
+      "dateEnd": "2025-06-05T08:09:23",
+      "speechIndex": 12,
+      "originID": "50049_11",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1 Aktuelle Stunde auf Vorschlag der Fraktion BÜNDNIS 90/DIE GRÜNEN zum Thema: \"Rettet die Berge - Bergliebe statt Bausünde\"",
+        "title": "TOP 1 Aktuelle Stunde auf Vorschlag der Fraktion BÜNDNIS 90/DIE GRÜNEN zum Thema: \"Rettet die Berge - Bergliebe statt Bausünde\"",
+        "id": "TOP-1",
+        "nativeType": "DE-BY-current_affairs",
+        "type": "current_affairs"
+      },
+      "people": [
+        {
+          "label": "Tobias Gotthardt",
+          "context": "main-speaker",
+          "firstname": "Tobias",
+          "lastname": "Gotthardt",
+          "role": "Staatssekretär",
+          "wid": "Q57630167",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605080923_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50049.json&startId=11",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50049_11",
+        "additionalInformation": {
+          "metaVodId": "50049",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50049.json",
+          "startId": 11,
+          "clockStart": "08:09:23"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 1,
+        "rednerRaw": "Staatssekretär Tobias Gotthardt",
+        "gruppeRaw": "",
+        "clockStart": "08:09:23",
+        "metaVodId": "50049"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T08:19:29",
+      "dateEnd": "2025-06-05T08:19:29",
+      "speechIndex": 13,
+      "originID": "50052_1",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3a) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Wassergesetzes",
+        "title": "TOP 3a) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Wassergesetzes",
+        "id": "TOP-4",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Christian Hierneis",
+          "context": "main-speaker",
+          "firstname": "Christian",
+          "lastname": "Hierneis",
+          "faction": {
+            "label": "BÜNDNIS 90/DIE GRÜNEN",
+            "wid": "Q49766"
+          },
+          "wid": "Q57325772",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605081929_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50052.json&startId=1",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50052_1",
+        "additionalInformation": {
+          "metaVodId": "50052",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50052.json",
+          "startId": 1,
+          "clockStart": "08:19:29"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 4,
+        "rednerRaw": "Christian Hierneis (BÜNDNIS 90/DIE GRÜNEN)",
+        "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
+        "clockStart": "08:19:29",
+        "metaVodId": "50052"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T08:26:58",
+      "dateEnd": "2025-06-05T08:26:58",
+      "speechIndex": 14,
+      "originID": "50052_2",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3a) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Wassergesetzes",
+        "title": "TOP 3a) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Wassergesetzes",
+        "id": "TOP-4",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Alexander Flierl",
+          "context": "main-speaker",
+          "firstname": "Alexander",
+          "lastname": "Flierl",
+          "faction": {
+            "label": "CSU",
+            "wid": "Q49763"
+          },
+          "wid": "Q14916752",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605082658_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50052.json&startId=2",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50052_2",
+        "additionalInformation": {
+          "metaVodId": "50052",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50052.json",
+          "startId": 2,
+          "clockStart": "08:26:58"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 4,
+        "rednerRaw": "Alexander Flierl (CSU)",
+        "gruppeRaw": "CSU",
+        "clockStart": "08:26:58",
+        "metaVodId": "50052"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T08:36:27",
+      "dateEnd": "2025-06-05T08:36:27",
+      "speechIndex": 15,
+      "originID": "50052_3",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3a) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Wassergesetzes",
+        "title": "TOP 3a) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Wassergesetzes",
+        "id": "TOP-4",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Harald Meußgeier",
+          "context": "main-speaker",
+          "firstname": "Harald",
+          "lastname": "Meußgeier",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "wid": "Q125932095",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605083627_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50052.json&startId=3",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50052_3",
+        "additionalInformation": {
+          "metaVodId": "50052",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50052.json",
+          "startId": 3,
+          "clockStart": "08:36:27"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 4,
+        "rednerRaw": "Harald Meußgeier (AfD)",
+        "gruppeRaw": "AfD",
+        "clockStart": "08:36:27",
+        "metaVodId": "50052"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T08:40:50",
+      "dateEnd": "2025-06-05T08:40:50",
+      "speechIndex": 16,
+      "originID": "50052_4",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3a) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Wassergesetzes",
+        "title": "TOP 3a) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Wassergesetzes",
+        "id": "TOP-4",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Benno Zierer",
+          "context": "main-speaker",
+          "firstname": "Benno",
+          "lastname": "Zierer",
+          "faction": {
+            "label": "FREIE WÄHLER",
+            "wid": "Q1231839"
+          },
+          "wid": "Q15787696",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605084050_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50052.json&startId=4",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50052_4",
+        "additionalInformation": {
+          "metaVodId": "50052",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50052.json",
+          "startId": 4,
+          "clockStart": "08:40:50"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 4,
+        "rednerRaw": "Benno Zierer (FREIE WÄHLER)",
+        "gruppeRaw": "FREIE WÄHLER",
+        "clockStart": "08:40:50",
+        "metaVodId": "50052"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T08:44:26",
+      "dateEnd": "2025-06-05T08:44:26",
+      "speechIndex": 17,
+      "originID": "50052_5",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3a) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Wassergesetzes",
+        "title": "TOP 3a) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Wassergesetzes",
+        "id": "TOP-4",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Anna Rasehorn",
+          "context": "main-speaker",
+          "firstname": "Anna",
+          "lastname": "Rasehorn",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q123301322",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605084426_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50052.json&startId=5",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50052_5",
+        "additionalInformation": {
+          "metaVodId": "50052",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50052.json",
+          "startId": 5,
+          "clockStart": "08:44:26"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 4,
+        "rednerRaw": "Anna Rasehorn (SPD)",
+        "gruppeRaw": "SPD",
+        "clockStart": "08:44:26",
+        "metaVodId": "50052"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T08:47:30",
+      "dateEnd": "2025-06-05T08:47:30",
+      "speechIndex": 18,
+      "originID": "50052_6",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3a) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Wassergesetzes",
+        "title": "TOP 3a) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Wassergesetzes",
+        "id": "TOP-4",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Alexander Flierl",
+          "context": "main-speaker",
+          "firstname": "Alexander",
+          "lastname": "Flierl",
+          "faction": {
+            "label": "CSU",
+            "wid": "Q49763"
+          },
+          "wid": "Q14916752",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605084730_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50052.json&startId=6",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50052_6",
+        "additionalInformation": {
+          "metaVodId": "50052",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50052.json",
+          "startId": 6,
+          "clockStart": "08:47:30"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 4,
+        "rednerRaw": "Alexander Flierl (CSU)",
+        "gruppeRaw": "CSU",
+        "clockStart": "08:47:30",
+        "metaVodId": "50052"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T08:48:28",
+      "dateEnd": "2025-06-05T08:48:28",
+      "speechIndex": 19,
+      "originID": "50052_7",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3a) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Wassergesetzes",
+        "title": "TOP 3a) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Wassergesetzes",
+        "id": "TOP-4",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Anna Rasehorn",
+          "context": "main-speaker",
+          "firstname": "Anna",
+          "lastname": "Rasehorn",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q123301322",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605084828_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50052.json&startId=7",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50052_7",
+        "additionalInformation": {
+          "metaVodId": "50052",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50052.json",
+          "startId": 7,
+          "clockStart": "08:48:28"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 4,
+        "rednerRaw": "Anna Rasehorn (SPD)",
+        "gruppeRaw": "SPD",
+        "clockStart": "08:48:28",
+        "metaVodId": "50052"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T08:49:21",
+      "dateEnd": "2025-06-05T08:49:21",
+      "speechIndex": 20,
+      "originID": "50052_8",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3a) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Wassergesetzes",
+        "title": "TOP 3a) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Wassergesetzes",
+        "id": "TOP-4",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Christian Hierneis",
+          "context": "main-speaker",
+          "firstname": "Christian",
+          "lastname": "Hierneis",
+          "faction": {
+            "label": "BÜNDNIS 90/DIE GRÜNEN",
+            "wid": "Q49766"
+          },
+          "wid": "Q57325772",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605084921_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50052.json&startId=8",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50052_8",
+        "additionalInformation": {
+          "metaVodId": "50052",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50052.json",
+          "startId": 8,
+          "clockStart": "08:49:21"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 4,
+        "rednerRaw": "Christian Hierneis (BÜNDNIS 90/DIE GRÜNEN)",
+        "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
+        "clockStart": "08:49:21",
+        "metaVodId": "50052"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T08:51:30",
+      "dateEnd": "2025-06-05T08:51:30",
+      "speechIndex": 21,
+      "originID": "50052_9",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3a) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Wassergesetzes",
+        "title": "TOP 3a) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Wassergesetzes",
+        "id": "TOP-4",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Alexander Flierl",
+          "context": "main-speaker",
+          "firstname": "Alexander",
+          "lastname": "Flierl",
+          "faction": {
+            "label": "CSU",
+            "wid": "Q49763"
+          },
+          "wid": "Q14916752",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605085130_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50052.json&startId=9",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50052_9",
+        "additionalInformation": {
+          "metaVodId": "50052",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50052.json",
+          "startId": 9,
+          "clockStart": "08:51:30"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 4,
+        "rednerRaw": "Alexander Flierl (CSU)",
+        "gruppeRaw": "CSU",
+        "clockStart": "08:51:30",
+        "metaVodId": "50052"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T08:52:20",
+      "dateEnd": "2025-06-05T08:52:20",
+      "speechIndex": 22,
+      "originID": "50052_10",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3a) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Wassergesetzes",
+        "title": "TOP 3a) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Wassergesetzes",
+        "id": "TOP-4",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Christian Hierneis",
+          "context": "main-speaker",
+          "firstname": "Christian",
+          "lastname": "Hierneis",
+          "faction": {
+            "label": "BÜNDNIS 90/DIE GRÜNEN",
+            "wid": "Q49766"
+          },
+          "wid": "Q57325772",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605085220_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50052.json&startId=10",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50052_10",
+        "additionalInformation": {
+          "metaVodId": "50052",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50052.json",
+          "startId": 10,
+          "clockStart": "08:52:20"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 4,
+        "rednerRaw": "Christian Hierneis (BÜNDNIS 90/DIE GRÜNEN)",
+        "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
+        "clockStart": "08:52:20",
+        "metaVodId": "50052"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T08:53:36",
+      "dateEnd": "2025-06-05T08:53:36",
+      "speechIndex": 23,
+      "originID": "50052_11",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3a) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Wassergesetzes",
+        "title": "TOP 3a) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Wassergesetzes",
+        "id": "TOP-4",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Tobias Gotthardt",
+          "context": "main-speaker",
+          "firstname": "Tobias",
+          "lastname": "Gotthardt",
+          "role": "Staatssekretär",
+          "wid": "Q57630167",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605085336_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50052.json&startId=11",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50052_11",
+        "additionalInformation": {
+          "metaVodId": "50052",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50052.json",
+          "startId": 11,
+          "clockStart": "08:53:36"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 4,
+        "rednerRaw": "Staatssekretär Tobias Gotthardt",
+        "gruppeRaw": "",
+        "clockStart": "08:53:36",
+        "metaVodId": "50052"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T08:58:20",
+      "dateEnd": "2025-06-05T08:58:20",
+      "speechIndex": 24,
+      "originID": "50053_1",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3b) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Gesetzes über das Erziehungs- und Unterrichtswesen",
+        "title": "TOP 3b) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Gesetzes über das Erziehungs- und Unterrichtswesen",
+        "id": "TOP-5",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Ramona Storm",
+          "context": "main-speaker",
+          "firstname": "Ramona",
+          "lastname": "Storm",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "wid": "Q123023912",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605085820_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50053.json&startId=1",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50053_1",
+        "additionalInformation": {
+          "metaVodId": "50053",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50053.json",
+          "startId": 1,
+          "clockStart": "08:58:20"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 5,
+        "rednerRaw": "Ramona Storm (AfD)",
+        "gruppeRaw": "AfD",
+        "clockStart": "08:58:20",
+        "metaVodId": "50053"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T09:03:19",
+      "dateEnd": "2025-06-05T09:03:19",
+      "speechIndex": 25,
+      "originID": "50053_2",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3b) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Gesetzes über das Erziehungs- und Unterrichtswesen",
+        "title": "TOP 3b) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Gesetzes über das Erziehungs- und Unterrichtswesen",
+        "id": "TOP-5",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Björn Jungbauer",
+          "context": "main-speaker",
+          "firstname": "Björn",
+          "lastname": "Jungbauer",
+          "faction": {
+            "label": "CSU",
+            "wid": "Q49763"
+          },
+          "wid": "Q58334944",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605090319_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50053.json&startId=2",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50053_2",
+        "additionalInformation": {
+          "metaVodId": "50053",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50053.json",
+          "startId": 2,
+          "clockStart": "09:03:19"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 5,
+        "rednerRaw": "Björn Jungbauer (CSU)",
+        "gruppeRaw": "CSU",
+        "clockStart": "09:03:19",
+        "metaVodId": "50053"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T09:08:41",
+      "dateEnd": "2025-06-05T09:08:41",
+      "speechIndex": 26,
+      "originID": "50053_3",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3b) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Gesetzes über das Erziehungs- und Unterrichtswesen",
+        "title": "TOP 3b) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Gesetzes über das Erziehungs- und Unterrichtswesen",
+        "id": "TOP-5",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Markus Walbrunn",
+          "context": "main-speaker",
+          "firstname": "Markus",
+          "lastname": "Walbrunn",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "wid": "Q125941667",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605090841_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50053.json&startId=3",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50053_3",
+        "additionalInformation": {
+          "metaVodId": "50053",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50053.json",
+          "startId": 3,
+          "clockStart": "09:08:41"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 5,
+        "rednerRaw": "Markus Walbrunn (AfD)",
+        "gruppeRaw": "AfD",
+        "clockStart": "09:08:41",
+        "metaVodId": "50053"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T09:13:39",
+      "dateEnd": "2025-06-05T09:13:39",
+      "speechIndex": 27,
+      "originID": "50053_4",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3b) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Gesetzes über das Erziehungs- und Unterrichtswesen",
+        "title": "TOP 3b) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Gesetzes über das Erziehungs- und Unterrichtswesen",
+        "id": "TOP-5",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Björn Jungbauer",
+          "context": "main-speaker",
+          "firstname": "Björn",
+          "lastname": "Jungbauer",
+          "faction": {
+            "label": "CSU",
+            "wid": "Q49763"
+          },
+          "wid": "Q58334944",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605091339_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50053.json&startId=4",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50053_4",
+        "additionalInformation": {
+          "metaVodId": "50053",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50053.json",
+          "startId": 4,
+          "clockStart": "09:13:39"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 5,
+        "rednerRaw": "Björn Jungbauer (CSU)",
+        "gruppeRaw": "CSU",
+        "clockStart": "09:13:39",
+        "metaVodId": "50053"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T09:14:20",
+      "dateEnd": "2025-06-05T09:14:20",
+      "speechIndex": 28,
+      "originID": "50053_5",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3b) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Gesetzes über das Erziehungs- und Unterrichtswesen",
+        "title": "TOP 3b) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Gesetzes über das Erziehungs- und Unterrichtswesen",
+        "id": "TOP-5",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Markus Walbrunn",
+          "context": "main-speaker",
+          "firstname": "Markus",
+          "lastname": "Walbrunn",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "wid": "Q125941667",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605091420_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50053.json&startId=5",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50053_5",
+        "additionalInformation": {
+          "metaVodId": "50053",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50053.json",
+          "startId": 5,
+          "clockStart": "09:14:20"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 5,
+        "rednerRaw": "Markus Walbrunn (AfD)",
+        "gruppeRaw": "AfD",
+        "clockStart": "09:14:20",
+        "metaVodId": "50053"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T09:14:52",
+      "dateEnd": "2025-06-05T09:14:52",
+      "speechIndex": 29,
+      "originID": "50053_6",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3b) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Gesetzes über das Erziehungs- und Unterrichtswesen",
+        "title": "TOP 3b) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Gesetzes über das Erziehungs- und Unterrichtswesen",
+        "id": "TOP-5",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Martin Brunnhuber",
+          "context": "main-speaker",
+          "firstname": "Martin",
+          "lastname": "Brunnhuber",
+          "faction": {
+            "label": "FREIE WÄHLER",
+            "wid": "Q1231839"
+          },
+          "wid": "Q123225348",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605091452_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50053.json&startId=6",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50053_6",
+        "additionalInformation": {
+          "metaVodId": "50053",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50053.json",
+          "startId": 6,
+          "clockStart": "09:14:52"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 5,
+        "rednerRaw": "Dr. Martin Brunnhuber (FREIE WÄHLER)",
+        "gruppeRaw": "FREIE WÄHLER",
+        "clockStart": "09:14:52",
+        "metaVodId": "50053"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T09:19:55",
+      "dateEnd": "2025-06-05T09:19:55",
+      "speechIndex": 30,
+      "originID": "50053_7",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3b) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Gesetzes über das Erziehungs- und Unterrichtswesen",
+        "title": "TOP 3b) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Gesetzes über das Erziehungs- und Unterrichtswesen",
+        "id": "TOP-5",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Benjamin Adjei",
+          "context": "main-speaker",
+          "firstname": "Benjamin",
+          "lastname": "Adjei",
+          "faction": {
+            "label": "BÜNDNIS 90/DIE GRÜNEN",
+            "wid": "Q49766"
+          },
+          "wid": "Q57325785",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605091955_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50053.json&startId=7",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50053_7",
+        "additionalInformation": {
+          "metaVodId": "50053",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50053.json",
+          "startId": 7,
+          "clockStart": "09:19:55"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 5,
+        "rednerRaw": "Benjamin Adjei (BÜNDNIS 90/DIE GRÜNEN)",
+        "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
+        "clockStart": "09:19:55",
+        "metaVodId": "50053"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T09:23:03",
+      "dateEnd": "2025-06-05T09:23:03",
+      "speechIndex": 31,
+      "originID": "50053_8",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3b) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Gesetzes über das Erziehungs- und Unterrichtswesen",
+        "title": "TOP 3b) Erste Lesung zum Gesetzentwurf zur Änderung des Bayerischen Gesetzes über das Erziehungs- und Unterrichtswesen",
+        "id": "TOP-5",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Simone Strohmayr",
+          "context": "main-speaker",
+          "firstname": "Simone",
+          "lastname": "Strohmayr",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q1751905",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605092303_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50053.json&startId=8",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50053_8",
+        "additionalInformation": {
+          "metaVodId": "50053",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50053.json",
+          "startId": 8,
+          "clockStart": "09:23:03"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 5,
+        "rednerRaw": "Dr. Simone Strohmayr (SPD)",
+        "gruppeRaw": "SPD",
+        "clockStart": "09:23:03",
+        "metaVodId": "50053"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T09:26:49",
+      "dateEnd": "2025-06-05T09:26:49",
+      "speechIndex": 32,
+      "originID": "50054_1",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3c) Erste Lesung zum Gesetzentwurf Gesetz über das Beflaggen öffentlicher Gebäude (Bayerisches Beflaggungsgesetz - BayBeFlagG)",
+        "title": "TOP 3c) Erste Lesung zum Gesetzentwurf Gesetz über das Beflaggen öffentlicher Gebäude (Bayerisches Beflaggungsgesetz - BayBeFlagG)",
+        "id": "TOP-6",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Jörg Baumann",
+          "context": "main-speaker",
+          "firstname": "Jörg",
+          "lastname": "Baumann",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "wid": "Q123465259",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605092649_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50054.json&startId=1",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50054_1",
+        "additionalInformation": {
+          "metaVodId": "50054",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50054.json",
+          "startId": 1,
+          "clockStart": "09:26:49"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 6,
+        "rednerRaw": "Jörg Baumann (AfD)",
+        "gruppeRaw": "AfD",
+        "clockStart": "09:26:49",
+        "metaVodId": "50054"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T09:31:38",
+      "dateEnd": "2025-06-05T09:31:38",
+      "speechIndex": 33,
+      "originID": "50054_2",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3c) Erste Lesung zum Gesetzentwurf Gesetz über das Beflaggen öffentlicher Gebäude (Bayerisches Beflaggungsgesetz - BayBeFlagG)",
+        "title": "TOP 3c) Erste Lesung zum Gesetzentwurf Gesetz über das Beflaggen öffentlicher Gebäude (Bayerisches Beflaggungsgesetz - BayBeFlagG)",
+        "id": "TOP-6",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Peter Wachler",
+          "context": "main-speaker",
+          "firstname": "Peter",
+          "lastname": "Wachler",
+          "faction": {
+            "label": "CSU",
+            "wid": "Q49763"
+          },
+          "wid": "Q121088038",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605093138_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50054.json&startId=2",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50054_2",
+        "additionalInformation": {
+          "metaVodId": "50054",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50054.json",
+          "startId": 2,
+          "clockStart": "09:31:38"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 6,
+        "rednerRaw": "Peter Wachler (CSU)",
+        "gruppeRaw": "CSU",
+        "clockStart": "09:31:38",
+        "metaVodId": "50054"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T09:39:39",
+      "dateEnd": "2025-06-05T09:39:39",
+      "speechIndex": 34,
+      "originID": "50054_3",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3c) Erste Lesung zum Gesetzentwurf Gesetz über das Beflaggen öffentlicher Gebäude (Bayerisches Beflaggungsgesetz - BayBeFlagG)",
+        "title": "TOP 3c) Erste Lesung zum Gesetzentwurf Gesetz über das Beflaggen öffentlicher Gebäude (Bayerisches Beflaggungsgesetz - BayBeFlagG)",
+        "id": "TOP-6",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Benjamin Nolte",
+          "context": "main-speaker",
+          "firstname": "Benjamin",
+          "lastname": "Nolte",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "wid": "Q40584347",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605093939_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50054.json&startId=3",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50054_3",
+        "additionalInformation": {
+          "metaVodId": "50054",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50054.json",
+          "startId": 3,
+          "clockStart": "09:39:39"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 6,
+        "rednerRaw": "Benjamin Nolte (AfD)",
+        "gruppeRaw": "AfD",
+        "clockStart": "09:39:39",
+        "metaVodId": "50054"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T09:40:12",
+      "dateEnd": "2025-06-05T09:40:12",
+      "speechIndex": 35,
+      "originID": "50054_4",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3c) Erste Lesung zum Gesetzentwurf Gesetz über das Beflaggen öffentlicher Gebäude (Bayerisches Beflaggungsgesetz - BayBeFlagG)",
+        "title": "TOP 3c) Erste Lesung zum Gesetzentwurf Gesetz über das Beflaggen öffentlicher Gebäude (Bayerisches Beflaggungsgesetz - BayBeFlagG)",
+        "id": "TOP-6",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Peter Wachler",
+          "context": "main-speaker",
+          "firstname": "Peter",
+          "lastname": "Wachler",
+          "faction": {
+            "label": "CSU",
+            "wid": "Q49763"
+          },
+          "wid": "Q121088038",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605094012_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50054.json&startId=4",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50054_4",
+        "additionalInformation": {
+          "metaVodId": "50054",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50054.json",
+          "startId": 4,
+          "clockStart": "09:40:12"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 6,
+        "rednerRaw": "Peter Wachler (CSU)",
+        "gruppeRaw": "CSU",
+        "clockStart": "09:40:12",
+        "metaVodId": "50054"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T09:40:38",
+      "dateEnd": "2025-06-05T09:40:38",
+      "speechIndex": 36,
+      "originID": "50054_5",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3c) Erste Lesung zum Gesetzentwurf Gesetz über das Beflaggen öffentlicher Gebäude (Bayerisches Beflaggungsgesetz - BayBeFlagG)",
+        "title": "TOP 3c) Erste Lesung zum Gesetzentwurf Gesetz über das Beflaggen öffentlicher Gebäude (Bayerisches Beflaggungsgesetz - BayBeFlagG)",
+        "id": "TOP-6",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Florian Köhler",
+          "context": "main-speaker",
+          "firstname": "Florian",
+          "lastname": "Köhler",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "wid": "Q125915590",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605094038_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50054.json&startId=5",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50054_5",
+        "additionalInformation": {
+          "metaVodId": "50054",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50054.json",
+          "startId": 5,
+          "clockStart": "09:40:38"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 6,
+        "rednerRaw": "Florian Köhler (AfD)",
+        "gruppeRaw": "AfD",
+        "clockStart": "09:40:38",
+        "metaVodId": "50054"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T09:46:19",
+      "dateEnd": "2025-06-05T09:46:19",
+      "speechIndex": 37,
+      "originID": "50054_6",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3c) Erste Lesung zum Gesetzentwurf Gesetz über das Beflaggen öffentlicher Gebäude (Bayerisches Beflaggungsgesetz - BayBeFlagG)",
+        "title": "TOP 3c) Erste Lesung zum Gesetzentwurf Gesetz über das Beflaggen öffentlicher Gebäude (Bayerisches Beflaggungsgesetz - BayBeFlagG)",
+        "id": "TOP-6",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Toni Schuberl",
+          "context": "main-speaker",
+          "firstname": "Toni",
+          "lastname": "Schuberl",
+          "faction": {
+            "label": "BÜNDNIS 90/DIE GRÜNEN",
+            "wid": "Q49766"
+          },
+          "wid": "Q57463000",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605094619_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50054.json&startId=6",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50054_6",
+        "additionalInformation": {
+          "metaVodId": "50054",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50054.json",
+          "startId": 6,
+          "clockStart": "09:46:19"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 6,
+        "rednerRaw": "Toni Schuberl (BÜNDNIS 90/DIE GRÜNEN)",
+        "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
+        "clockStart": "09:46:19",
+        "metaVodId": "50054"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T09:46:45",
+      "dateEnd": "2025-06-05T09:46:45",
+      "speechIndex": 38,
+      "originID": "50054_7",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3c) Erste Lesung zum Gesetzentwurf Gesetz über das Beflaggen öffentlicher Gebäude (Bayerisches Beflaggungsgesetz - BayBeFlagG)",
+        "title": "TOP 3c) Erste Lesung zum Gesetzentwurf Gesetz über das Beflaggen öffentlicher Gebäude (Bayerisches Beflaggungsgesetz - BayBeFlagG)",
+        "id": "TOP-6",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Florian Köhler",
+          "context": "main-speaker",
+          "firstname": "Florian",
+          "lastname": "Köhler",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "wid": "Q125915590",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605094645_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50054.json&startId=7",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50054_7",
+        "additionalInformation": {
+          "metaVodId": "50054",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50054.json",
+          "startId": 7,
+          "clockStart": "09:46:45"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 6,
+        "rednerRaw": "Florian Köhler (AfD)",
+        "gruppeRaw": "AfD",
+        "clockStart": "09:46:45",
+        "metaVodId": "50054"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T09:47:33",
+      "dateEnd": "2025-06-05T09:47:33",
+      "speechIndex": 39,
+      "originID": "50054_8",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3c) Erste Lesung zum Gesetzentwurf Gesetz über das Beflaggen öffentlicher Gebäude (Bayerisches Beflaggungsgesetz - BayBeFlagG)",
+        "title": "TOP 3c) Erste Lesung zum Gesetzentwurf Gesetz über das Beflaggen öffentlicher Gebäude (Bayerisches Beflaggungsgesetz - BayBeFlagG)",
+        "id": "TOP-6",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Martin Scharf",
+          "context": "main-speaker",
+          "firstname": "Martin",
+          "lastname": "Scharf",
+          "faction": {
+            "label": "FREIE WÄHLER",
+            "wid": "Q1231839"
+          },
+          "wid": "Q123240629",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605094733_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50054.json&startId=8",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50054_8",
+        "additionalInformation": {
+          "metaVodId": "50054",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50054.json",
+          "startId": 8,
+          "clockStart": "09:47:33"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 6,
+        "rednerRaw": "Martin Scharf (FREIE WÄHLER)",
+        "gruppeRaw": "FREIE WÄHLER",
+        "clockStart": "09:47:33",
+        "metaVodId": "50054"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T09:51:23",
+      "dateEnd": "2025-06-05T09:51:23",
+      "speechIndex": 40,
+      "originID": "50054_9",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3c) Erste Lesung zum Gesetzentwurf Gesetz über das Beflaggen öffentlicher Gebäude (Bayerisches Beflaggungsgesetz - BayBeFlagG)",
+        "title": "TOP 3c) Erste Lesung zum Gesetzentwurf Gesetz über das Beflaggen öffentlicher Gebäude (Bayerisches Beflaggungsgesetz - BayBeFlagG)",
+        "id": "TOP-6",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Florian Siekmann",
+          "context": "main-speaker",
+          "firstname": "Florian",
+          "lastname": "Siekmann",
+          "faction": {
+            "label": "BÜNDNIS 90/DIE GRÜNEN",
+            "wid": "Q49766"
+          },
+          "wid": "Q57415406",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605095123_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50054.json&startId=9",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50054_9",
+        "additionalInformation": {
+          "metaVodId": "50054",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50054.json",
+          "startId": 9,
+          "clockStart": "09:51:23"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 6,
+        "rednerRaw": "Florian Siekmann (BÜNDNIS 90/DIE GRÜNEN)",
+        "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
+        "clockStart": "09:51:23",
+        "metaVodId": "50054"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T09:56:07",
+      "dateEnd": "2025-06-05T09:56:07",
+      "speechIndex": 41,
+      "originID": "50054_10",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3c) Erste Lesung zum Gesetzentwurf Gesetz über das Beflaggen öffentlicher Gebäude (Bayerisches Beflaggungsgesetz - BayBeFlagG)",
+        "title": "TOP 3c) Erste Lesung zum Gesetzentwurf Gesetz über das Beflaggen öffentlicher Gebäude (Bayerisches Beflaggungsgesetz - BayBeFlagG)",
+        "id": "TOP-6",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Florian Köhler",
+          "context": "main-speaker",
+          "firstname": "Florian",
+          "lastname": "Köhler",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "wid": "Q125915590",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605095607_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50054.json&startId=10",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50054_10",
+        "additionalInformation": {
+          "metaVodId": "50054",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50054.json",
+          "startId": 10,
+          "clockStart": "09:56:07"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 6,
+        "rednerRaw": "Florian Köhler (AfD)",
+        "gruppeRaw": "AfD",
+        "clockStart": "09:56:07",
+        "metaVodId": "50054"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T09:57:23",
+      "dateEnd": "2025-06-05T09:57:23",
+      "speechIndex": 42,
+      "originID": "50054_11",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3c) Erste Lesung zum Gesetzentwurf Gesetz über das Beflaggen öffentlicher Gebäude (Bayerisches Beflaggungsgesetz - BayBeFlagG)",
+        "title": "TOP 3c) Erste Lesung zum Gesetzentwurf Gesetz über das Beflaggen öffentlicher Gebäude (Bayerisches Beflaggungsgesetz - BayBeFlagG)",
+        "id": "TOP-6",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Florian Siekmann",
+          "context": "main-speaker",
+          "firstname": "Florian",
+          "lastname": "Siekmann",
+          "faction": {
+            "label": "BÜNDNIS 90/DIE GRÜNEN",
+            "wid": "Q49766"
+          },
+          "wid": "Q57415406",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605095723_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50054.json&startId=11",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50054_11",
+        "additionalInformation": {
+          "metaVodId": "50054",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50054.json",
+          "startId": 11,
+          "clockStart": "09:57:23"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 6,
+        "rednerRaw": "Florian Siekmann (BÜNDNIS 90/DIE GRÜNEN)",
+        "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
+        "clockStart": "09:57:23",
+        "metaVodId": "50054"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T09:59:14",
+      "dateEnd": "2025-06-05T09:59:14",
+      "speechIndex": 43,
+      "originID": "50054_12",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3c) Erste Lesung zum Gesetzentwurf Gesetz über das Beflaggen öffentlicher Gebäude (Bayerisches Beflaggungsgesetz - BayBeFlagG)",
+        "title": "TOP 3c) Erste Lesung zum Gesetzentwurf Gesetz über das Beflaggen öffentlicher Gebäude (Bayerisches Beflaggungsgesetz - BayBeFlagG)",
+        "id": "TOP-6",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Doris Rauscher",
+          "context": "main-speaker",
+          "firstname": "Doris",
+          "lastname": "Rauscher",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q15806460",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605095914_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50054.json&startId=12",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50054_12",
+        "additionalInformation": {
+          "metaVodId": "50054",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50054.json",
+          "startId": 12,
+          "clockStart": "09:59:14"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 6,
+        "rednerRaw": "Doris Rauscher (SPD)",
+        "gruppeRaw": "SPD",
+        "clockStart": "09:59:14",
+        "metaVodId": "50054"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T10:03:05",
+      "dateEnd": "2025-06-05T10:03:05",
+      "speechIndex": 44,
+      "originID": "50054_13",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3c) Erste Lesung zum Gesetzentwurf Gesetz über das Beflaggen öffentlicher Gebäude (Bayerisches Beflaggungsgesetz - BayBeFlagG)",
+        "title": "TOP 3c) Erste Lesung zum Gesetzentwurf Gesetz über das Beflaggen öffentlicher Gebäude (Bayerisches Beflaggungsgesetz - BayBeFlagG)",
+        "id": "TOP-6",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Matthias Vogler",
+          "context": "main-speaker",
+          "firstname": "Matthias",
+          "lastname": "Vogler",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "wid": "Q125930741",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605100305_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50054.json&startId=13",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50054_13",
+        "additionalInformation": {
+          "metaVodId": "50054",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50054.json",
+          "startId": 13,
+          "clockStart": "10:03:05"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 6,
+        "rednerRaw": "Matthias Vogler (AfD)",
+        "gruppeRaw": "AfD",
+        "clockStart": "10:03:05",
+        "metaVodId": "50054"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T10:04:04",
+      "dateEnd": "2025-06-05T10:04:04",
+      "speechIndex": 45,
+      "originID": "50054_14",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3c) Erste Lesung zum Gesetzentwurf Gesetz über das Beflaggen öffentlicher Gebäude (Bayerisches Beflaggungsgesetz - BayBeFlagG)",
+        "title": "TOP 3c) Erste Lesung zum Gesetzentwurf Gesetz über das Beflaggen öffentlicher Gebäude (Bayerisches Beflaggungsgesetz - BayBeFlagG)",
+        "id": "TOP-6",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Doris Rauscher",
+          "context": "main-speaker",
+          "firstname": "Doris",
+          "lastname": "Rauscher",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q15806460",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605100404_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50054.json&startId=14",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50054_14",
+        "additionalInformation": {
+          "metaVodId": "50054",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50054.json",
+          "startId": 14,
+          "clockStart": "10:04:04"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 6,
+        "rednerRaw": "Doris Rauscher (SPD)",
+        "gruppeRaw": "SPD",
+        "clockStart": "10:04:04",
+        "metaVodId": "50054"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T10:47:46",
+      "dateEnd": "2025-06-05T10:47:46",
+      "speechIndex": 46,
+      "originID": "50057_1",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 6 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Strafvollzugsgesetzes und weiterer Rechtsvorschriften",
+        "title": "TOP 6 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Strafvollzugsgesetzes und weiterer Rechtsvorschriften",
+        "id": "TOP-11",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Petra Guttenberger",
+          "context": "main-speaker",
+          "firstname": "Petra",
+          "lastname": "Guttenberger",
+          "faction": {
+            "label": "CSU",
+            "wid": "Q49763"
+          },
+          "wid": "Q2080199",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605104746_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50057.json&startId=1",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50057_1",
+        "additionalInformation": {
+          "metaVodId": "50057",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50057.json",
+          "startId": 1,
+          "clockStart": "10:47:46"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 11,
+        "rednerRaw": "Petra Guttenberger (CSU)",
+        "gruppeRaw": "CSU",
+        "clockStart": "10:47:46",
+        "metaVodId": "50057"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T10:57:43",
+      "dateEnd": "2025-06-05T10:57:43",
+      "speechIndex": 47,
+      "originID": "50057_2",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 6 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Strafvollzugsgesetzes und weiterer Rechtsvorschriften",
+        "title": "TOP 6 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Strafvollzugsgesetzes und weiterer Rechtsvorschriften",
+        "id": "TOP-11",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Rene Dierkes",
+          "context": "main-speaker",
+          "firstname": "Rene",
+          "lastname": "Dierkes",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "wid": "Q123034391",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605105743_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50057.json&startId=2",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50057_2",
+        "additionalInformation": {
+          "metaVodId": "50057",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50057.json",
+          "startId": 2,
+          "clockStart": "10:57:43"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 11,
+        "rednerRaw": "Rene Dierkes (AfD)",
+        "gruppeRaw": "AfD",
+        "clockStart": "10:57:43",
+        "metaVodId": "50057"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T11:02:29",
+      "dateEnd": "2025-06-05T11:02:29",
+      "speechIndex": 48,
+      "originID": "50057_3",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 6 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Strafvollzugsgesetzes und weiterer Rechtsvorschriften",
+        "title": "TOP 6 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Strafvollzugsgesetzes und weiterer Rechtsvorschriften",
+        "id": "TOP-11",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Alexander Hold",
+          "context": "main-speaker",
+          "firstname": "Alexander",
+          "lastname": "Hold",
+          "faction": {
+            "label": "FREIE WÄHLER",
+            "wid": "Q1231839"
+          },
+          "wid": "Q2642282",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605110229_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50057.json&startId=3",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50057_3",
+        "additionalInformation": {
+          "metaVodId": "50057",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50057.json",
+          "startId": 3,
+          "clockStart": "11:02:29"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 11,
+        "rednerRaw": "Alexander Hold (FREIE WÄHLER)",
+        "gruppeRaw": "FREIE WÄHLER",
+        "clockStart": "11:02:29",
+        "metaVodId": "50057"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T11:09:11",
+      "dateEnd": "2025-06-05T11:09:11",
+      "speechIndex": 49,
+      "originID": "50057_4",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 6 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Strafvollzugsgesetzes und weiterer Rechtsvorschriften",
+        "title": "TOP 6 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Strafvollzugsgesetzes und weiterer Rechtsvorschriften",
+        "id": "TOP-11",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Toni Schuberl",
+          "context": "main-speaker",
+          "firstname": "Toni",
+          "lastname": "Schuberl",
+          "faction": {
+            "label": "BÜNDNIS 90/DIE GRÜNEN",
+            "wid": "Q49766"
+          },
+          "wid": "Q57463000",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605110911_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50057.json&startId=4",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50057_4",
+        "additionalInformation": {
+          "metaVodId": "50057",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50057.json",
+          "startId": 4,
+          "clockStart": "11:09:11"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 11,
+        "rednerRaw": "Toni Schuberl (BÜNDNIS 90/DIE GRÜNEN)",
+        "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
+        "clockStart": "11:09:11",
+        "metaVodId": "50057"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T11:14:35",
+      "dateEnd": "2025-06-05T11:14:35",
+      "speechIndex": 50,
+      "originID": "50057_5",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 6 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Strafvollzugsgesetzes und weiterer Rechtsvorschriften",
+        "title": "TOP 6 Zweite Lesung zum Gesetzentwurf zur Änderung des Bayerischen Strafvollzugsgesetzes und weiterer Rechtsvorschriften",
+        "id": "TOP-11",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Horst Arnold",
+          "context": "main-speaker",
+          "firstname": "Horst",
+          "lastname": "Arnold",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q1629142",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605111435_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50057.json&startId=5",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50057_5",
+        "additionalInformation": {
+          "metaVodId": "50057",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50057.json",
+          "startId": 5,
+          "clockStart": "11:14:35"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 11,
+        "rednerRaw": "Horst Arnold (SPD)",
+        "gruppeRaw": "SPD",
+        "clockStart": "11:14:35",
+        "metaVodId": "50057"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T11:25:00",
+      "dateEnd": "2025-06-05T11:25:00",
+      "speechIndex": 51,
+      "originID": "50125_1",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 7 Beratung der zum Plenum eingereichten Dringlichkeitsanträge",
+        "title": "TOP 7 Beratung der zum Plenum eingereichten Dringlichkeitsanträge",
+        "id": "TOP-12",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Holger Grießhammer",
+          "context": "main-speaker",
+          "firstname": "Holger",
+          "lastname": "Grießhammer",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q123400079",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605112500_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50125.json&startId=1",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50125_1",
+        "additionalInformation": {
+          "metaVodId": "50125",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50125.json",
+          "startId": 1,
+          "clockStart": "11:25:00"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 12,
+        "rednerRaw": "Holger Grießhammer (SPD)",
+        "gruppeRaw": "SPD",
+        "clockStart": "11:25:00",
+        "metaVodId": "50125"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T11:33:04",
+      "dateEnd": "2025-06-05T11:33:04",
+      "speechIndex": 52,
+      "originID": "50125_2",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 7 Beratung der zum Plenum eingereichten Dringlichkeitsanträge",
+        "title": "TOP 7 Beratung der zum Plenum eingereichten Dringlichkeitsanträge",
+        "id": "TOP-12",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Claudia Köhler",
+          "context": "main-speaker",
+          "firstname": "Claudia",
+          "lastname": "Köhler",
+          "faction": {
+            "label": "BÜNDNIS 90/DIE GRÜNEN",
+            "wid": "Q49766"
+          },
+          "wid": "Q57401466",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605113304_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50125.json&startId=2",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50125_2",
+        "additionalInformation": {
+          "metaVodId": "50125",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50125.json",
+          "startId": 2,
+          "clockStart": "11:33:04"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 12,
+        "rednerRaw": "Claudia Köhler (BÜNDNIS 90/DIE GRÜNEN)",
+        "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
+        "clockStart": "11:33:04",
+        "metaVodId": "50125"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T11:38:05",
+      "dateEnd": "2025-06-05T11:38:05",
+      "speechIndex": 53,
+      "originID": "50125_3",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 7 Beratung der zum Plenum eingereichten Dringlichkeitsanträge",
+        "title": "TOP 7 Beratung der zum Plenum eingereichten Dringlichkeitsanträge",
+        "id": "TOP-12",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Josef Zellmeier",
+          "context": "main-speaker",
+          "firstname": "Josef",
+          "lastname": "Zellmeier",
+          "faction": {
+            "label": "CSU",
+            "wid": "Q49763"
+          },
+          "wid": "Q1501258",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605113805_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50125.json&startId=3",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50125_3",
+        "additionalInformation": {
+          "metaVodId": "50125",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50125.json",
+          "startId": 3,
+          "clockStart": "11:38:05"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 12,
+        "rednerRaw": "Josef Zellmeier (CSU)",
+        "gruppeRaw": "CSU",
+        "clockStart": "11:38:05",
+        "metaVodId": "50125"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T11:46:54",
+      "dateEnd": "2025-06-05T11:46:54",
+      "speechIndex": 54,
+      "originID": "50125_4",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 7 Beratung der zum Plenum eingereichten Dringlichkeitsanträge",
+        "title": "TOP 7 Beratung der zum Plenum eingereichten Dringlichkeitsanträge",
+        "id": "TOP-12",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Andreas Winhart",
+          "context": "main-speaker",
+          "firstname": "Andreas",
+          "lastname": "Winhart",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "wid": "Q57630181",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605114654_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50125.json&startId=4",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50125_4",
+        "additionalInformation": {
+          "metaVodId": "50125",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50125.json",
+          "startId": 4,
+          "clockStart": "11:46:54"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 12,
+        "rednerRaw": "Andreas Winhart (AfD)",
+        "gruppeRaw": "AfD",
+        "clockStart": "11:46:54",
+        "metaVodId": "50125"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T11:52:12",
+      "dateEnd": "2025-06-05T11:52:12",
+      "speechIndex": 55,
+      "originID": "50125_5",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 7 Beratung der zum Plenum eingereichten Dringlichkeitsanträge",
+        "title": "TOP 7 Beratung der zum Plenum eingereichten Dringlichkeitsanträge",
+        "id": "TOP-12",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Bernhard Pohl",
+          "context": "main-speaker",
+          "firstname": "Bernhard",
+          "lastname": "Pohl",
+          "faction": {
+            "label": "FREIE WÄHLER",
+            "wid": "Q1231839"
+          },
+          "wid": "Q825741",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605115212_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50125.json&startId=5",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50125_5",
+        "additionalInformation": {
+          "metaVodId": "50125",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50125.json",
+          "startId": 5,
+          "clockStart": "11:52:12"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 12,
+        "rednerRaw": "Bernhard Pohl (FREIE WÄHLER)",
+        "gruppeRaw": "FREIE WÄHLER",
+        "clockStart": "11:52:12",
+        "metaVodId": "50125"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T11:59:48",
+      "dateEnd": "2025-06-05T11:59:48",
+      "speechIndex": 56,
+      "originID": "50125_6",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 7 Beratung der zum Plenum eingereichten Dringlichkeitsanträge",
+        "title": "TOP 7 Beratung der zum Plenum eingereichten Dringlichkeitsanträge",
+        "id": "TOP-12",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Volkmar Halbleib",
+          "context": "main-speaker",
+          "firstname": "Volkmar",
+          "lastname": "Halbleib",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q2531476",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605115948_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50125.json&startId=6",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50125_6",
+        "additionalInformation": {
+          "metaVodId": "50125",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50125.json",
+          "startId": 6,
+          "clockStart": "11:59:48"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 12,
+        "rednerRaw": "Volkmar Halbleib (SPD)",
+        "gruppeRaw": "SPD",
+        "clockStart": "11:59:48",
+        "metaVodId": "50125"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T12:01:00",
+      "dateEnd": "2025-06-05T12:01:00",
+      "speechIndex": 57,
+      "originID": "50125_7",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 7 Beratung der zum Plenum eingereichten Dringlichkeitsanträge",
+        "title": "TOP 7 Beratung der zum Plenum eingereichten Dringlichkeitsanträge",
+        "id": "TOP-12",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Bernhard Pohl",
+          "context": "main-speaker",
+          "firstname": "Bernhard",
+          "lastname": "Pohl",
+          "faction": {
+            "label": "FREIE WÄHLER",
+            "wid": "Q1231839"
+          },
+          "wid": "Q825741",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605120100_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50125.json&startId=7",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50125_7",
+        "additionalInformation": {
+          "metaVodId": "50125",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50125.json",
+          "startId": 7,
+          "clockStart": "12:01:00"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 12,
+        "rednerRaw": "Bernhard Pohl (FREIE WÄHLER)",
+        "gruppeRaw": "FREIE WÄHLER",
+        "clockStart": "12:01:00",
+        "metaVodId": "50125"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T12:01:53",
+      "dateEnd": "2025-06-05T12:01:53",
+      "speechIndex": 58,
+      "originID": "50125_8",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 7 Beratung der zum Plenum eingereichten Dringlichkeitsanträge",
+        "title": "TOP 7 Beratung der zum Plenum eingereichten Dringlichkeitsanträge",
+        "id": "TOP-12",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Martin Schöffel",
+          "context": "main-speaker",
+          "firstname": "Martin",
+          "lastname": "Schöffel",
+          "role": "Staatssekretär",
+          "wid": "Q1456824",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605120153_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50125.json&startId=8",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50125_8",
+        "additionalInformation": {
+          "metaVodId": "50125",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50125.json",
+          "startId": 8,
+          "clockStart": "12:01:53"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 12,
+        "rednerRaw": "Staatssekretär Martin Schöffel",
+        "gruppeRaw": "",
+        "clockStart": "12:01:53",
+        "metaVodId": "50125"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T14:21:29",
+      "dateEnd": "2025-06-05T14:21:29",
+      "speechIndex": 59,
+      "originID": "50059_1",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 8 Antrag LKW-Führerschein für die Mitglieder der Blaulichtfamilie vereinfachen!",
+        "title": "TOP 8 Antrag LKW-Führerschein für die Mitglieder der Blaulichtfamilie vereinfachen!",
+        "id": "TOP-13",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Markus Striedl",
+          "context": "main-speaker",
+          "firstname": "Markus",
+          "lastname": "Striedl",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "wid": "Q125941398",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605142129_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50059.json&startId=1",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50059_1",
+        "additionalInformation": {
+          "metaVodId": "50059",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50059.json",
+          "startId": 1,
+          "clockStart": "14:21:29"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 13,
+        "rednerRaw": "Markus Striedl (AfD)",
+        "gruppeRaw": "AfD",
+        "clockStart": "14:21:29",
+        "metaVodId": "50059"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T14:26:54",
+      "dateEnd": "2025-06-05T14:26:54",
+      "speechIndex": 60,
+      "originID": "50059_2",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 8 Antrag LKW-Führerschein für die Mitglieder der Blaulichtfamilie vereinfachen!",
+        "title": "TOP 8 Antrag LKW-Führerschein für die Mitglieder der Blaulichtfamilie vereinfachen!",
+        "id": "TOP-13",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Jürgen Eberwein",
+          "context": "main-speaker",
+          "firstname": "Jürgen",
+          "lastname": "Eberwein",
+          "faction": {
+            "label": "CSU",
+            "wid": "Q49763"
+          },
+          "wid": "Q124085664",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605142654_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50059.json&startId=2",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50059_2",
+        "additionalInformation": {
+          "metaVodId": "50059",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50059.json",
+          "startId": 2,
+          "clockStart": "14:26:54"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 13,
+        "rednerRaw": "Jürgen Eberwein (CSU)",
+        "gruppeRaw": "CSU",
+        "clockStart": "14:26:54",
+        "metaVodId": "50059"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T14:33:31",
+      "dateEnd": "2025-06-05T14:33:31",
+      "speechIndex": 61,
+      "originID": "50059_3",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 8 Antrag LKW-Führerschein für die Mitglieder der Blaulichtfamilie vereinfachen!",
+        "title": "TOP 8 Antrag LKW-Führerschein für die Mitglieder der Blaulichtfamilie vereinfachen!",
+        "id": "TOP-13",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Markus Striedl",
+          "context": "main-speaker",
+          "firstname": "Markus",
+          "lastname": "Striedl",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "wid": "Q125941398",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605143331_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50059.json&startId=3",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50059_3",
+        "additionalInformation": {
+          "metaVodId": "50059",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50059.json",
+          "startId": 3,
+          "clockStart": "14:33:31"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 13,
+        "rednerRaw": "Markus Striedl (AfD)",
+        "gruppeRaw": "AfD",
+        "clockStart": "14:33:31",
+        "metaVodId": "50059"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T14:34:34",
+      "dateEnd": "2025-06-05T14:34:34",
+      "speechIndex": 62,
+      "originID": "50059_4",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 8 Antrag LKW-Führerschein für die Mitglieder der Blaulichtfamilie vereinfachen!",
+        "title": "TOP 8 Antrag LKW-Führerschein für die Mitglieder der Blaulichtfamilie vereinfachen!",
+        "id": "TOP-13",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Jürgen Eberwein",
+          "context": "main-speaker",
+          "firstname": "Jürgen",
+          "lastname": "Eberwein",
+          "faction": {
+            "label": "CSU",
+            "wid": "Q49763"
+          },
+          "wid": "Q124085664",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605143434_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50059.json&startId=4",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50059_4",
+        "additionalInformation": {
+          "metaVodId": "50059",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50059.json",
+          "startId": 4,
+          "clockStart": "14:34:34"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 13,
+        "rednerRaw": "Jürgen Eberwein (CSU)",
+        "gruppeRaw": "CSU",
+        "clockStart": "14:34:34",
+        "metaVodId": "50059"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T14:35:23",
+      "dateEnd": "2025-06-05T14:35:23",
+      "speechIndex": 63,
+      "originID": "50059_5",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 8 Antrag LKW-Führerschein für die Mitglieder der Blaulichtfamilie vereinfachen!",
+        "title": "TOP 8 Antrag LKW-Führerschein für die Mitglieder der Blaulichtfamilie vereinfachen!",
+        "id": "TOP-13",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Markus Büchler",
+          "context": "main-speaker",
+          "firstname": "Markus",
+          "lastname": "Büchler",
+          "faction": {
+            "label": "BÜNDNIS 90/DIE GRÜNEN",
+            "wid": "Q49766"
+          },
+          "wid": "Q57412387",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605143523_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50059.json&startId=5",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50059_5",
+        "additionalInformation": {
+          "metaVodId": "50059",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50059.json",
+          "startId": 5,
+          "clockStart": "14:35:23"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 13,
+        "rednerRaw": "Dr. Markus Büchler (BÜNDNIS 90/DIE GRÜNEN)",
+        "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
+        "clockStart": "14:35:23",
+        "metaVodId": "50059"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T14:38:19",
+      "dateEnd": "2025-06-05T14:38:19",
+      "speechIndex": 64,
+      "originID": "50059_6",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 8 Antrag LKW-Führerschein für die Mitglieder der Blaulichtfamilie vereinfachen!",
+        "title": "TOP 8 Antrag LKW-Führerschein für die Mitglieder der Blaulichtfamilie vereinfachen!",
+        "id": "TOP-13",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Tobias Beck",
+          "context": "main-speaker",
+          "firstname": "Tobias",
+          "lastname": "Beck",
+          "faction": {
+            "label": "FREIE WÄHLER",
+            "wid": "Q1231839"
+          },
+          "wid": "Q123051553",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605143819_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50059.json&startId=6",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50059_6",
+        "additionalInformation": {
+          "metaVodId": "50059",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50059.json",
+          "startId": 6,
+          "clockStart": "14:38:19"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 13,
+        "rednerRaw": "Tobias Beck (FREIE WÄHLER)",
+        "gruppeRaw": "FREIE WÄHLER",
+        "clockStart": "14:38:19",
+        "metaVodId": "50059"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T14:42:11",
+      "dateEnd": "2025-06-05T14:42:11",
+      "speechIndex": 65,
+      "originID": "50059_7",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 8 Antrag LKW-Führerschein für die Mitglieder der Blaulichtfamilie vereinfachen!",
+        "title": "TOP 8 Antrag LKW-Führerschein für die Mitglieder der Blaulichtfamilie vereinfachen!",
+        "id": "TOP-13",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Sabine Gross",
+          "context": "main-speaker",
+          "firstname": "Sabine",
+          "lastname": "Gross",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q124290993",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605144211_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50059.json&startId=7",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50059_7",
+        "additionalInformation": {
+          "metaVodId": "50059",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50059.json",
+          "startId": 7,
+          "clockStart": "14:42:11"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 13,
+        "rednerRaw": "Sabine Gross (SPD)",
+        "gruppeRaw": "SPD",
+        "clockStart": "14:42:11",
+        "metaVodId": "50059"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T14:44:03",
+      "dateEnd": "2025-06-05T14:44:03",
+      "speechIndex": 66,
+      "originID": "50060_1",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "Gemeinsamer Aufruf der Tagesordnungspunkte 9 bis 13 TOP 9 Antrag Bürokratie abbauen: Wegfall der Wohnungsgeberbestätigung TOP 10 Antrag Bürokratie abbauen, Ausländerbehörden entlasten I: Plattform mit bayernweit einheitlichen Standards zur Aktenversendung TOP 11 Antrag Bürokratie abbauen, Ausländerbehörden entlasten II: Beteiligung der Bundesagentur für Arbeit bei Antrag auf Beschäftigungsverhältnis streichen TOP 12 Antrag Bürokratie abbauen, Ausländerbehörden entlasten III: Wartezeitauskunft der Deutschen Rentenversicherung bei Erteilung einer Niederlassungserlaubnis digitalisieren TOP 13 Antrag Bürokratie abbauen, Ausländerbehörden entlasten IV: Bei befristeten Aufenthaltstiteln auf Passdaten verzichten",
+        "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 9 bis 13 TOP 9 Antrag Bürokratie abbauen: Wegfall der Wohnungsgeberbestätigung TOP 10 Antrag Bürokratie abbauen, Ausländerbehörden entlasten I: Plattform mit bayernweit einheitlichen Standards zur Aktenversendung TOP 11 Antrag Bürokratie abbauen, Ausländerbehörden entlasten II: Beteiligung der Bundesagentur für Arbeit bei Antrag auf Beschäftigungsverhältnis streichen TOP 12 Antrag Bürokratie abbauen, Ausländerbehörden entlasten III: Wartezeitauskunft der Deutschen Rentenversicherung bei Erteilung einer Niederlassungserlaubnis digitalisieren TOP 13 Antrag Bürokratie abbauen, Ausländerbehörden entlasten IV: Bei befristeten Aufenthaltstiteln auf Passdaten verzichten",
+        "id": "TOP-14",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Johannes Becher",
+          "context": "main-speaker",
+          "firstname": "Johannes",
+          "lastname": "Becher",
+          "faction": {
+            "label": "BÜNDNIS 90/DIE GRÜNEN",
+            "wid": "Q49766"
+          },
+          "wid": "Q57497013",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605144403_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50060.json&startId=1",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50060_1",
+        "additionalInformation": {
+          "metaVodId": "50060",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50060.json",
+          "startId": 1,
+          "clockStart": "14:44:03"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 14,
+        "rednerRaw": "Johannes Becher (BÜNDNIS 90/DIE GRÜNEN)",
+        "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
+        "clockStart": "14:44:03",
+        "metaVodId": "50060"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T14:49:30",
+      "dateEnd": "2025-06-05T14:49:30",
+      "speechIndex": 67,
+      "originID": "50060_2",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "Gemeinsamer Aufruf der Tagesordnungspunkte 9 bis 13 TOP 9 Antrag Bürokratie abbauen: Wegfall der Wohnungsgeberbestätigung TOP 10 Antrag Bürokratie abbauen, Ausländerbehörden entlasten I: Plattform mit bayernweit einheitlichen Standards zur Aktenversendung TOP 11 Antrag Bürokratie abbauen, Ausländerbehörden entlasten II: Beteiligung der Bundesagentur für Arbeit bei Antrag auf Beschäftigungsverhältnis streichen TOP 12 Antrag Bürokratie abbauen, Ausländerbehörden entlasten III: Wartezeitauskunft der Deutschen Rentenversicherung bei Erteilung einer Niederlassungserlaubnis digitalisieren TOP 13 Antrag Bürokratie abbauen, Ausländerbehörden entlasten IV: Bei befristeten Aufenthaltstiteln auf Passdaten verzichten",
+        "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 9 bis 13 TOP 9 Antrag Bürokratie abbauen: Wegfall der Wohnungsgeberbestätigung TOP 10 Antrag Bürokratie abbauen, Ausländerbehörden entlasten I: Plattform mit bayernweit einheitlichen Standards zur Aktenversendung TOP 11 Antrag Bürokratie abbauen, Ausländerbehörden entlasten II: Beteiligung der Bundesagentur für Arbeit bei Antrag auf Beschäftigungsverhältnis streichen TOP 12 Antrag Bürokratie abbauen, Ausländerbehörden entlasten III: Wartezeitauskunft der Deutschen Rentenversicherung bei Erteilung einer Niederlassungserlaubnis digitalisieren TOP 13 Antrag Bürokratie abbauen, Ausländerbehörden entlasten IV: Bei befristeten Aufenthaltstiteln auf Passdaten verzichten",
+        "id": "TOP-14",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Peter Wachler",
+          "context": "main-speaker",
+          "firstname": "Peter",
+          "lastname": "Wachler",
+          "faction": {
+            "label": "CSU",
+            "wid": "Q49763"
+          },
+          "wid": "Q121088038",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605144930_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50060.json&startId=2",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50060_2",
+        "additionalInformation": {
+          "metaVodId": "50060",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50060.json",
+          "startId": 2,
+          "clockStart": "14:49:30"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 14,
+        "rednerRaw": "Peter Wachler (CSU)",
+        "gruppeRaw": "CSU",
+        "clockStart": "14:49:30",
+        "metaVodId": "50060"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T14:57:48",
+      "dateEnd": "2025-06-05T14:57:48",
+      "speechIndex": 68,
+      "originID": "50060_3",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "Gemeinsamer Aufruf der Tagesordnungspunkte 9 bis 13 TOP 9 Antrag Bürokratie abbauen: Wegfall der Wohnungsgeberbestätigung TOP 10 Antrag Bürokratie abbauen, Ausländerbehörden entlasten I: Plattform mit bayernweit einheitlichen Standards zur Aktenversendung TOP 11 Antrag Bürokratie abbauen, Ausländerbehörden entlasten II: Beteiligung der Bundesagentur für Arbeit bei Antrag auf Beschäftigungsverhältnis streichen TOP 12 Antrag Bürokratie abbauen, Ausländerbehörden entlasten III: Wartezeitauskunft der Deutschen Rentenversicherung bei Erteilung einer Niederlassungserlaubnis digitalisieren TOP 13 Antrag Bürokratie abbauen, Ausländerbehörden entlasten IV: Bei befristeten Aufenthaltstiteln auf Passdaten verzichten",
+        "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 9 bis 13 TOP 9 Antrag Bürokratie abbauen: Wegfall der Wohnungsgeberbestätigung TOP 10 Antrag Bürokratie abbauen, Ausländerbehörden entlasten I: Plattform mit bayernweit einheitlichen Standards zur Aktenversendung TOP 11 Antrag Bürokratie abbauen, Ausländerbehörden entlasten II: Beteiligung der Bundesagentur für Arbeit bei Antrag auf Beschäftigungsverhältnis streichen TOP 12 Antrag Bürokratie abbauen, Ausländerbehörden entlasten III: Wartezeitauskunft der Deutschen Rentenversicherung bei Erteilung einer Niederlassungserlaubnis digitalisieren TOP 13 Antrag Bürokratie abbauen, Ausländerbehörden entlasten IV: Bei befristeten Aufenthaltstiteln auf Passdaten verzichten",
+        "id": "TOP-14",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Johannes Becher",
+          "context": "main-speaker",
+          "firstname": "Johannes",
+          "lastname": "Becher",
+          "faction": {
+            "label": "BÜNDNIS 90/DIE GRÜNEN",
+            "wid": "Q49766"
+          },
+          "wid": "Q57497013",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605145748_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50060.json&startId=3",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50060_3",
+        "additionalInformation": {
+          "metaVodId": "50060",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50060.json",
+          "startId": 3,
+          "clockStart": "14:57:48"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 14,
+        "rednerRaw": "Johannes Becher (BÜNDNIS 90/DIE GRÜNEN)",
+        "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
+        "clockStart": "14:57:48",
+        "metaVodId": "50060"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T14:59:05",
+      "dateEnd": "2025-06-05T14:59:05",
+      "speechIndex": 69,
+      "originID": "50060_4",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "Gemeinsamer Aufruf der Tagesordnungspunkte 9 bis 13 TOP 9 Antrag Bürokratie abbauen: Wegfall der Wohnungsgeberbestätigung TOP 10 Antrag Bürokratie abbauen, Ausländerbehörden entlasten I: Plattform mit bayernweit einheitlichen Standards zur Aktenversendung TOP 11 Antrag Bürokratie abbauen, Ausländerbehörden entlasten II: Beteiligung der Bundesagentur für Arbeit bei Antrag auf Beschäftigungsverhältnis streichen TOP 12 Antrag Bürokratie abbauen, Ausländerbehörden entlasten III: Wartezeitauskunft der Deutschen Rentenversicherung bei Erteilung einer Niederlassungserlaubnis digitalisieren TOP 13 Antrag Bürokratie abbauen, Ausländerbehörden entlasten IV: Bei befristeten Aufenthaltstiteln auf Passdaten verzichten",
+        "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 9 bis 13 TOP 9 Antrag Bürokratie abbauen: Wegfall der Wohnungsgeberbestätigung TOP 10 Antrag Bürokratie abbauen, Ausländerbehörden entlasten I: Plattform mit bayernweit einheitlichen Standards zur Aktenversendung TOP 11 Antrag Bürokratie abbauen, Ausländerbehörden entlasten II: Beteiligung der Bundesagentur für Arbeit bei Antrag auf Beschäftigungsverhältnis streichen TOP 12 Antrag Bürokratie abbauen, Ausländerbehörden entlasten III: Wartezeitauskunft der Deutschen Rentenversicherung bei Erteilung einer Niederlassungserlaubnis digitalisieren TOP 13 Antrag Bürokratie abbauen, Ausländerbehörden entlasten IV: Bei befristeten Aufenthaltstiteln auf Passdaten verzichten",
+        "id": "TOP-14",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Peter Wachler",
+          "context": "main-speaker",
+          "firstname": "Peter",
+          "lastname": "Wachler",
+          "faction": {
+            "label": "CSU",
+            "wid": "Q49763"
+          },
+          "wid": "Q121088038",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605145905_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50060.json&startId=4",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50060_4",
+        "additionalInformation": {
+          "metaVodId": "50060",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50060.json",
+          "startId": 4,
+          "clockStart": "14:59:05"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 14,
+        "rednerRaw": "Peter Wachler (CSU)",
+        "gruppeRaw": "CSU",
+        "clockStart": "14:59:05",
+        "metaVodId": "50060"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T14:59:57",
+      "dateEnd": "2025-06-05T14:59:57",
+      "speechIndex": 70,
+      "originID": "50060_5",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "Gemeinsamer Aufruf der Tagesordnungspunkte 9 bis 13 TOP 9 Antrag Bürokratie abbauen: Wegfall der Wohnungsgeberbestätigung TOP 10 Antrag Bürokratie abbauen, Ausländerbehörden entlasten I: Plattform mit bayernweit einheitlichen Standards zur Aktenversendung TOP 11 Antrag Bürokratie abbauen, Ausländerbehörden entlasten II: Beteiligung der Bundesagentur für Arbeit bei Antrag auf Beschäftigungsverhältnis streichen TOP 12 Antrag Bürokratie abbauen, Ausländerbehörden entlasten III: Wartezeitauskunft der Deutschen Rentenversicherung bei Erteilung einer Niederlassungserlaubnis digitalisieren TOP 13 Antrag Bürokratie abbauen, Ausländerbehörden entlasten IV: Bei befristeten Aufenthaltstiteln auf Passdaten verzichten",
+        "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 9 bis 13 TOP 9 Antrag Bürokratie abbauen: Wegfall der Wohnungsgeberbestätigung TOP 10 Antrag Bürokratie abbauen, Ausländerbehörden entlasten I: Plattform mit bayernweit einheitlichen Standards zur Aktenversendung TOP 11 Antrag Bürokratie abbauen, Ausländerbehörden entlasten II: Beteiligung der Bundesagentur für Arbeit bei Antrag auf Beschäftigungsverhältnis streichen TOP 12 Antrag Bürokratie abbauen, Ausländerbehörden entlasten III: Wartezeitauskunft der Deutschen Rentenversicherung bei Erteilung einer Niederlassungserlaubnis digitalisieren TOP 13 Antrag Bürokratie abbauen, Ausländerbehörden entlasten IV: Bei befristeten Aufenthaltstiteln auf Passdaten verzichten",
+        "id": "TOP-14",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Jörg Baumann",
+          "context": "main-speaker",
+          "firstname": "Jörg",
+          "lastname": "Baumann",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "wid": "Q123465259",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605145957_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50060.json&startId=5",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50060_5",
+        "additionalInformation": {
+          "metaVodId": "50060",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50060.json",
+          "startId": 5,
+          "clockStart": "14:59:57"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 14,
+        "rednerRaw": "Jörg Baumann (AfD)",
+        "gruppeRaw": "AfD",
+        "clockStart": "14:59:57",
+        "metaVodId": "50060"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T15:03:57",
+      "dateEnd": "2025-06-05T15:03:57",
+      "speechIndex": 71,
+      "originID": "50060_6",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "Gemeinsamer Aufruf der Tagesordnungspunkte 9 bis 13 TOP 9 Antrag Bürokratie abbauen: Wegfall der Wohnungsgeberbestätigung TOP 10 Antrag Bürokratie abbauen, Ausländerbehörden entlasten I: Plattform mit bayernweit einheitlichen Standards zur Aktenversendung TOP 11 Antrag Bürokratie abbauen, Ausländerbehörden entlasten II: Beteiligung der Bundesagentur für Arbeit bei Antrag auf Beschäftigungsverhältnis streichen TOP 12 Antrag Bürokratie abbauen, Ausländerbehörden entlasten III: Wartezeitauskunft der Deutschen Rentenversicherung bei Erteilung einer Niederlassungserlaubnis digitalisieren TOP 13 Antrag Bürokratie abbauen, Ausländerbehörden entlasten IV: Bei befristeten Aufenthaltstiteln auf Passdaten verzichten",
+        "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 9 bis 13 TOP 9 Antrag Bürokratie abbauen: Wegfall der Wohnungsgeberbestätigung TOP 10 Antrag Bürokratie abbauen, Ausländerbehörden entlasten I: Plattform mit bayernweit einheitlichen Standards zur Aktenversendung TOP 11 Antrag Bürokratie abbauen, Ausländerbehörden entlasten II: Beteiligung der Bundesagentur für Arbeit bei Antrag auf Beschäftigungsverhältnis streichen TOP 12 Antrag Bürokratie abbauen, Ausländerbehörden entlasten III: Wartezeitauskunft der Deutschen Rentenversicherung bei Erteilung einer Niederlassungserlaubnis digitalisieren TOP 13 Antrag Bürokratie abbauen, Ausländerbehörden entlasten IV: Bei befristeten Aufenthaltstiteln auf Passdaten verzichten",
+        "id": "TOP-14",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Markus Saller",
+          "context": "main-speaker",
+          "firstname": "Markus",
+          "lastname": "Saller",
+          "faction": {
+            "label": "FREIE WÄHLER",
+            "wid": "Q1231839"
+          },
+          "wid": "Q123238205",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605150357_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50060.json&startId=6",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50060_6",
+        "additionalInformation": {
+          "metaVodId": "50060",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50060.json",
+          "startId": 6,
+          "clockStart": "15:03:57"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 14,
+        "rednerRaw": "Markus Saller (FREIE WÄHLER)",
+        "gruppeRaw": "FREIE WÄHLER",
+        "clockStart": "15:03:57",
+        "metaVodId": "50060"
+      }
+    },
+    {
+      "parliament": "DE-BY",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 52,
+        "dateStart": "2025-06-05T07:01:56",
+        "dateEnd": "2025-06-05T15:08:58"
+      },
+      "dateStart": "2025-06-05T15:08:58",
+      "dateEnd": "2025-06-05T15:08:58",
+      "speechIndex": 72,
+      "originID": "50060_7",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "Gemeinsamer Aufruf der Tagesordnungspunkte 9 bis 13 TOP 9 Antrag Bürokratie abbauen: Wegfall der Wohnungsgeberbestätigung TOP 10 Antrag Bürokratie abbauen, Ausländerbehörden entlasten I: Plattform mit bayernweit einheitlichen Standards zur Aktenversendung TOP 11 Antrag Bürokratie abbauen, Ausländerbehörden entlasten II: Beteiligung der Bundesagentur für Arbeit bei Antrag auf Beschäftigungsverhältnis streichen TOP 12 Antrag Bürokratie abbauen, Ausländerbehörden entlasten III: Wartezeitauskunft der Deutschen Rentenversicherung bei Erteilung einer Niederlassungserlaubnis digitalisieren TOP 13 Antrag Bürokratie abbauen, Ausländerbehörden entlasten IV: Bei befristeten Aufenthaltstiteln auf Passdaten verzichten",
+        "title": "Gemeinsamer Aufruf der Tagesordnungspunkte 9 bis 13 TOP 9 Antrag Bürokratie abbauen: Wegfall der Wohnungsgeberbestätigung TOP 10 Antrag Bürokratie abbauen, Ausländerbehörden entlasten I: Plattform mit bayernweit einheitlichen Standards zur Aktenversendung TOP 11 Antrag Bürokratie abbauen, Ausländerbehörden entlasten II: Beteiligung der Bundesagentur für Arbeit bei Antrag auf Beschäftigungsverhältnis streichen TOP 12 Antrag Bürokratie abbauen, Ausländerbehörden entlasten III: Wartezeitauskunft der Deutschen Rentenversicherung bei Erteilung einer Niederlassungserlaubnis digitalisieren TOP 13 Antrag Bürokratie abbauen, Ausländerbehörden entlasten IV: Bei befristeten Aufenthaltstiteln auf Passdaten verzichten",
+        "id": "TOP-14",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Katja Weitzel",
+          "context": "main-speaker",
+          "firstname": "Katja",
+          "lastname": "Weitzel",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q123045991",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://cldf-wzw-od.r53.cdn.tv1.eu/5112ltbyod/i/ondem/vcd/20250605150858_1_,1,2,3,4,_00001.mp4.csmil/master.m3u8",
+        "sourcePage": "https://www.bayern.landtag.de/plon-webanzeige/views/ondemand/ondemand-playlist-param.html?playlist=https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50060.json&startId=7",
+        "creator": "Bayerischer Landtag",
+        "license": "Bayerischer Landtag – Plenarvideos sind urheberrechtlich geschützt; Vervielfältigung oder Verwendung nur mit vorheriger Genehmigung. Quelle: Bayerischer Landtag.",
+        "originMediaID": "50060_7",
+        "additionalInformation": {
+          "metaVodId": "50060",
+          "playlistURI": "https://www.bayern.landtag.de/streamingservice/jsonmetafiles/wp19/19_623/meta_vod_50060.json",
+          "startId": 7,
+          "clockStart": "15:08:58"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plon",
+        "topIndex": 14,
+        "rednerRaw": "Katja Weitzel (SPD)",
+        "gruppeRaw": "SPD",
+        "clockStart": "15:08:58",
+        "metaVodId": "50060"
+      }
+    }
+  ]
+}
